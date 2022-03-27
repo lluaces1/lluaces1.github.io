@@ -1,2 +1,2 @@
 # lluaces1.github.io
-test A line I added and then some. Oh shit it's working!!!
+This is a test version of a website for the SADCAT Lab at Indiana University - Bloomington. 
