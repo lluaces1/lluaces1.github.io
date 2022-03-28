@@ -1,12 +1,12 @@
 name: "my-website"
 navbar:
-  title: "SADCAT Lab"
+  title: "<span style="color: crimson;">SADCAT Lab</span>"
   left:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
-    - text: "Projects"
+    - text: "Active projects"
       href: projects.html
 output:
   html_document:
