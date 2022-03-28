@@ -2,9 +2,9 @@
 title: "Active projects"
 ---
 
-(Under construction.) Below are descriptions of projects that the lab has ongoing. We tried to organize them by theme but this is not an exact classification scheme. **Prof. Lorenzo-Luaces is the PI for the projects below, unless otherwise noted.** For all these projects we usually take special attention to *individual differences,* the idea that what may appear to be true, on average, may differ across groups of people.
+(Under construction.) Below are descriptions of projects that the lab has ongoing. We tried to organize them by theme but this is not an exact classification scheme. *Prof. Lorenzo-Luaces is the PI for the projects below, unless otherwise noted.* For all these projects we usually take special attention to *individual differences,* the idea that what may appear to be true, on average, may differ across groups of people.
 
-# Reducing disparities in access to care
+# **Reducing disparities in access to care**
 
 Psychological interventions are effective treatments for depression, anxiety, stress, insomnia, and other common mental health concerns. Despite this, it is very difficult for most people to access treatments because they are expensive, time-consuming, and difficult to find. We have several projects studying interventions that are not as expensive as face-to-face psychotherapy with trained therapists, including internet apps and books. The projects include:
 
@@ -24,13 +24,14 @@ One commonality of depression, anxiety, stress, insomnia, and other common menta
 - Cognitive reappraisal of LGB-identity vs. non-LGB-identity stress in LGBT young adults (PI: De Jesús-Romero)
 - Mechanisms of change in transdiagnostic guided self-help (PI: De Jesús-Romero)
 
+# Social media and mental health
 
-# CHARACTERIZING HETEROGENEITY TO DEPRESSION
-Surveys of Online Cohorts for Internalizing Symptoms and Language (SOCIaL) (with Co-PIs: Bollen, Rutter, and Valdez)
+Social media is a relatively recent development of modern life. As of 2021, over 75% of adults in the United States are on a social media platform. That alone makes social media an interesting topic to study. More important to our work, there are reported correlations between social media use and poorer mental health with some worrying that social media use *causes* poorer mental health, at least in some people. While we do not know if this is true, social media is also interesting from a research perspective because people openly talk about their mental health and some social media behaviors can clue you in to people's mental health (e.g., when individuals discuss feeling sad). Moreover, we can make inferences about people mental health and emotions based on their behavior. For example, using a lot of curse words can suggest that somebody is feeling negative emotions.
 
+We have several ongoing studies under the umbrella of the Surveys of Online Cohorts for Internalizing symptoms And Language (SOCIAL). In SOCIAL-I, we surveyed a nationally representative sample of 1121 U.S. adults and administered a transdiagnostic battery of symptom assessments. We also obtained their consent to access their social media accounts. The aim of the project is to triangulate self-reported mental health data and social media activity. SOCIAL-II is an ongoing study that has overlapping measures with SOCIAL-I but expands the assessments to include temperament and eating pathology. We’ve recruited at least 2,015 college students and continue to collect each semester.
 
+# Miscellaneous
 
-# CHARACTERIZING DEPRESSION AND OTHER INTERNALIZING SYMPTOMS IN SOCIAL MEDIA
-Heterogeneity of depression and melancholia in clinical and nationally representative samples (PI: Buss)
+We are very interested in mental health treatment and diagnosis. Some of our other projects that do not fall neatly into one of the three categories I described above include:
 
-Survey of Online Cohorts for Internalizing symptoms And Language (SOCIAL). In SOCIAL-I, we surveyed a nationally representative sample of 1121 U.S. adults and administered a transdiagnostic battery of symptom assessments. We also obtained their consent to access their social media accounts. The aim of the project is to triangulate self-reported mental health data and social media activity. SOCIAL-II is an ongoing study that has overlapping measures with SOCIAL-I but expands the assessments to include temperament and eating pathology. We’ve recruited at least 2,015 college students and continue to collect each semester.
+- Heterogeneity of depression and the contribution of specifier symptoms like melancholia to heterogeneity (PI: Buss)
