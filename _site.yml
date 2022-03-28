@@ -1,6 +1,6 @@
 name: "my-website"
 navbar:
-  title: "SADCAT Lab"
+  title: "<span style="color: crimson;">SADCAT Lab</span>"
   left:
     - text: "Home"
       href: index.html
