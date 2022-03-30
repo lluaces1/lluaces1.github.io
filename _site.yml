@@ -4,6 +4,8 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "People"
+      href: people.html
     - text: "Projects"
       href: projects.html
     - text: "Our papers"
