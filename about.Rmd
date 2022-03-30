@@ -8,3 +8,4 @@ csl: _apa.csl
 
 
 Below you can find all the papers associated to Prof. Lorenzo-Luaces. Not all these papers were written primarily while I was at the **Indiana University** but they are all representative of the interests of the lab. Some of these papers were written while I was at the University of Pennsylvania or by colleagues in Amsterdam or Spain!
+
