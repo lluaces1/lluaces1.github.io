@@ -2,7 +2,9 @@
 title: " "
 ---
 
+<center>
 <h1 style="color:#990000">**Active projects**</h1>
+</center>
 
 (Under construction.) Below are descriptions of projects that the lab has ongoing. We tried to organize them by theme but this is not an exact classification scheme. *Prof. Lorenzo-Luaces is the PI for the projects below, unless otherwise noted.* For all these projects we usually take special attention to *individual differences,* the idea that what may appear to be true, on average, may differ across groups of people.
 

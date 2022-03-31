@@ -1,0 +1,19 @@
+---
+title: ""
+---
+
+<center>
+<h1 style="color:#990000">**Contact us!**</h1>
+</center>
+
+
+There are many ways to reach us. Below some:
+
+Twitter: 
+
+- [Prof. Lorenzo-Luaces' Twitter](twitter.com/lluaces)
+- [Lab Twitter](twitter.com/SADCATlabIU)
+
+Facebook:
+
+E-mail: lolorenz@indiana.edu

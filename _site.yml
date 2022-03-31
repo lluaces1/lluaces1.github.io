@@ -10,6 +10,8 @@ navbar:
       href: projects.html
     - text: "Our papers"
       href: about.html
+    - text: "Contact us"
+      href: contact.html
 output:
   html_document:
     theme: cosmo
