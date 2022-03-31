@@ -19,15 +19,22 @@ title: " "
 ##### Current lab members
 
 ***
-![**Lorenzo Lorenzo-Luaces, PhD, Assistant Professor, Indiana University-Bloomington**](pictures/LLL.jpg){height=250px width=250px}
+![**Lorenzo Lorenzo-Luaces, PhD <br> Assistant Professor <br> Indiana University-Bloomington <br> E-mail**: lolorenz@indiana.edu](pictures/LLL.jpg){height=250px width=250px}
 
 Internalizing symptoms like **depression and anxiety** are leading causes of disability worldwide. Overall, **cognitive-behavioral therapies** are effective interventions for depression and anxiety. However, not all who complete a course of CBT treatment experience a remission of their symptoms, we do not know who will experience positive outcomes following CBTs, and we have a somewhat limited understanding of how CBTs achieve their effects. I am an expert in CBT for depression having studied **outcomes** and **processes** of change in treatment. A major line of my work involves exploring the **heterogeneity** of depression and other clinical problems to uncover individual differences in treatments outcomes and processes, especially those differences that emerge from **data-driven** approaches. 
 Although I believe that studying individual differences can get us closer to data-driven personalization of treatment for depression and anxiety, I am also aware that many individuals get better without needing "personalization" and that CBTs are very hard to access. So, a line of my work involves studying **low-intensity** ways of delivering CBTs including by using internet-based CBTs (iCBT) and CBT content delivered via books ("bibliotherapy"). We know from great work by others that low-intensity CBT can be as effective as CBT delivered more "traditionally" like face-to-face in weekly sessions but our work involves studying the acceptability and dissemination of these interventions to clinicians and patients. More recently, I have also become interested in studying vulnerability to depression and anxiety as can be indexed with data and meta-data that we can acquire from individuals passively (e.g., by mining their **social media** accounts).  
 
 ***
-![**Jacqueline Howard, BA, SADCAT Lab Manager, Indiana University-Bloomington**](pictures/JH.jpg){height=250px width=250px}
+![**Jacqueline Howard, BA <br> SADCAT Lab Manager <br> Indiana University-Bloomington**](pictures/JH.jpg){height=250px width=250px}
 
-My primary research interests focus on dissemination and implementation, specifically the implementation of measurement-based care in community settings, as well as the impact of traumatic experiences on functioning and emotion regulation. Currently I am working on a project assessing whether anxiety is a superior predictor of decreased functioning and well-being in individuals with symptoms of borderline personality disorder (BPD). 
+My primary research interests focus on **dissemination** and **implementation**, specifically the implementation of measurement-based care in community settings, as well as the impact of **trauma** on functioning and **emotion regulation**. Currently I am working on a project assessing whether anxiety is a superior predictor of decreased functioning and well-being in individuals with symptoms of borderline personality disorder (BPD). 
+
+***
+
+
+![**Robinson De Jesus-Romero, M.S., Graduate Student, Indiana University-Bloomington**](pictures/RDJR.jpg){height=250px width=250px}
+
+Before coming to Indiana University, I graduated from the University of Puerto Rico-Rio Piedras with a Bachelor of Arts in Psychology. I then completed a Master of Science in Research in Behavior and Cognition at the University of Barcelona. My current interests revolve around **internet-based therapies**, **emotion regulation**, and individualized treatment for depression. Specifically, I am interested in improving the efficacy and access to internet-based therapies, as well as studying emotion regulation as a way to personalize treatment. A special focus of my work is improving health for individuals from minoritized backgrounds, including **racial-ethinic minorities** and lesbian, gay, bisexual, and trans/gender non-conforming (**LGQT+**) individuals.
 
 ***
 
