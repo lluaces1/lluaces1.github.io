@@ -7,13 +7,16 @@ title: ""
 </center>
 
 
+
 There are many ways to reach us. Below some:
 
-Twitter: 
+**Twitter**: 
 
 - [Prof. Lorenzo-Luaces' Twitter](https://twitter.com/lluaces)
-- [Lab Twitter](twitter.com/SADCATlabIU)
+- [Lab Twitter](https://twitter.com/sadcat_labiu)
 
-Facebook:
+**Facebook**:
 
-E-mail: lolorenz@indiana.edu
+**E-mail**: 
+- lolorenz@indiana.edu
+- sadcat@indiana.edu

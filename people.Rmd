@@ -2,6 +2,17 @@
 title: " "
 ---
 
+<style>
+  .nav-pills>li>a:hover, 
+  .nav-pills>li>a:focus, 
+  .nav-pills>li.active>a,     
+  .nav-pills>li.active>a:hover, 
+  .nav-pills>li.active>a:focus{
+     background-color: #990000;
+     }
+</style>
+
+
 #### Most of the work done is the lab in the product of *collaborations* within the lab or with professionals from other universities. {.tabset .tabset-fade .tabset-pills}
 
 
@@ -13,8 +24,6 @@ title: " "
 Internalizing symptoms like **depression and anxiety** are leading causes of disability worldwide. Overall, **cognitive-behavioral therapies** are effective interventions for depression and anxiety. However, not all who complete a course of CBT treatment experience a remission of their symptoms, we do not know who will experience positive outcomes following CBTs, and we have a somewhat limited understanding of how CBTs achieve their effects. I am an expert in CBT for depression having studied **outcomes** and **processes** of change in treatment. A major line of my work involves exploring the **heterogeneity** of depression and other clinical problems to uncover individual differences in treatments outcomes and processes, especially those differences that emerge from **data-driven** approaches. 
 Although I believe that studying individual differences can get us closer to data-driven personalization of treatment for depression and anxiety, I am also aware that many individuals get better without needing "personalization" and that CBTs are very hard to access. So, a line of my work involves studying **low-intensity** ways of delivering CBTs including by using internet-based CBTs (iCBT) and CBT content delivered via books ("bibliotherapy"). We know from great work by others that low-intensity CBT can be as effective as CBT delivered more "traditionally" like face-to-face in weekly sessions but our work involves studying the acceptability and dissemination of these interventions to clinicians and patients. More recently, I have also become interested in studying vulnerability to depression and anxiety as can be indexed with data and meta-data that we can acquire from individuals passively (e.g., by mining their **social media** accounts).  
 
-I am interested in the treatment and classification of depression, including its classification and differentiation from normal sadness. My research has focused primarily on the outcomes and processes of change in depression treatments, especially cognitive-behavioral therapies (CBTs). An overarching theme of my work is that the level of heterogeneity in the clinical presentation (e.g., symptoms) and in the prognosis of depression needs to be considered when studying etiology and treatments. My colleagues and I have worked on identifying, combining, and using patient-level variables to select what treatments would be optimal for a given patient. I am especially interested in using data to guide individuals to the level of care (e.g., watchful waiting vs. intensive psychotherapy) that would be most appropriate for them. I also study treatment processes with a focus on the roles of the working alliance and cognitive change. Here we have also found evidence that individual differences need to be considered to fully understand treatments processes. Finally, we are also studying the ways that data and meta-data that can be collected passively from individuals, for example via social media, can be used to understand depression, including its treatment. 
-
 ***
 ![**Jacqueline Howard, BA, SADCAT Lab Manager, Indiana University-Bloomington**](pictures/JH.jpg){height=250px width=250px}
 
@@ -24,7 +33,13 @@ My primary research interests focus on dissemination and implementation, specifi
 
 ##### Past lab members
 
-Tennisha N. Riley, PhD
+
+***
+![**Tennisha N. Riley, Assistant Professor, Indiana University-Bloomington**](pictures/TNR.jpg){height=250px width=250px}
+
+Tennisha N. Riley joined the SADCAT lab in 2018 as a postdoctoral fellow at the Indiana University Center for Research on Race and Ethnicity in Society (CRRES) after receiving her PhD in Developmental Psychology from Virginia Commonwealth University. Tennisha is an adolescent researcher who examines emotion expression and emotion regulation within social context broadly. Her primary research focus is on understanding the emotional development of Black youth, examining how Black youth’s social context (family, friends, school) influence emotion expression and emotion regulation, as well as the role emotion expression and emotion regulation play in Black youth’s decisions to engage in both risk-related and prosocial behaviors. Tennisha is now an [Assistant Professor in IU's School of Education’s Counseling and Educational Psychology Department.](https://education.indiana.edu/about/directory/profiles/riley-tennisha.html)
+
+
 
 Emily Johns
 
@@ -36,7 +51,14 @@ Devon Miller
 
 ##### Collaborators
 
-Johan Bollen, PhD
-Suzanne van Bronswijk, PhD
+***
+[Johan Bollen, PhD <br> Professor <br> Indiana University-Bloomington](https://homes.luddy.indiana.edu/jbollen/)
+
+***
+
+[Suzanne van Bronswijk, MD, PhD <br> Assistant Professor <br> Maastricht University](https://cris.maastrichtuniversity.nl/en/persons/suzanne-van-bronswijk)
+
+
+**
 Lotte Lemmens, PhD
 
