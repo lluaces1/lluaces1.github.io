@@ -26,6 +26,12 @@ Internalizing symptoms like **depression and anxiety** are leading causes of dis
 Although I believe that studying individual differences can get us closer to data-driven personalization of treatment for depression and anxiety, I am also aware that many individuals get better without needing "personalization" and that CBTs are very hard to access. So, a line of my work involves studying **low-intensity** ways of delivering CBTs including by using internet-based CBTs (iCBT) and CBT content delivered via books ("bibliotherapy"). We know from great work by others that low-intensity CBT can be as effective as CBT delivered more "traditionally" like face-to-face in weekly sessions but our work involves studying the acceptability and dissemination of these interventions to clinicians and patients. More recently, I have also become interested in studying vulnerability to depression and anxiety as can be indexed with data and meta-data that we can acquire from individuals passively (e.g., by mining their **social media** accounts).  
 
 ***
+![**Lauren A. Rutter, PhD <br> Research Scientist <br> Indiana University-Bloomington <br> E-mail:** larutter@indiana.edu](pictures/LAR.jpg){height=175px width=175px}
+
+***
+
+I am broadly interested in the **classification** of mood and anxiety disorders (**internalizing** psychopathology). This includes the structure, comorbidity, and shared **mechanisms** of vulnerability in both clinical and population-based samples. More specifically, in studying mood and anxiety, I am interested in how people process emotional faces and how differences in processing may put them more at risk. My research also examines how changes in **neurocognition** across the **lifespan** are linked to risk for developing symptoms. My newest line of research uses **social media** to study internalizing psychopathology.
+
 ![**Jacqueline Howard, BA <br> SADCAT Lab Manager <br> Indiana University-Bloomington <br> E-mail:** jacqhowa@indiana.edu](pictures/JH.jpg){height=175px width=175px}
 
 My primary research interests focus on **dissemination** and **implementation**, specifically the implementation of measurement-based care in community settings, as well as the impact of **trauma** on functioning and **emotion regulation**. Currently I am working on a project assessing whether anxiety is a superior predictor of decreased functioning and well-being in individuals with symptoms of borderline personality disorder (BPD). 
@@ -41,14 +47,14 @@ Before coming to Indiana University, I graduated from the University of Puerto R
 
 ![**Allison "Alli" Peipert, BS <br> Graduate Student (3rd year) <br> Indiana University-Bloomington <br> E-mail:** apeipert@iu.edu](pictures/AP.jpg){height=175px width=175px}
 
-I am in three broad areas of study: measurement and classification of psychopathology, moderating and mediating factors of treatment efficacy, and translation of research findings into clinical practice. I hope to inform standardized assessment practices, improve our understanding of evidence-based treatment, and identify strategies to integrate research findings into standard care. My current research projects include analyzing patient outcomes from IU’s CBT Training Clinic and implementing an evidence-based screening and assessment practice for mental health using the CAT-MH in local behavioral medicine clinics.
+I am in three broad areas of study: **measurement** and classification of psychopathology, moderating and mediating factors of treatment **efficacy**, and **translation** of research findings into clinical practice. I hope to inform standardized assessment practices, improve our understanding of evidence-based treatment, and identify strategies to integrate research findings into standard care. My current research projects include analyzing patient outcomes from IU’s CBT Training Clinic and implementing an evidence-based screening and assessment practice for mental health using the CAT-MH in local behavioral medicine clinics.
 
 ***
 
 ![**John "Jack" Buss, BS <br> Graduate Student (1st year) <br> Indiana University-Bloomington <br> E-mail:** bussj@iu.edu](pictures/JB.jpg){height=175px width=175px}
 
 
-I am a clinical science graduate student primarily interested in the classification and computational modeling of mood disorders. My current projects include evaluations of the heterogeneity within the melancholic and atypical specifiers for depression and an assessment of melancholic symptoms as represented by the Sydney Melancholia Prototype Index (SMPI). I hope to help further the research field's understanding regarding these traditional depressive subtypes considering depression's potential endophenotypes.
+I am a clinical science graduate student primarily interested in the **classification** and **computational modeling** of mood disorders. My current projects include evaluations of the **heterogeneity** within the **melancholic** and atypical specifiers for depression and an assessment of melancholic symptoms as represented by the Sydney Melancholia Prototype Index (SMPI). I hope to help further the research field's understanding regarding these traditional depressive subtypes considering depression's potential **endophenotypes**.
 
 ***
 
@@ -69,12 +75,13 @@ I am a post-baccalaureate student seeking a second degree in Psychology (B.S) wi
 ![**Colton Lind <br> Research Assistant <br> Indiana University-Bloomington <br> E-mail:** cmlind@iu.edu](pictures/CL.jpg){height=175px width=175px}
 
 
-I am a Junior undergrad here at Indiana University majoring in B.S. Psychology. I am also a part of the Clinical Psychological Science Certificate program. My research interests include internet-based treatments for psychological problems, and the effects of trauma on daily life. Currently, I am working on a project involving mental health apps such as Calm, and Headspace.
+My research interests include *internet-based treatments* for psychological problems, and the effects of **trauma** on daily life. Currently, I am working on a project involving **mental health apps** such as Calm, and Headspace.
 
 #### Past lab members
 
 
 ***
+
 ![**Tennisha N. Riley, Assistant Professor, Indiana University-Bloomington**](pictures/TNR.jpg){height=125px width=125px}
 
 Tennisha N. Riley joined the SADCAT lab in 2018 as a postdoctoral fellow at the Indiana University Center for Research on Race and Ethnicity in Society (CRRES) after receiving her PhD in Developmental Psychology from Virginia Commonwealth University. Tennisha is an adolescent researcher who examines emotion expression and emotion regulation within social context broadly. Her primary research focus is on understanding the emotional development of Black youth, examining how Black youth’s social context (family, friends, school) influence emotion expression and emotion regulation, as well as the role emotion expression and emotion regulation play in Black youth’s decisions to engage in both risk-related and prosocial behaviors. Tennisha is now an [Assistant Professor in IU's School of Education’s Counseling and Educational Psychology Department.](https://education.indiana.edu/about/directory/profiles/riley-tennisha.html)
@@ -101,25 +108,42 @@ I graduated from Indiana University in 2020 with B.S. degrees in human biology a
 
 According to [Scopus](https://www.scopus.com/authid/detail.uri?origin=resultslist&authorId=55897858800&zone=#tab=co-authors), I have at least 64 collaborators. Below, I highlight some of them:
 
+
 ***
+
+![](pictures/JoB.jpg){height=125 width=125px}
+
+[Johan Bollen, PhD <br> Professor <br> Indiana University-Bloomington](https://homes.luddy.indiana.edu/jbollen/)
+
+***
+
+![](pictures/NRQ.jpg){height=125 width=125px}
+
+
+[Natalie Rodriguez-Quintana, PhD, MPH <br> Postdoctoral Research Fellow <br> University of Michigan](https://trailstowellness.org/about/trails-team)
+
+***
+
 ![](pictures/RDJ.jpg){height=125 width=125px}
 
 [Robert J. DeRubeis, PhD <br> Professor <br> University of Pennsylvania](https://psychology.sas.upenn.edu/people/robert-derubeis)
 
 ***
 
-[Natalie Rodriguez-Quintana, PhD, MPH <br> Postdoctoral Research Fellow <br> University of Michigan](https://psychology.sas.upenn.edu/people/robert-derubeis)
+![](pictures/LL.jpg){height=125 width=125px}
+
+[Lotte Lemmens, PhD <br> Assistant Professor <br> Maastricht University](https://cris.maastrichtuniversity.nl/en/persons/suzanne-van-bronswijk)
 
 ***
-[Johan Bollen, PhD <br> Professor <br> Indiana University-Bloomington](https://homes.luddy.indiana.edu/jbollen/)
 
-***
+![](pictures/SVB.jpg){height=125 width=125px}
 
 [Suzanne van Bronswijk, MD, PhD <br> Assistant Professor <br> Maastricht University](https://cris.maastrichtuniversity.nl/en/persons/suzanne-van-bronswijk)
 
 
-**
-Lotte Lemmens, PhD
+***
+
+![](pictures/TNR.jpg){height=125 width=125px}
 
 [Tennisha N. Riley, PhD <br> Assistant Professor <br> Indiana University-Bloomington](https://education.indiana.edu/about/directory/profiles/riley-tennisha.html)
 
