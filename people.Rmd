@@ -15,6 +15,7 @@ title: " "
 
 ### Most of the work done is the lab in the product of *collaborations* within the lab or with professionals from other universities. {.tabset .tabset-fade .tabset-pills}
 
+***
 
 #### Current lab members
 
@@ -63,6 +64,7 @@ Before coming to Indiana University, I completed a B.S. in Psychology and a B.S.
 
 I am a post-baccalaureate student seeking a second degree in Psychology (B.S) with an interest in clinical work. My background is in *harm reduction* services for people who inject *drugs*, experience extreme *poverty*, or participate in other *risky activities*. I am interested in the comorbidity of affective disorders and *substance use disorders*, and the efficacy of brief interventions and self help therapeutic resources in reducing the public health burden of substance use disorders and concomitant affective disorders.
 
+***
 
 ![**Colton Lind <br> Research Assistant <br> Indiana University-Bloomington <br> E-mail:** cmlind@iu.edu](pictures/CL.jpg){height=175px width=175px}
 
@@ -73,21 +75,40 @@ I am a Junior undergrad here at Indiana University majoring in B.S. Psychology. 
 
 
 ***
-![**Tennisha N. Riley, Assistant Professor, Indiana University-Bloomington**](pictures/TNR.jpg){height=175px width=175px}
+![**Tennisha N. Riley, Assistant Professor, Indiana University-Bloomington**](pictures/TNR.jpg){height=125px width=125px}
 
 Tennisha N. Riley joined the SADCAT lab in 2018 as a postdoctoral fellow at the Indiana University Center for Research on Race and Ethnicity in Society (CRRES) after receiving her PhD in Developmental Psychology from Virginia Commonwealth University. Tennisha is an adolescent researcher who examines emotion expression and emotion regulation within social context broadly. Her primary research focus is on understanding the emotional development of Black youth, examining how Black youth’s social context (family, friends, school) influence emotion expression and emotion regulation, as well as the role emotion expression and emotion regulation play in Black youth’s decisions to engage in both risk-related and prosocial behaviors. Tennisha is now an [Assistant Professor in IU's School of Education’s Counseling and Educational Psychology Department.](https://education.indiana.edu/about/directory/profiles/riley-tennisha.html)
 
+***
 
+![**Kendall Riley, B.S. <br> Graduate Student <br> University of Iowa**](pictures/KR.jpg){height=125px width=125px}
 
-Emily Johns
+I graduated from Indiana University in 2020 with B.S. degrees in human biology and psychology. My research interests lie at the intersection of public health, sociology, and criminology. During my undergraduate education, I worked in clinical psychology and social psychology laboratories wherein I was the lead research assistant on projects centered around substance use, stigma, and youth disinhibition. These experiences jumpstarted my interest on adversity, health, and the collateral consequences of incarceration. In graduate school, my main line of research explores incarceration as a social determinant of health. I aim to highlight what fosters resiliency in the face of incarceration, especially for Black families. Outside of research, I enjoy reading, weightlifting, playing with my cats, and online window shopping. 
 
-Kendall Riley
+***
 
-Greg Banks
+![**Emily Johns, BA <br> Graduate Student <br> University of Missouri**](pictures/EJ.jpg){height=125 width=125px}
 
-Devon Miller
+***
 
-#### Collaborators
+**Other lab members**:
+
+- Greg Banks
+- Devon Miller
+- Tres Lamar Kirtley
+
+#### Key collaborators
+
+According to [Scopus](https://www.scopus.com/authid/detail.uri?origin=resultslist&authorId=55897858800&zone=#tab=co-authors), I have at least 64 collaborators. Below, I highlight some of them:
+
+***
+![](pictures/RDJ.jpg){height=125 width=125px}
+
+[Robert J. DeRubeis, PhD <br> Professor <br> University of Pennsylvania](https://psychology.sas.upenn.edu/people/robert-derubeis)
+
+***
+
+[Natalie Rodriguez-Quintana, PhD, MPH <br> Postdoctoral Research Fellow <br> University of Michigan](https://psychology.sas.upenn.edu/people/robert-derubeis)
 
 ***
 [Johan Bollen, PhD <br> Professor <br> Indiana University-Bloomington](https://homes.luddy.indiana.edu/jbollen/)
