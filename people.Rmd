@@ -101,6 +101,58 @@ My research interests include *internet-based treatments* for psychological prob
   
 </div>
 
+#### Key collaborators
+
+According to [Scopus](https://www.scopus.com/authid/detail.uri?origin=resultslist&authorId=55897858800&zone=#tab=co-authors), I have at least 64 collaborators. Below, I highlight some of them:
+
+
+
+<div class = "row">
+  
+<div class = "col-md-4">
+![](pictures/JoB.jpg){height=125 width=125px}
+
+[Johan Bollen, PhD <br> Professor <br> Indiana University-Bloomington](https://homes.luddy.indiana.edu/jbollen/)
+</div>
+
+<div class = "col-md-4">
+![](pictures/NRQ.jpg){height=125 width=125px}
+
+[Natalie Rodriguez-Quintana, PhD, MPH <br> Postdoctoral Research Fellow <br> University of Michigan](https://trailstowellness.org/about/trails-team)
+</div>
+
+<div class = "col-md-4">
+![](pictures/RDJ.jpg){height=125 width=125px}
+
+[Robert J. DeRubeis, PhD <br> Professor <br> University of Pennsylvania](https://psychology.sas.upenn.edu/people/robert-derubeis)
+
+</div>
+</div>
+
+<div class = "row">
+  
+<div class = "col-md-4">
+![](pictures/LL.jpg){height=125 width=125px}
+
+[Lotte Lemmens, PhD <br> Assistant Professor <br> Maastricht University](https://cris.maastrichtuniversity.nl/en/persons/suzanne-van-bronswijk)
+</div>
+
+<div class = "col-md-4">
+![](pictures/SVB.jpg){height=125 width=125px}
+
+[Suzanne van Bronswijk, MD, PhD <br> Assistant Professor <br> Maastricht University](https://cris.maastrichtuniversity.nl/en/persons/suzanne-van-bronswijk)
+</div>
+
+
+<div class = "col-md-4">
+![](pictures/TNR.jpg){height=125 width=125px}
+
+[Tennisha N. Riley, PhD <br> Assistant Professor <br> Indiana University-Bloomington](https://education.indiana.edu/about/directory/profiles/riley-tennisha.html)
+</div>
+
+</div>
+
+
 #### Past lab members
 
 
@@ -128,46 +180,4 @@ I graduated from Indiana University in 2020 with B.S. degrees in human biology a
 - Devon Miller
 - Tres Lamar Kirtley
 
-#### Key collaborators
-
-According to [Scopus](https://www.scopus.com/authid/detail.uri?origin=resultslist&authorId=55897858800&zone=#tab=co-authors), I have at least 64 collaborators. Below, I highlight some of them:
-
-
-***
-
-![](pictures/JoB.jpg){height=125 width=125px}
-
-[Johan Bollen, PhD <br> Professor <br> Indiana University-Bloomington](https://homes.luddy.indiana.edu/jbollen/)
-
-***
-
-![](pictures/NRQ.jpg){height=125 width=125px}
-
-
-[Natalie Rodriguez-Quintana, PhD, MPH <br> Postdoctoral Research Fellow <br> University of Michigan](https://trailstowellness.org/about/trails-team)
-
-***
-
-![](pictures/RDJ.jpg){height=125 width=125px}
-
-[Robert J. DeRubeis, PhD <br> Professor <br> University of Pennsylvania](https://psychology.sas.upenn.edu/people/robert-derubeis)
-
-***
-
-![](pictures/LL.jpg){height=125 width=125px}
-
-[Lotte Lemmens, PhD <br> Assistant Professor <br> Maastricht University](https://cris.maastrichtuniversity.nl/en/persons/suzanne-van-bronswijk)
-
-***
-
-![](pictures/SVB.jpg){height=125 width=125px}
-
-[Suzanne van Bronswijk, MD, PhD <br> Assistant Professor <br> Maastricht University](https://cris.maastrichtuniversity.nl/en/persons/suzanne-van-bronswijk)
-
-
-***
-
-![](pictures/TNR.jpg){height=125 width=125px}
-
-[Tennisha N. Riley, PhD <br> Assistant Professor <br> Indiana University-Bloomington](https://education.indiana.edu/about/directory/profiles/riley-tennisha.html)
 
