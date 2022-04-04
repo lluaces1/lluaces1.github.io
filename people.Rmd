@@ -3,13 +3,6 @@ title: " "
 ---
 
 <style>
-body > div.navbar.navbar-inverse.navbar-fixed-top > div > div.navbar-header > span.navbar-brand {
-  
-    font-size: 26px;
-    color: red;
-}
-
-
   .nav-pills>li>a:hover, 
   .nav-pills>li>a:focus, 
   .nav-pills>li.active>a,     
