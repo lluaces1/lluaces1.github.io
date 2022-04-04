@@ -3,6 +3,13 @@ title: " "
 ---
 
 <style>
+body > div.navbar.navbar-inverse.navbar-fixed-top > div > div.navbar-header > span.navbar-brand {
+  
+    font-size: 26px;
+    color: red;
+}
+
+
   .nav-pills>li>a:hover, 
   .nav-pills>li>a:focus, 
   .nav-pills>li.active>a,     
@@ -10,6 +17,22 @@ title: " "
   .nav-pills>li.active>a:focus{
      background-color: #990000;
      }
+
+a:link {
+  color: #990000;
+}
+
+a:visited {
+  color: #66435A;
+}
+
+a:hover {
+  color: #EDEBEB;
+}
+
+a:active {
+  color: #990000;
+}
 </style>
 
 
@@ -82,7 +105,7 @@ My research interests include *internet-based treatments* for psychological prob
 
 ***
 
-![**Tennisha N. Riley, Assistant Professor, Indiana University-Bloomington**](pictures/TNR.jpg){height=125px width=125px}
+![**Tennisha N. Riley <br> Assistant Professor <br> Indiana University-Bloomington <br> E-mail:** rileytn@iu.edu](pictures/TNR.jpg){height=125px width=125px}
 
 Tennisha N. Riley joined the SADCAT lab in 2018 as a postdoctoral fellow at the Indiana University Center for Research on Race and Ethnicity in Society (CRRES) after receiving her PhD in Developmental Psychology from Virginia Commonwealth University. Tennisha is an adolescent researcher who examines emotion expression and emotion regulation within social context broadly. Her primary research focus is on understanding the emotional development of Black youth, examining how Black youth’s social context (family, friends, school) influence emotion expression and emotion regulation, as well as the role emotion expression and emotion regulation play in Black youth’s decisions to engage in both risk-related and prosocial behaviors. Tennisha is now an [Assistant Professor in IU's School of Education’s Counseling and Educational Psychology Department.](https://education.indiana.edu/about/directory/profiles/riley-tennisha.html)
 
