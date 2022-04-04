@@ -16,6 +16,6 @@ navbar:
       href: FAQs.html
 output:
   html_document:
-  theme: cosmo
+    theme: cosmo
 output_dir: "."
 
