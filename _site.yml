@@ -12,6 +12,8 @@ navbar:
       href: about.html
     - text: "Contact us"
       href: contact.html
+    - text: "F.A.Q."
+      href: FAQs.html
 output:
   html_document:
     theme: cosmo
