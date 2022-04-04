@@ -16,6 +16,6 @@ navbar:
       href: FAQs.html
 output:
   html_document:
-    theme: cosmo
+    css: IU.css
 output_dir: "."
 
