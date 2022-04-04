@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>FAQs.knit</title>
+
+<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.tab('show');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">SADCAT Lab</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="people.html">People</a>
+</li>
+<li>
+  <a href="projects.html">Projects</a>
+</li>
+<li>
+  <a href="about.html">Our papers</a>
+</li>
+<li>
+  <a href="contact.html">Contact us</a>
+</li>
+<li>
+  <a href="FAQs.html">F.A.Q.</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+
+</div>
+
+
+<p><br></p>
+<center>
+<h1 style="color:#990000">
+<strong>Frequently asked questions</strong>
+</h1>
+</center>
+<div id="we-love-when-people-get-involved-with-the-lab-and-contact-us.-that-said-there-are-some-questions-we-find-ourself-answering-a-lot.-this-in-progress-part-of-the-webpage-has-answers-to-questions-i-often-get" class="section level4 tabset tabset-pills">
+<h4 class="tabset tabset-pills">We love when people get involved with the lab and contact us. That said, there are some questions we find ourself answering a lot. This (in progress) part of the webpage has answers to questions I often get:</h4>
+<div id="potential-students-undergraduate" class="section level5">
+<h5>Potential students (undergraduate)</h5>
+</div>
+<div id="potential-students-graduate" class="section level5">
+<h5>Potential students (graduate)</h5>
+<p><em>Please note: For this document, I borrowed <strong>very heavily</strong> from a similar document by <a href="https://www.stonybrook.edu/commcms/psychology/faculty/faculty_profiles/jschleider">Prof. Jessica Schleider</a> at <a href="https://www.stonybrook.edu/">Stony Brook University</a>. Apply to work with her as well! Below are some questions I have gotten, or anticipate getting from potential graduate students</em>:</p>
+<p><strong>Why make this?</strong> Applying to graduate school is currently an uneven “playing field.” Applicants without access to well-established mentors, parents who have graduate degrees, or other professional connections may have less access to information on how to apply for school. I hope that by sharing inside knowledge on my process, I can level the playing field a little, at least when applying to work with me. <br> Please note that the document represents my personal opinions. It is therefore not representative of Indiana University, my home department Psychological and Brain Sciences, or of any other faculty members in our program.</p>
+<p><strong>Will you be accepting a new PhD student to begin in Fall 2022?</strong> As of right now 2022-04-03, I will <strong>not</strong> be accepting new students. The only thing that could happen to change my decision is if you were coming in with your own funding!</p>
+<p><strong>How can I learn more about you and your research?</strong> Below are the papers that are most representative of how I think about depression: - Lorenzo-Luaces, L. (2015). Heterogeneity in the prognosis of major depression: From the common cold to a highly debilitating and recurrent illness. <em>Epidemiology and Psychiatric Sciences</em>, 24, 466-472. - Lorenzo-Luaces, L, DeRubeis, R.J., van Straten, A., &amp; Tiemens B. (2017). A prognostic index (PI) as a moderator of outcomes in the treatment depression: A proof of concept combining multiple variables to inform risk-stratified stepped care models. <em>Journal of Affective Disorders</em>, 213, 78-85. - Lorenzo-Luaces, L., Rodriguez-Quintana, N.,* Riley, T., &amp; Weisz, J.R. (2020) A prognostic index (PI) as a moderator of outcomes in the treatment of adolescent depression: A risk-stratified stepped care model of treatment with cognitive-behavioral therapy, fluoxetine, or their combination. Psychotherapy Research. Advanced online publication. - Lorenzo-Luaces, L., DeRubeis, R.J., &amp; Webb, C.A. (2014). Client characteristics as moderators of the relation between the therapeutic alliance and outcome in cognitive therapy for depression. Journal of Consulting and Clinical Psychology, 82, 368 – 373.</p>
+<p><strong>What about the GRE? How important are my scores?</strong> I don’t care about it, I won’t look at it. The only time in which I may consider your GRE is if you explicitly mention that your undergraduate GPA is low but you would like your GRE considered because it “makes up” for a lower GPA.</p>
+<p><strong>My undergraduate GPA is below 3.5 (or some other number). Will this remove me from consideration?</strong> No. Many factors can influence one’s GPA, including competing commitments (e.g., working part-time while in school), family obligations, and health challenges. Academic achievement is very important, but context is, too. If you believe your GPA does not reflect your potential as a future scientist, please either ask one of your recommenders to share more about your circumstances to help me assess your achievements, or provide this information in your personal statement in a measured manner that you feel comfortable with. For example, if your undergraduate GPA is low because you were in an unhealthy relationship, you can simply say you had “personal problems.”</p>
+<p><strong>How do I know if I am a “good fit” for the SADCAT Lab?</strong> I review the applications of <strong>all</strong> the students who say the way to work with me. I rate the students and then send e-mails to around 10 people. Please note, I do not use a strict cut-off of 10 or even e-mail the 10 highest rated people. I consider the ratings and all the information to come up with a list of 10 students I want to get to know better. The factors I consider are:</p>
+<ol style="list-style-type: decimal">
+<li><strong>Overlap with the lab’s interests and work.</strong> Your interests overlap with mine if you want to research: A) the classification of affective problems, B) treatment outcomes in affective disorders, C) processes and mechanisms of psychopathology in and out of treatment, D) individual differences in outcomes and processes relevant to affective disorders, or E) social media and affective disorders. Please note, my primary focus is that you are <em>interested</em> in these topics, I don’t expect you to necessarily have past experience with the topics. I also tend to value a student if they have interests that are a bit outside of my own too. For example, a student who was interested in processes of change in depression treatment and dissemination and implementation would probably be scored more highly than a student who was only interested in processes of change in depression treatment. I score this on a 0-1 scale where 0 = no overlap, 1 = expressed interests that overlap very well with the topics we study. 2. <strong>Research experience.</strong> As I said above, you don’t need to have past research experience in our content area to demonstrate interest but I do look for candidates who have a fair bit of research experience. A lot of the work that we do can quickly become complicated so I am looking for people who have a basic handle on research, usually around 2 years of part-time research experience. I understand that some of you have other obligations while you are in school, including having to work or take care of a loved one. I am happy to consider this as part of your application if you feel comfortable enough referencing it. The way I rate this is also on a 0 - 1 scale. I do this by counting the number of months of research experience for each candidate on a given year. Then, I look at the distribution of scores and put a cap on a maximum. For example, if the highest person has been working in research 10 years but the next highest person has been working a lot less, like 2 years, 2 years becomes the max I use to “standardize” the scores. So, the 10 becomes a 2 and I divided it by 2. That way, I can also rate this on a 0-1 scale where 0 is the lowest research experience represented and 1 is the highest.<br> I’m especially interested in recruiting applicants with experiences in some or all of the following areas (however, none is required of applicants): randomized clinical trial(s), digital mental health interventions, coding or programming, collecting or analyzing ecological momentary assessment data.</li>
+<li><strong>Contributions to diversity in our program/lab.</strong> I care about the lack of diversity in academia, which is a major problem in many fields. If a student would diversify the student body at my lab or in our department, I would consider that a major positive.</li>
+<li><strong>Quality of the personal statement.</strong> I don’t really know how to explain <em>how</em> I rate this, I just do. One of the things I just look is as a writing sample. Not in the sense of detecting typos or grammar errors, neither of which I care about, but in the sense of helping me understand how you communicate and the things about your experience that you choose to highlight.</li>
+<li><strong>Grade point average (GPA) in school.</strong> Pretty straightforward, I look at GPA.</li>
+<li><strong>Evidence of post-baccalaureate or graduate work.</strong> If you have done a master’s degree or post-bac to further your education, I count that as a plus!</li>
+<li><strong>Quality of letters.</strong> Getting recommendation letters early in one’s career is very difficult! I basically expect only one relatively glowing recommendation letter written by someone you worked closely with. I don’t care if the person is a graduate student or the CEO of Research, Inc. A lot of people will also have a letter that may be very brief, relatively unspecific, or from a professor who may know you are very smart and talented but has had somewhat limited interactions with you. That is OK. I expect the third letter will be somewhat in between the two I already discussed. This kind of set-up (long/glowing, brief/non-specific, and “medium”) is what I’m expecting most people to have and gets an 8/10. Anything less gets a lower score and if you happen to have more than that</li>
+</ol>
+<p>Demonstrate commitment to our Lab Goals, which is to do research in areas that include a combination of: A) the classification of affective problems, B) treatment outcomes in affective disorders, C) processes and mechanisms of psychopathology in and out of treatment, or D) the study of individual differences in outcomes and processes relevant to affective disorders and related problems. The methods used will similarly vary but include: primary research consisting of treatment, experimental, and observational studies as well as secondary data analysis, mostly of randomized controlled trial (RCT) data, and meta-analytic reviews.</p>
+<p>Specifically, applicants with the following interests may be good fits to our lab: - Scalable, brief and low-intensity psychosocial interventions, especially web-based and self-administered interventions (e.g., guided bibliotherapy) for reducing depression and anxiety - Dissemination of mental health services beyond traditional clinical settings - Studying predictors and moderators of treatment outcomes in cognitive-behavioral therapies (CBTs) for depression and anxiety - Studying processes of change in cognitive-behavioral therapies (CBTs) and other treatments for depression and anxiety - Using advanced quantitative methods to study questions of change in psychotherapy - Measuring vulnerability to common mental disorder via social media. (This would require collaboration with our colleagues at Informatics)</p>
+<p>As a mentor, I feel best-prepared to support students who are interested in careers that involve applied, clinical, and/or intervention research. This includes a wide variety of career paths, including academic faculty positions, e.g. in departments of psychology, education, social work, or public health; and combined clinical-research careers, e.g. in academic medical centers. “Practice-based evidence” is core to our lab’s work and mission. However, I may not be the most effective mentor for applicants who are interested entirely in clinical practice careers.</p>
+<p><strong>Are there any other ‘screening criteria’ you use to review applications?</strong> No. You work hard on your application materials. The least I can do is read them! (And I do read all applications from those who indicate that I am their preferred mentor.)</p>
+<p><strong>Should I email you to express my interest in applying to your lab?</strong> It’s not needed. Although I welcome emails from prospective students with specific questions, your decision to email me (or not) will have no impact on your odds of receiving an interview invitation or an offer of admission. Whether or not you contact me in advance, prospective students are encouraged to review our online materials, including our publications and our lab website sadcatlab.com</p>
+<p><strong>I am primarily interested in treatment of bipolar depression. You have published on this. Does this mean I’m a good fit for your lab?</strong> It depends, we’d have to talk about it. I have collaborators who have conducted studies of bipolar II depression and therefore have some data for someone interested in this topic. However, it’s not my primary interest. If your interests included bipolar disorder (e.g., how are unipolar and bipolar disorder different) then that would probably be a good fit but if your interests were exclusive to bipolar, especially bipolar I (e.g., what cognitive factors maintain mania), then it’d be less of a fit. This would be a good reason to e-mail me!</p>
+<p><strong>I am interested in studying therapeutic alliance, relational processes in psychotherapy, and/or the effectiveness of traditional (face-to-face, clinic-based) treatments. Should I consider your lab? </strong> Yes! You’ll note from my CV that this is something I am interested in. While the projects we have exploring psychotherapy processes are fewer and far between, the topic is important to me so I would welcome students who are interested!</p>
+<p><strong>I want to study depression and scalable treatments but I don’t have experience with that research topic. Can I still apply to your lab?</strong> Yes! My main aim is to recruit people who have research experience, in general. Most of the skills you developed should translate, it will be a matter of reading the content area knowledge. If you have not engaged in depression research before, please note in your personal statement why you are interested in it and how you other research informs what you may think about depression.</p>
+<p><strong>What should I include in my personal statement?</strong> I find it helpful when applicants include the following in their personal statements:</p>
+<ol style="list-style-type: decimal">
+<li>A clear statement of your general research interests and how they relate to our lab’s mission and work</li>
+<li>A statement about your career goals (even if they are approximate/might change)</li>
+<li>Discussions of your independent research experience(s) and what you learned from them. In these discussions, I suggest emphasizing (1) the question that the broader research was trying to answer, (2) the skills you developed from working on each project (e.g., data collection in Qualtrics; coding/running analyses; interviewing children/families; writing certain sections of a paper; submitting/presenting a poster), and (3) what your “takeaways” were from the project—e.g., new research ideas or questions your work inspired.</li>
+</ol>
+<p><strong>I am interested in becoming a therapist or incorporating clinical practice into my future career. I’ve heard that mentioning this in my application will hurt my admissions chances. Is this true?</strong> I aim to recruit students seeking rigorous training in both intervention research and clinical practice. Both skill-sets inform each other necessarily. Our lab tests interventions, so I view clinical training as especially important for trainees in our lab. At the same time, Indiana University’s clinical psychology program has a very strong clinical <em>science</em> orientation, and students who are happiest in our program tend to want careers that incorporate research in some way. Consistent with this orientation, I may not be the most effective mentor for applicants who are interested entirely in clinical practice careers. Moreover, if you want a primarily clinical experience, the program won’t be good for you because you’ll have to balance teaching and research obligations so you won’t get as much hours as you might in a PsyD program or a PhD that emphasized research less.</p>
+<p><strong>My own experiences with mental health problems (e.g., my own, a friend’s, or a relative’s) shaped my interest in making treatments better/more accessible. I’ve been told not to mention this in my personal statement. Is this true?</strong> Speaking for only myself: no, for the most part. On the one hand, life experiences shape our career interests, trajectories, and goals in meaningful ways. There is nothing wrong with acknowledging intersections between our ‘human’ and ‘scientific’ selves. On the other hand, personal/lived experiences should not be the main focus of your personal statement. Your research interests, experiences, goals, and ‘fit’ to our lab are much more helpful to me when reviewing your application. So, it is ok to say something like: “I first learned about the lack of access to mental health treatment when seeking treatment for myself. My difficulty finding a provider made me interest in the empirical literature which documents that patients face long wait times before they can be seen. When I worked with Dr. Smith, his research sought to explore to what extent stigma made people more vs. less likely to overcome barriers to treatment.” To give you an example, I became interested in the validity of DSM diagnoses after a friend was diagnosed with bipolar “not otherwise specified.” But, this wasn’t enough to carry me all the way into grad school. I learned about the history of diagnoses and debates about their validity which caused me to purse a research project that was unrelated but gave me experience in mixed methods.</p>
+<p><strong>Is it advantageous to list multiple mentors of interest (or just one) on my application?</strong> Yes, you should list multiple mentors of interest on your application! Our program is interdisciplinary and it is expected that you may want to work with others. I closely review all applications on which I am listed as a first-choice mentor. But, listing multiple mentors is important because part of our admission process involves making sure that there are other potential mentors in case the initial mentorship relation is not successful. Other professors who have similar interests include Profs. D’Onofrio (quantitative methods, treatment of internalizing disorders), Bates or Holtzworth-Munroe (psychosocial interventions), Krendl (stigma, treatment accessibility), and Green (emotion regulation and individual differences).</p>
+<p><strong>Can I reach out to current PhD students in your lab if I have questions about your lab?</strong> Certainly! Their email addresses are available on our lab website</p>
+<p>This guide was originally developed by Jessica Schleider, PhD, and was adapted for the SADCAT Lab with the latest version adapted in 2022-04-03</p>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
