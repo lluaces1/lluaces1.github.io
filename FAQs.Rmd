@@ -4,10 +4,31 @@ output: html_document
 ---
 
 <style>
-  .nav-pills>li>a:hover, .nav-pills>li>a:focus, .nav-pills>li.active>a,     .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus{
+  .nav-pills>li>a:hover, 
+  .nav-pills>li>a:focus, 
+  .nav-pills>li.active>a,     
+  .nav-pills>li.active>a:hover, 
+  .nav-pills>li.active>a:focus{
      background-color: #990000;
      }
+
+a:link {
+  color: #990000;
+}
+
+a:visited {
+  color: #66435A;
+}
+
+a:hover {
+  color: #EDEBEB;
+}
+
+a:active {
+  color: #990000;
+}
 </style>
+
 
 <br>
 
