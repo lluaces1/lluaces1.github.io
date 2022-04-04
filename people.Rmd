@@ -42,56 +42,76 @@ Internalizing symptoms like **depression and anxiety** are leading causes of dis
 Although I believe that studying individual differences can get us closer to data-driven personalization of treatment for depression and anxiety, I am also aware that many individuals get better without needing "personalization" and that CBTs are very hard to access. So, a line of my work involves studying **low-intensity** ways of delivering CBTs including by using internet-based CBTs (iCBT) and CBT content delivered via books ("bibliotherapy"). We know from great work by others that low-intensity CBT can be as effective as CBT delivered more "traditionally" like face-to-face in weekly sessions but our work involves studying the acceptability and dissemination of these interventions to clinicians and patients. More recently, I have also become interested in studying vulnerability to depression and anxiety as can be indexed with data and meta-data that we can acquire from individuals passively (e.g., by mining their **social media** accounts).  
 
 ***
+
+<div class = "row">
+  
+<div class = "col-md-6">
 ![**Lauren A. Rutter, PhD <br> Research Scientist <br> Indiana University-Bloomington <br> E-mail:** larutter@indiana.edu](pictures/LAR.jpg){height=175px width=175px}
 
-***
-
 I am broadly interested in the **classification** of mood and anxiety disorders (**internalizing** psychopathology). This includes the structure, comorbidity, and shared **mechanisms** of vulnerability in both clinical and population-based samples. More specifically, in studying mood and anxiety, I am interested in how people process emotional faces and how differences in processing may put them more at risk. My research also examines how changes in **neurocognition** across the **lifespan** are linked to risk for developing symptoms. My newest line of research uses **social media** to study internalizing psychopathology.
+</div>
 
+<div class = "col-md-6">
 ![**Jacqueline Howard, BA <br> SADCAT Lab Manager <br> Indiana University-Bloomington <br> E-mail:** jacqhowa@indiana.edu](pictures/JH.jpg){height=175px width=175px}
 
 My primary research interests focus on **dissemination** and **implementation**, specifically the implementation of measurement-based care in community settings, as well as the impact of **trauma** on functioning and **emotion regulation**. Currently I am working on a project assessing whether anxiety is a superior predictor of decreased functioning and well-being in individuals with symptoms of borderline personality disorder (BPD). 
+</div>
+</div>
 
 ***
 
-
+<div class = "row">
+  
+<div class = "col-md-6">
 ![**Robinson De Jesus-Romero, M.S. <br> Graduate Student (3rd year) <br> Indiana University-Bloomington <br> E-mail:** robdejes@indiana.edu](pictures/RDJR.jpg){height=175px width=175px}
 
 Before coming to Indiana University, I graduated from the University of Puerto Rico-Rio Piedras with a Bachelor of Arts in Psychology. I then completed a Master of Science in Research in Behavior and Cognition at the University of Barcelona. My current interests revolve around **internet-based therapies**, **emotion regulation**, and individualized treatment for depression. Specifically, I am interested in improving the efficacy and access to internet-based therapies, as well as studying emotion regulation as a way to personalize treatment. A special focus of my work is improving health for individuals from minoritized backgrounds, including **racial-ethinic minorities** and lesbian, gay, bisexual, and trans/gender non-conforming (**LGQT+**) individuals.
+</div>
 
-***
 
+<div class = "col-md-6">
 ![**Allison "Alli" Peipert, BS <br> Graduate Student (3rd year) <br> Indiana University-Bloomington <br> E-mail:** apeipert@iu.edu](pictures/AP.jpg){height=175px width=175px}
 
 I am in three broad areas of study: **measurement** and classification of psychopathology, moderating and mediating factors of treatment **efficacy**, and **translation** of research findings into clinical practice. I hope to inform standardized assessment practices, improve our understanding of evidence-based treatment, and identify strategies to integrate research findings into standard care. My current research projects include analyzing patient outcomes from IU’s CBT Training Clinic and implementing an evidence-based screening and assessment practice for mental health using the CAT-MH in local behavioral medicine clinics.
+</div>
+</div>
 
 ***
 
+<div class = "row">
+  
+<div class = "col-md-6">
 ![**John "Jack" Buss, BS <br> Graduate Student (1st year) <br> Indiana University-Bloomington <br> E-mail:** bussj@iu.edu](pictures/JB.jpg){height=175px width=175px}
 
 
 I am a clinical science graduate student primarily interested in the **classification** and **computational modeling** of mood disorders. My current projects include evaluations of the **heterogeneity** within the **melancholic** and atypical specifiers for depression and an assessment of melancholic symptoms as represented by the Sydney Melancholia Prototype Index (SMPI). I hope to help further the research field's understanding regarding these traditional depressive subtypes considering depression's potential **endophenotypes**.
+</div>
 
-***
-
-
+<div class = "col-md-6">
 ![**Isabella Starvaggi, BA <br> Graduate Student (1st year) <br> Indiana University-Bloomington <br> E-mail:** irstarva@iu.edu](pictures/IS.jpg){height=175px width=175px}
 
 Before coming to Indiana University, I completed a B.S. in Psychology and a B.S. in Statistics at Carnegie Mellon University. During my undergraduate years I also conducted research at the University of Pittsburgh investigating cognitive vulnerabilities in seasonal affective depression. I am currently interested in digitally delivered treatments for depression,  prediction of individual treatment "match" and treatment response, depression assessment and diagnosis. 
+</div>
+</div>
 
 ***
 
+<div class = "row">
+  
+<div class = "col-md-6">
 ![**Kass Botts, BA <br> Research Assistant <br> Indiana University-Bloomington <br> E-mail:**bottsk@iu.edu](pictures/KB.jpeg){height=175px width=175px}
 
 
 I am a post-baccalaureate student seeking a second degree in Psychology (B.S) with an interest in clinical work. My background is in *harm reduction* services for people who inject *drugs*, experience extreme *poverty*, or participate in other *risky activities*. I am interested in the comorbidity of affective disorders and *substance use disorders*, and the efficacy of brief interventions and self help therapeutic resources in reducing the public health burden of substance use disorders and concomitant affective disorders.
+</div>
 
-***
-
+<div class = "col-md-6">
 ![**Colton Lind <br> Research Assistant <br> Indiana University-Bloomington <br> E-mail:** cmlind@iu.edu](pictures/CL.jpg){height=175px width=175px}
 
 
 My research interests include *internet-based treatments* for psychological problems, and the effects of **trauma** on daily life. Currently, I am working on a project involving **mental health apps** such as Calm, and Headspace.
+</div>
+</div>
 
 #### Past lab members
 
@@ -127,39 +147,54 @@ According to [Scopus](https://www.scopus.com/authid/detail.uri?origin=resultslis
 
 ***
 
+<div class = "row">
+  
+<div class = "col-md-4">
 ![](pictures/JoB.jpg){height=125 width=125px}
 
 [Johan Bollen, PhD <br> Professor <br> Indiana University-Bloomington](https://homes.luddy.indiana.edu/jbollen/)
+</div>
 
-***
 
+<div class = "col-md-4">
 ![](pictures/NRQ.jpg){height=125 width=125px}
 
 
 [Natalie Rodriguez-Quintana, PhD, MPH <br> Postdoctoral Research Fellow <br> University of Michigan](https://trailstowellness.org/about/trails-team)
+</div>
 
-***
 
+
+<div class = "col-md-4">
 ![](pictures/RDJ.jpg){height=125 width=125px}
 
 [Robert J. DeRubeis, PhD <br> Professor <br> University of Pennsylvania](https://psychology.sas.upenn.edu/people/robert-derubeis)
+</div>
 
-***
+</div>
 
+
+<div class = "row">
+  
+<div class = "col-md-4">
 ![](pictures/LL.jpg){height=125 width=125px}
 
 [Lotte Lemmens, PhD <br> Assistant Professor <br> Maastricht University](https://cris.maastrichtuniversity.nl/en/persons/suzanne-van-bronswijk)
+</div>
 
-***
 
+<div class = "col-md-4">
 ![](pictures/SVB.jpg){height=125 width=125px}
 
 [Suzanne van Bronswijk, MD, PhD <br> Assistant Professor <br> Maastricht University](https://cris.maastrichtuniversity.nl/en/persons/suzanne-van-bronswijk)
+</div>
 
 
-***
 
+<div class = "col-md-4">
 ![](pictures/TNR.jpg){height=125 width=125px}
 
 [Tennisha N. Riley, PhD <br> Assistant Professor <br> Indiana University-Bloomington](https://education.indiana.edu/about/directory/profiles/riley-tennisha.html)
+</div>
 
+</div>
