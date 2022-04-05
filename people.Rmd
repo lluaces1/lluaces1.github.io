@@ -16,18 +16,17 @@ a:link {
 }
 
 a:visited {
-  color: #66435A;
+  color: #BD0000;
 }
 
 a:hover {
-  color: #EDEBEB;
+  color: #A7A9AB;
 }
 
 a:active {
   color: #990000;
 }
 </style>
-
 
 ### Most of the work done is the lab in the product of *collaborations* within the lab or with professionals from other universities. {.tabset .tabset-fade .tabset-pills}
 
