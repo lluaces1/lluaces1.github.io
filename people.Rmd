@@ -28,7 +28,8 @@ a:active {
 }
 </style>
 
-### Most of the work done is the lab in the product of *collaborations* within the lab or with professionals from other universities. {.tabset .tabset-fade .tabset-pills}
+
+### Most of the work done is the lab is the product of *collaborations* {.tabset .tabset-fade .tabset-pills}
 
 ***
 
@@ -89,7 +90,7 @@ I am a clinical science graduate student primarily interested in the **classific
 <div class = "col-md-6">
 ![**Isabella Starvaggi, BA <br> Graduate Student (1st year) <br> Indiana University-Bloomington <br> E-mail:** irstarva@iu.edu](pictures/IS.jpg){height=175px width=175px}
 
-Before coming to Indiana University, I completed a B.S. in Psychology and a B.S. in Statistics at Carnegie Mellon University. During my undergraduate years I also conducted research at the University of Pittsburgh investigating cognitive vulnerabilities in seasonal affective depression. I am currently interested in digitally delivered treatments for depression,  prediction of individual treatment "match" and treatment response, depression assessment and diagnosis. 
+Before coming to Indiana University, I completed a B.S. in Psychology and a B.S. in Statistics at Carnegie Mellon University. During my undergraduate years I also conducted research at the University of Pittsburgh investigating **cognitive vulnerabilities** in seasonal affective depression. I am currently interested in **digitally** delivered treatments for depression,  **prediction** of individual treatment "match" and treatment response, depression assessment and **diagnosis**. 
 </div>
 </div>
 
@@ -98,10 +99,10 @@ Before coming to Indiana University, I completed a B.S. in Psychology and a B.S.
 <div class = "row">
   
 <div class = "col-md-6">
-![**Kass Botts, BA <br> Research Assistant <br> Indiana University-Bloomington <br> E-mail:**bottsk@iu.edu](pictures/KB.jpeg){height=175px width=175px}
+![**Kass Botts, BA <br> Research Assistant <br> Indiana University-Bloomington <br> E-mail:** bottsk@iu.edu](pictures/KB.jpeg){height=175px width=175px}
 
 
-I am a post-baccalaureate student seeking a second degree in Psychology (B.S) with an interest in clinical work. My background is in *harm reduction* services for people who inject *drugs*, experience extreme *poverty*, or participate in other *risky activities*. I am interested in the comorbidity of affective disorders and *substance use disorders*, and the efficacy of brief interventions and self help therapeutic resources in reducing the public health burden of substance use disorders and concomitant affective disorders.
+I am a post-baccalaureate student seeking a second degree in Psychology (B.S) with an interest in clinical work. My background is in **harm reduction** services for people who inject **drugs**,  participate in other *risky activities*, or who experience extreme **poverty**. I am interested in the comorbidity of affective disorders and **substance use disorders**, and the efficacy of brief interventions and self help therapeutic resources in reducing the public health burden of substance use disorders and concomitant affective disorders.
 </div>
 
 <div class = "col-md-6">
