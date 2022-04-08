@@ -97,13 +97,6 @@ Before coming to Indiana University, I completed a B.S. in Psychology and a B.S.
 ***
 
 <div class = "row">
-  
-<div class = "col-md-6">
-![**Kass Botts, BA <br> Research Assistant <br> Indiana University-Bloomington <br> E-mail:** bottsk@iu.edu](pictures/KB.jpeg){height=175px width=175px}
-
-
-I am a post-baccalaureate student seeking a second degree in Psychology (B.S) with an interest in clinical work. My background is in **harm reduction** services for people who inject **drugs**,  participate in other *risky activities*, or who experience extreme **poverty**. I am interested in the comorbidity of affective disorders and **substance use disorders**, and the efficacy of brief interventions and self help therapeutic resources in reducing the public health burden of substance use disorders and concomitant affective disorders.
-</div>
 
 <div class = "col-md-6">
 ![**Colton Lind <br> Research Assistant <br> Indiana University-Bloomington <br> E-mail:** cmlind@iu.edu](pictures/CL.jpg){height=175px width=175px}
@@ -111,6 +104,11 @@ I am a post-baccalaureate student seeking a second degree in Psychology (B.S) wi
 
 My research interests include *internet-based treatments* for psychological problems, and the effects of **trauma** on daily life. Currently, I am working on a project involving **mental health apps** such as Calm, and Headspace.
 </div>
+
+<div class = "col-md-6">
+
+</div>
+
 </div>
 
 #### Past lab members
@@ -121,6 +119,13 @@ My research interests include *internet-based treatments* for psychological prob
 ![**Tennisha N. Riley <br> Assistant Professor <br> Indiana University-Bloomington <br> E-mail:** rileytn@iu.edu](pictures/TNR.jpg){height=125px width=125px}
 
 Tennisha N. Riley joined the SADCAT lab in 2018 as a postdoctoral fellow at the Indiana University Center for Research on Race and Ethnicity in Society (CRRES) after receiving her PhD in Developmental Psychology from Virginia Commonwealth University. Tennisha is an adolescent researcher who examines emotion expression and emotion regulation within social context broadly. Her primary research focus is on understanding the emotional development of Black youth, examining how Black youth’s social context (family, friends, school) influence emotion expression and emotion regulation, as well as the role emotion expression and emotion regulation play in Black youth’s decisions to engage in both risk-related and prosocial behaviors. Tennisha is now an [Assistant Professor in IU's School of Education’s Counseling and Educational Psychology Department.](https://education.indiana.edu/about/directory/profiles/riley-tennisha.html)
+
+***
+
+![**Kass Botts, BA <br> Research Assistant <br> Indiana University-Bloomington <br> E-mail:** bottsk@iu.edu](pictures/KB.jpeg){height=175px width=175px}
+
+
+I am a post-baccalaureate student seeking a second degree in Psychology (B.S) with an interest in clinical work. My background is in **harm reduction** services for people who inject **drugs**,  participate in other *risky activities*, or who experience extreme **poverty**. I am interested in the comorbidity of affective disorders and **substance use disorders**, and the efficacy of brief interventions and self help therapeutic resources in reducing the public health burden of substance use disorders and concomitant affective disorders.
 
 ***
 
