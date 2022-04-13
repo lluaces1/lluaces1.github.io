@@ -3,6 +3,7 @@
 title: "**Surveys of Online Cohorts for Internalizing symptoms And Language (SOCIAL)**"
 output: html_document
 ---
+
 <style>
   .nav-pills>li>a:hover, 
   .nav-pills>li>a:focus, 
