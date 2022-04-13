@@ -6,10 +6,10 @@ navbar:
       href: index.html
     - text: "People"
       href: people.html
+    - text: "Projects"
+      href: projects.html
     - text: "SOCIAL surveys"
       href: SOCIAL.html
-    - text: "Other projects"
-      href: projects.html
     - text: "Our papers"
       href: about.html
     - text: "Contact us"

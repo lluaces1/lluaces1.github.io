@@ -28,20 +28,26 @@ a:active {
 <h1 style="color:#990000">**Contact us!**</h1>
 </center>
 
-<h3>
+<h4>
 
 There are many ways to reach us. Below some:
+
+<br>
 
 **Twitter**: 
 
 - [**Prof. Lorenzo-Luaces' Twitter**](https://twitter.com/lluaces) - This is my personal account! There isn't a great "rhyme and reason" to it. I sometimes use it for science communication, sometimes to disseminate our research, sometimes I free-associate or am cantankerous and I often post about [#FreeBritney](https://en.wikipedia.org/wiki/Britney_Spears_conservatorship_dispute) 
 - [**Lab Twitter**](https://twitter.com/sadcat_labiu) - We use this account to promote our work, to disseminate opportunities to participate in our research, and to do a bit of science communication generally (e.g., sharing interesting studies).
 
+<br>
+
 **E-mail**: 
 
 - **lolorenz@indiana.edu** - This is my professional e-mail. Nobody tells you that when you become a professor you get a **lot** of e-mail but it's true! If I don't respond to you within 2-3 day business days, pleace reach back. There's a good chance your email got "lost in the shuffle."
 - **sadcat@indiana.edu** - This is a **shared** e-mail that everyone in the lab uses for our clinical research.
 - **jacqhowa@indiana.edu** - This is the e-mail for my lab manager [**Jacqueline Howard**](https://lluaces1.github.io/people.html). Jacqueline and I communicate very actively and she helps me stay on task so if there's something you want me to know it's a good idea to include her in communications.
+
+<br>
 
 **Other ways of engaging**:
 
@@ -51,4 +57,4 @@ There are many ways to reach us. Below some:
 
 [Open Science Framework (OSF)](https://osf.io/ft5pb/)
 
-</h3>
+</h4>

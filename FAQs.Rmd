@@ -38,15 +38,25 @@ a:active {
 
 # We love when people get involved with the lab and contact us. That said, there are some questions we find ourself answering a lot. This (in progress) part of the webpage has answers to questions I often get:{.tabset .tabset-pills}
 
+<br>
+
+<h4>
+
+
 ## **Potential students (undergraduate)**
+
+<br>
 
 This section is still "in progress." Please check back at a later date.
 
 ## **Potential students (graduate)**
 
-<h3>
+<br>
+
 
 *Please note: For this document, I borrowed **very heavily** from a similar document by [Prof. Jessica Schleider](https://www.stonybrook.edu/commcms/psychology/faculty/faculty_profiles/jschleider) at [Stony Brook University](https://www.stonybrook.edu/). Apply to work with her as well! Below are some questions I have gotten, or anticipate getting from potential graduate students*:
+
+<br>
 
  
 **Why make this?**
@@ -56,8 +66,8 @@ Applying to graduate school is currently an uneven "playing field." Applicants w
 As of right now `r Sys.Date()`, I will **not** be accepting new students. The only thing that could happen to change my decision is if you were coming in with your own funding!
 
 **Are my interests a good for for the lab?**
-
 Applicants with the following interests may be good fits to our lab:
+
 - Scalable, brief and **low-intensity** psychosocial interventions, especially web-based and self-administered interventions (e.g., guided bibliotherapy) for reducing depression and anxiety
 - **Dissemination** of mental health services beyond traditional clinical settings
 - Studying **predictors and moderators** of treatment outcomes in cognitive-behavioral therapies (CBTs) for depression and anxiety
@@ -135,4 +145,4 @@ Certainly! Their email addresses are available on our lab website
 
 This guide was originally developed by Jessica Schleider, PhD, and was adapted for the SADCAT Lab with the latest version adapted in `r Sys.Date()`
  
-</h3>
+</h4>

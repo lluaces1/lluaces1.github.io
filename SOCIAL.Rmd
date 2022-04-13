@@ -1,7 +1,3 @@
----
-title: "SOCIAL"
-output: html_document
----
 
 ---
 title: "**Surveys of Online Cohorts for Internalizing symptoms And Language (SOCIAL)**"
@@ -38,6 +34,8 @@ a:active {
 ## Learn more about our study! {.tabset .tabset-fade .tabset-pills}
 
 <br>
+
+<h4>
 
 ### **About SOCIAL**
 
@@ -185,3 +183,5 @@ We followed simple principles for choosing measures for this study. First, we wa
 We have already learned several things from the project though. First, we did a study on whether individuals were good at judging that they had the different symptoms of psychopathology we assessed. It turns out that for depression, anxiety, and insomnia, people generally know whether their symptoms are clinically-elevated, whether or not they have seen a mental health professional. Second, we divided people into groups based on 1) whether or not they wrote in a Twitter handle and whether that Twitter handle was "valid"
 
 Not Twitter users, Claim to be Twitter users but gave a non-sense handle, Claim to be Twitter user but determined to be a bot, and 4) Claimed to be a Twitter user and gave us a real handle
+
+</h4>
