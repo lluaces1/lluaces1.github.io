@@ -39,6 +39,30 @@ a:active {
 
 <br>
 
+### **About SOCIAL**
+
+The **Surveys of Online Cohorts for Internalizing symptoms And Language (SOCIAL)** are a collaboration between researchers at [Indiana University's](iu.edu) departments of:
+
+- [Informatics](https://luddy.indiana.edu/)
+- [Psychology](https://psych.indiana.edu/)
+- [Public Health](https://psych.indiana.edu/)
+
+
+
+<div class = "row">
+  
+<div class = "col-md-6">
+![Johan Bollen, PhD](pictures/JoB.jpg){height=125 width=125px}
+</div>
+
+<div class = "col-md-6">
+![Johan Bollen, PhD](pictures/luddy.png){height=125 width=125px}
+</div>
+
+</div>
+
+We have several ongoing studies under the umbrella of the **Surveys of Online Cohorts for Internalizing symptoms And Language (SOCIAL)**. In SOCIAL-I, we surveyed a nationally representative sample of 1121 U.S. adults and administered a transdiagnostic battery of symptom assessments. We also obtained their consent to access their social media accounts. The aim of the project is to triangulate self-reported mental health data and social media activity. SOCIAL-II is an ongoing study that has overlapping measures with SOCIAL-I but expands the assessments to include temperament and eating pathology. We’ve recruited at least 2,015 college students and continue to collect each semester.
+
 ### **Background**
 
 **Social media** is a relatively recent development. As of 2021, over *75%* of adults in the United States are on a social media platform. That alone makes social media an interesting topic to study. 
@@ -51,7 +75,6 @@ Most relevant to our work, there are reported **correlations** between social me
 
 In another study, we attempted to track the language of depressed individuals and a random sample of Twitter users. We specifically looked at the vocabulary of these individuals to try to pinpoint cognitive distortions in their language.
 
-We have several ongoing studies under the umbrella of the **Surveys of Online Cohorts for Internalizing symptoms And Language (SOCIAL)**. In SOCIAL-I, we surveyed a nationally representative sample of 1121 U.S. adults and administered a transdiagnostic battery of symptom assessments. We also obtained their consent to access their social media accounts. The aim of the project is to triangulate self-reported mental health data and social media activity. SOCIAL-II is an ongoing study that has overlapping measures with SOCIAL-I but expands the assessments to include temperament and eating pathology. We’ve recruited at least 2,015 college students and continue to collect each semester.
 
 ### **Who did we study?**
 
