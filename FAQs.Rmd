@@ -36,15 +36,18 @@ a:active {
 <h1 style="color:#990000">**Frequently asked questions**</h1>
 </center>
 
-#### We love when people get involved with the lab and contact us. That said, there are some questions we find ourself answering a lot. This (in progress) part of the webpage has answers to questions I often get:{.tabset .tabset-pills}
+# We love when people get involved with the lab and contact us. That said, there are some questions we find ourself answering a lot. This (in progress) part of the webpage has answers to questions I often get:{.tabset .tabset-pills}
 
-#####  Potential students (undergraduate)
+## **Potential students (undergraduate)**
 
 This section is still "in progress." Please check back at a later date.
 
-##### Potential students (graduate)
+## **Potential students (graduate)**
+
+<h3>
 
 *Please note: For this document, I borrowed **very heavily** from a similar document by [Prof. Jessica Schleider](https://www.stonybrook.edu/commcms/psychology/faculty/faculty_profiles/jschleider) at [Stony Brook University](https://www.stonybrook.edu/). Apply to work with her as well! Below are some questions I have gotten, or anticipate getting from potential graduate students*:
+
  
 **Why make this?**
 Applying to graduate school is currently an uneven "playing field." Applicants without access to well-established mentors, parents who have graduate degrees, or other professional connections may have less access to information on how to apply for school. I hope that by sharing inside knowledge on my process, I can level the playing field a little, at least when applying to work with me. <br> Please note that the document represents my personal opinions. It is therefore not representative of Indiana University, my home department Psychological and Brain Sciences, or of any other faculty members in our program.
@@ -68,6 +71,7 @@ I may not be the most effective mentor for applicants who are interested entirel
 
 **How can I learn more about you and your research?**
 Below are the papers that are most representative of how I think about depression:
+
 - Lorenzo-Luaces, L. (2015). Heterogeneity in the prognosis of major depression:  From the common cold to a highly debilitating and recurrent illness. *Epidemiology and Psychiatric Sciences*, 24, 466-472.
 - Lorenzo-Luaces, L, DeRubeis, R.J., van Straten, A., & Tiemens B. (2017). A prognostic index (PI) as a moderator of outcomes in the treatment depression: A proof of concept combining multiple variables to inform risk-stratified stepped care models. *Journal of Affective Disorders*, 213, 78-85.
 - Lorenzo-Luaces, L., Rodriguez-Quintana, N.,* Riley, T., & Weisz, J.R. (2020) A prognostic index (PI) as a moderator of outcomes in the treatment of adolescent depression: A risk-stratified stepped care model of treatment with cognitive-behavioral therapy, fluoxetine, or their combination. Psychotherapy Research. Advanced online publication.
@@ -131,4 +135,4 @@ Certainly! Their email addresses are available on our lab website
 
 This guide was originally developed by Jessica Schleider, PhD, and was adapted for the SADCAT Lab with the latest version adapted in `r Sys.Date()`
  
-
+</h3>
