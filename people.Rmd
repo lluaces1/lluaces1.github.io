@@ -28,6 +28,8 @@ a:active {
 }
 </style>
 
+<h4>
+
 
 ### Most of the work done is the lab is the product of *collaborations* {.tabset .tabset-fade .tabset-pills}
 
@@ -110,6 +112,7 @@ My research interests include *internet-based treatments* for psychological prob
 </div>
 
 </div>
+
 
 #### **Past lab members**
 
@@ -203,3 +206,5 @@ According to [Scopus](https://www.scopus.com/authid/detail.uri?origin=resultslis
 </div>
 
 </div>
+
+</h4>
