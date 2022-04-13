@@ -28,7 +28,7 @@ a:active {
 <h1 style="color:#990000">**Contact us!**</h1>
 </center>
 
-<h4>
+<h3>
 
 There are many ways to reach us. Below some:
 
@@ -57,4 +57,4 @@ There are many ways to reach us. Below some:
 
 [Open Science Framework (OSF)](https://osf.io/ft5pb/)
 
-</h4>
+</h3>

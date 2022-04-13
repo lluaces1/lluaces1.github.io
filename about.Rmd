@@ -36,11 +36,11 @@ a:active {
 <h1 style="color:#990000">**References**</h1>
 </center>
 
-<h4>
+<h3>
 
 Below you can find all the papers associated to Prof. Lorenzo-Luaces. Not all these papers were written primarily while I was at [**Indiana University**](https://www.indiana.edu/) but they are all representative of the interests of the lab. Some of these papers were written while I was at the [**University of Pennsylvania**](https://psychology.sas.upenn.edu/training-programs/clinical-training-program) or by colleagues in Amsterdam or Spain!
 
 
-</h4>
+</h3>
 
 <br>

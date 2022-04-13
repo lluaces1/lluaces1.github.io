@@ -40,7 +40,7 @@ a:active {
 
 <br>
 
-<h4>
+<h3>
 
 
 ## **Potential students (undergraduate)**
@@ -145,4 +145,4 @@ Certainly! Their email addresses are available on our lab website
 
 This guide was originally developed by Jessica Schleider, PhD, and was adapted for the SADCAT Lab with the latest version adapted in `r Sys.Date()`
  
-</h4>
+</h3>

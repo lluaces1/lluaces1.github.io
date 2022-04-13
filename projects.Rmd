@@ -30,7 +30,7 @@ a:active {
 
 <br>
 
-<h4>
+<h3>
 
 # Below are descriptions of projects we have ongoing. *Prof. Lorenzo-Luaces is the PI or co-PI for the projects below, unless otherwise noted.* For all projects we take special interest in *individual differences* {.tabset .tabset-fade .tabset-pills}
 
@@ -74,4 +74,4 @@ We have several ongoing studies under the umbrella of the **Surveys of Online Co
 
 Heterogeneity of depression and the contribution of specifier symptoms like melancholia to heterogeneity (PI: Buss)
 
-</h4>
+</h3>
