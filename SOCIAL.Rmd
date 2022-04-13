@@ -41,7 +41,11 @@ a:active {
 
 ### **About SOCIAL**
 
-The **Surveys of Online Cohorts for Internalizing symptoms And Language (SOCIAL)** are a collaboration between researchers at [Indiana University's](iu.edu) departments of: [Informatics](https://luddy.indiana.edu/), [Psychology](https://psych.indiana.edu/), and [Public Health](https://psych.indiana.edu/).
+The **Surveys of Online Cohorts for Internalizing symptoms And Language (SOCIAL)** are a collaboration between researchers at [Indiana University's](iu.edu) departments of: 
+
+- [Informatics](https://luddy.indiana.edu/) 
+- [Psychology](https://psych.indiana.edu/) 
+- [Public Health](https://psych.indiana.edu/)
 
 ***
 
