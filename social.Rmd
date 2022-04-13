@@ -50,20 +50,21 @@ We have several ongoing studies under the umbrella of the **Surveys of Online Co
 
 ### **Who did we study?**
 
-**SOCIAL-I** recruited a *nationally representative sample of individuals* via Qualtrics panels. We aimed to recruit around 1,000 Twitter users given budgetary constraints for the current work. Individuals were recruited  from July 2020 to March 2021 for a study on ``social media and mental health.'' The sample was selected to approximate the U.S. populations on the intersections of age, gender, and race/ethnicity. We ended up recruiting 1,121 individuals!
+- **SOCIAL-I** recruited a *nationally representative sample of individuals* via Qualtrics panels. We aimed to recruit around 1,000 Twitter users given budgetary constraints for the current work. Individuals were recruited  from July 2020 to March 2021 for a study on ``social media and mental health.'' The sample was selected to approximate the U.S. populations on the intersections of age, gender, and race/ethnicity. We ended up recruiting 1,121 individuals!
 
-All individuals in SOCIAL-I were Twitter users. Accordingly, we could not ascertain the role that being a Twitter user itself has on potential differences between individuals in baseline sociodemographics, social media use, and mental health symptoms. To have a sample of individuals who did not use Twitter as well as to have an additional sample in which to assess the transportability of results from SOCIAL-I, we began the **SOCIAL-II** study. SOCIAL-II recruited *college students* from a predominantly White and Asian university in the Midwest. Individuals were compensated for credit in an introductory psychology course. Individuals were recruited from September 2020 to the present.
+- All individuals in SOCIAL-I were Twitter users. Accordingly, we could not ascertain the role that being a Twitter user itself has on potential differences between individuals in baseline sociodemographics, social media use, and mental health symptoms. To have a sample of individuals who did not use Twitter as well as to have an additional sample in which to assess the transportability of results from SOCIAL-I, we began the **SOCIAL-II** study. SOCIAL-II recruited *college students* from a predominantly White and Asian university in the Midwest. Individuals were compensated for credit in an introductory psychology course. Individuals were recruited from September 2020 to the present.
 
-**SOCIAL-III** is scheduled to have an overlapping battery with SOCIALs I and II  and will use snowball sampling of *Twitter users.*
+- **SOCIAL-III** is scheduled to have an overlapping battery with SOCIALs I and II  and will use snowball sampling of *Twitter users.*
 
-**SOCIAL-IV** is a bit different in that it is a clinical trial where we also collect social media data! The results of SOCIALs I, II, and III will be used to train classifiers of somatoform, internalizing fear, internalizing distress, and disinhibited externalizing symptoms.
+- **SOCIAL-IV** is a bit different in that it is a clinical trial where we also collect social media data! The results of SOCIALs I, II, and III will be used to train classifiers of somatoform, internalizing fear, internalizing distress, and disinhibited externalizing symptoms.
 
 ### **What did we measure?**
-
-We followed simple principles for choosing measures for this study. First, we wanted to have a good coverage of the symptoms of psychopathology that are represented by the Hierarchical Taxonomy of Psychopathology (HiTOP) model. Second, we wanted to do research that was accessible and could be reproduced by others. Because of this, we focused on freely-available measures.  
+<br>
+We followed simple principles for choosing measures for this study. First, we wanted to have a good coverage of the symptoms of psychopathology that are represented by the [Hierarchical Taxonomy of Psychopathology (HiTOP) model](https://renaissance.stonybrookmedicine.edu/HITOP). Second, we wanted to do research that was accessible and could be reproduced by others. Because of this, we focused on freely-available measures, usual the [DSM Severity Measures](https://www.psychiatry.org/psychiatrists/practice/dsm/educational-resources/assessment-measures) endorsed by the [American Psychiatric Association](https://www.psychiatry.org/). 
+<br>
 
 |Construct      | Measure       |No. items | Response options                             | Range   |$\alpha$| 
-|:------------------|--------------:|---------:|:-------------------------|--------:|-------:|
+|:------------------|:--------------|---------:|:-------------------------|:--------|:-------:|
 | **Somatoform**	      |		        |	       |	   |		|		 |
 | Pain	        |	[PHQ-15](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-Level2SomaticSymptomAdult.pdf)	      |	15       |	0 - 2 (not bothered a lot - bothered a lot)	|	0 - 30	|	0.86	 |
 | Insomnia	    |	[ISI](https://www.ons.org/sites/default/files/InsomniaSeverityIndex_ISI.pdf)	          |	7	       |	Varies per question	                        |	0 - 28	|	0.87	 |
@@ -82,6 +83,8 @@ We followed simple principles for choosing measures for this study. First, we wa
 
 ### **Results**
 
-Results are ongoing. We have already learned several things from the project though. First, we did a study on whether individuals were good at judging that they had the different symptoms of psychopathology we assessed. It turns out that for depression, anxiety, and insomnia, people generally know whether their symptoms are clinically-elevated, whether or not they have seen a mental health professional. Second, we divided people into groups based on 1) whether or not they wrote in a Twitter handle and whether that Twitter handle was "valid"
+*Analyses are ongoing!* 
+
+We have already learned several things from the project though. First, we did a study on whether individuals were good at judging that they had the different symptoms of psychopathology we assessed. It turns out that for depression, anxiety, and insomnia, people generally know whether their symptoms are clinically-elevated, whether or not they have seen a mental health professional. Second, we divided people into groups based on 1) whether or not they wrote in a Twitter handle and whether that Twitter handle was "valid"
 
 Not Twitter users, Claim to be Twitter users but gave a non-sense handle, Claim to be Twitter user but determined to be a bot, and 4) Claimed to be a Twitter user and gave us a real handle
