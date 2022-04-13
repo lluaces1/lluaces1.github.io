@@ -7,7 +7,7 @@ navbar:
     - text: "People"
       href: people.html
     - text: "SOCIAL surveys"
-      href: social.html
+      href: SOCIAL.html
     - text: "Other projects"
       href: projects.html
     - text: "Our papers"
