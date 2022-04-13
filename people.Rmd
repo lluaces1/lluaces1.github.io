@@ -33,7 +33,7 @@ a:active {
 
 ***
 
-#### Current lab members
+#### **Current lab members**
 
 ***
 ![**Lorenzo Lorenzo-Luaces, PhD <br> Assistant Professor <br> Indiana University-Bloomington <br> E-mail**: lolorenz@indiana.edu](pictures/LLL.jpg){height=175px width=175px}
@@ -111,7 +111,7 @@ My research interests include *internet-based treatments* for psychological prob
 
 </div>
 
-#### Past lab members
+#### **Past lab members**
 
 
 ***
@@ -145,7 +145,7 @@ I graduated from Indiana University in 2020 with B.S. degrees in human biology a
 - Devon Miller
 - Tres Lamar Kirtley
 
-#### Key collaborators
+#### **Key collaborators**
 
 According to [Scopus](https://www.scopus.com/authid/detail.uri?origin=resultslist&authorId=55897858800&zone=#tab=co-authors), I have at least 64 collaborators. Below, I highlight some of them:
 
