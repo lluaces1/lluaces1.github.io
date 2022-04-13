@@ -45,9 +45,13 @@ The **Surveys of Online Cohorts for Internalizing symptoms And Language (SOCIAL)
 
 - [Informatics](https://luddy.indiana.edu/) 
 - [Psychology](https://psych.indiana.edu/) 
-- [Public Health](https://psych.indiana.edu/)
+- [Public Health](https://publichealth.indiana.edu//)
+
+<br>
 
 ***
+
+<br>
 
 <div class = "row">
 
@@ -55,20 +59,20 @@ The **Surveys of Online Cohorts for Internalizing symptoms And Language (SOCIAL)
 ![](pictures/pbs.jpg){height=125 width=125px}
 
 
-[Psychological and Brain Sciences](https://trailstowellness.org/about/trails-team)
+[Psychological and Brain Sciences](https://psych.indiana.edu/)
 </div>
   
 <div class = "col-md-4">
 ![](pictures/LLL.jpg){height=125 width=125px}
 
-[Lorenzo Lorenzo-Luaces, PhD <br> Professor](https://homes.luddy.indiana.edu/jbollen/)
+[Lorenzo Lorenzo-Luaces, PhD <br> Assistant Professor](https://psych.indiana.edu/directory/faculty/lorenzo-luaces-lorenzo.html)
 </div>
 
 <div class = "col-md-4">
 
 ![](pictures/LAR.jpg){height=125 width=125px}
 
-[Lauren A. Rutter, PhD <br> Research Scientist](https://psychology.sas.upenn.edu/people/robert-derubeis)
+[Lauren A. Rutter, PhD <br> Research Scientist](https://psych.indiana.edu/directory/faculty/rutter-lauren.html)
 </div>
 
 </div>
@@ -79,14 +83,14 @@ The **Surveys of Online Cohorts for Internalizing symptoms And Language (SOCIAL)
 <div class = "col-md-4">
 ![](pictures/JoB.jpg){height=125 width=125px}
 
-[Johan Bollen, PhD <br> Professor](https://cris.maastrichtuniversity.nl/en/persons/suzanne-van-bronswijk)
+[Johan Bollen, PhD <br> Professor](https://homes.luddy.indiana.edu/jbollen/)
 </div>
 
 
 <div class = "col-md-4">
 ![](pictures/luddy.png){height=125 width=125px}
 
-[Luddy School of Informatics](https://cris.maastrichtuniversity.nl/en/persons/suzanne-van-bronswijk)
+[Luddy School of Informatics](luddy.indiana.edu/)
 </div>
 
 
@@ -112,14 +116,14 @@ The **Surveys of Online Cohorts for Internalizing symptoms And Language (SOCIAL)
 <div class = "col-md-4">
 ![](pictures/DV.jpg){height=125 width=125px}
 
-[Daniel Valdez, PhD <br> Assistant Professor](https://cris.maastrichtuniversity.nl/en/persons/suzanne-van-bronswijk)
+[Daniel Valdez, PhD <br> Assistant Professor](https://publichealth.indiana.edu/research/faculty-directory/profile.html?user=danvald)
 </div>
 
 
 <div class = "col-md-4">
 ![](pictures/sph.jpg){height=125 width=125px}
 
-[School of Public Health](https://cris.maastrichtuniversity.nl/en/persons/suzanne-van-bronswijk)
+[School of Public Health](https://publichealth.indiana.edu/)
 </div>
 
 

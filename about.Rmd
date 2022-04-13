@@ -4,9 +4,37 @@ bibliography: references.bib
 nocite: '@*'
 csl: _apa.csl
 ---
+
+
+<style>
+  .nav-pills>li>a:hover, 
+  .nav-pills>li>a:focus, 
+  .nav-pills>li.active>a,     
+  .nav-pills>li.active>a:hover, 
+  .nav-pills>li.active>a:focus{
+     background-color: #990000;
+     }
+
+a:link {
+  color: #990000;
+}
+
+a:visited {
+  color: #BD0000;
+}
+
+a:hover {
+  color: #A7A9AB;
+}
+
+a:active {
+  color: #990000;
+}
+</style>
+
 <center>
 <h1 style="color:#990000">**References**</h1>
 </center>
 
-Below you can find all the papers associated to Prof. Lorenzo-Luaces. Not all these papers were written primarily while I was at the **Indiana University** but they are all representative of the interests of the lab. Some of these papers were written while I was at the University of Pennsylvania or by colleagues in Amsterdam or Spain!
+## Below you can find all the papers associated to Prof. Lorenzo-Luaces. Not all these papers were written primarily while I was at [**Indiana University**](https://www.indiana.edu/) but they are all representative of the interests of the lab. Some of these papers were written while I was at the [**University of Pennsylvania**](https://psychology.sas.upenn.edu/training-programs/clinical-training-program) or by colleagues in Amsterdam or Spain!
 
