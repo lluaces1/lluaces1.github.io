@@ -30,30 +30,32 @@ a:active {
 
 <br>
 
-## Below are descriptions of projects we have ongoing. *Prof. Lorenzo-Luaces is the PI or co-PI for the projects below, unless otherwise noted.* For all projects we take special interest in *individual differences* {.tabset .tabset-fade .tabset-pills}
+# Below are descriptions of projects we have ongoing. *Prof. Lorenzo-Luaces is the PI or co-PI for the projects below, unless otherwise noted.* For all projects we take special interest in *individual differences* {.tabset .tabset-fade .tabset-pills}
 
-### **Low-intensity treatments**
+## **Low-intensity treatments**
 
-Psychological interventions are effective treatments for depression, anxiety, stress, insomnia, and other common mental health concerns. Despite this, it is very difficult for most people to access treatments because they are expensive, time-consuming, and difficult to find. We have several projects studying interventions that are not as expensive as face-to-face psychotherapy with trained therapists, including internet apps and books. The projects include:
+### Psychological interventions are effective treatments for depression, anxiety, stress, insomnia, and other common mental health concerns. Despite this, it is very difficult for most people to access treatments because they are expensive, time-consuming, and difficult to find. We have several projects studying interventions that are not as expensive as face-to-face psychotherapy with trained therapists, including internet apps and books. The projects include:
 
-- Leveraging computational social sciences and natural language processing to optimize engagement and response to low-intensity CBT for depression and anxiety
-- Feasibility of stepped care with single-session interventions and guided self-help CBT
-- Psychologists’ use of waiting lists and willingness to use low-intensity treatments (PI: Peipert)
-- Barriers to internet-based CBT use (PI: Peipert)
-- Racial-ethnic diversity in trials of internet-based cognitive-behavioral therapy (PI: De Jesús-Romero)
-- Willingness of individuals to use different low-intensity treatments (PI: De Jesús-Romero)
-- Predictors of engagement with guided self-help (PI: Starvaggi)
-
-
-### **Emotion regulation**
-
-One commonality of depression, anxiety, stress, insomnia, and other common mental health concerns may be that people have a hard time regulating their emotions, especially negative emotions. When we conduct studies, we usually include measures of emotion regulation, usually the Emotion Regulation Questionnaire (Gross and John, 2003). The ERQ measures the habitual or regular use of two emotion regulation strategies: cognitive reappraisal and expressive suppression. Projects that specifically focus on emotion regulation include:
-
-- Cognitive reappraisal of LGB-identity vs. non-LGB-identity stress in LGBT young adults (PI: De Jesús-Romero)
-- Mechanisms of change in transdiagnostic guided self-help (PI: De Jesús-Romero)
+- <h3>Leveraging computational social sciences and natural language processing to optimize engagement and response to low-intensity CBT for depression and anxiety </h3>
+- <h3>Feasibility of stepped care with single-session interventions and guided self-help CBT</h3>
+- <h3>Psychologists’ use of waiting lists and willingness to use low-intensity treatments (PI: Peipert)</h3>
+- <h3>Barriers to internet-based CBT use (PI: Peipert)</h3>
+- <h3>Racial-ethnic diversity in trials of internet-based cognitive-behavioral therapy (PI: De Jesús-Romero)</h3>
+- <h3>Willingness of individuals to use different low-intensity treatments (PI: De Jesús-Romero)</h3>
+- <h3>redictors of engagement with guided self-help (PI: Starvaggi) </h3>
 
 
-### **Social media**
+
+
+## **Emotion regulation**
+
+### One commonality of depression, anxiety, stress, insomnia, and other common mental health concerns may be that people have a hard time regulating their emotions, especially negative emotions. When we conduct studies, we usually include measures of emotion regulation, usually the Emotion Regulation Questionnaire (Gross and John, 2003). The ERQ measures the habitual or regular use of two emotion regulation strategies: cognitive reappraisal and expressive suppression. Projects that specifically focus on emotion regulation include:
+
+- <h3>Cognitive reappraisal of LGB-identity vs. non-LGB-identity stress in LGBT young adults (PI: De Jesús-Romero)</h3>
+- <h3>Mechanisms of change in transdiagnostic guided self-help (PI: De Jesús-Romero) </h3>
+
+
+## **Social media**
 
 **Social media** is a relatively recent development. As of 2021, over *75%* of adults in the United States are on a social media platform. That alone makes social media an interesting topic to study. 
 
@@ -66,6 +68,6 @@ We have several ongoing studies under the umbrella of the **Surveys of Online Co
 
 
 
-### **Heterogeneity**
+## **Heterogeneity**
 
 - Heterogeneity of depression and the contribution of specifier symptoms like melancholia to heterogeneity (PI: Buss)
