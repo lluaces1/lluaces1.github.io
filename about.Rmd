@@ -20,7 +20,7 @@ a:link {
 }
 
 a:visited {
-  color: #BD0000;
+  color: #990000;
 }
 
 a:hover {
