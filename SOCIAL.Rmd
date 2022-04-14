@@ -41,7 +41,7 @@ a:active {
 ### **About SOCIAL**
 <br>
 
-The **Surveys of Online Cohorts for Internalizing symptoms And Language (SOCIAL)** are a collaboration between researchers at [Indiana University's](iu.edu) departments of: 
+The Surveys of Online Cohorts for Internalizing symptoms And Language (SOCIAL) are a collaboration between researchers at [Indiana University's](iu.edu) departments of: 
 
 - [Psychology](https://psych.indiana.edu/) 
 - [Informatics](https://luddy.indiana.edu/) 
@@ -60,20 +60,20 @@ The studys represent an interdisciplinary approach to studying mental health tha
 ![](pictures/pbs.jpg){height=125 width=125px}
 
 
-[**Psychological and Brain Sciences**](https://psych.indiana.edu/)
+[Psychological and Brain Sciences](https://psych.indiana.edu/)
 </div>
   
 <div class = "col-md-4">
 ![](pictures/LLL.jpg){height=125 width=125px}
 
-[**Lorenzo Lorenzo-Luaces, PhD <br> Assistant Professor**](https://psych.indiana.edu/directory/faculty/lorenzo-luaces-lorenzo.html)
+[Lorenzo Lorenzo-Luaces, PhD <br> Assistant Professor](https://psych.indiana.edu/directory/faculty/lorenzo-luaces-lorenzo.html)
 </div>
 
 <div class = "col-md-4">
 
 ![](pictures/LAR.jpg){height=125 width=125px}
 
-[**Lauren A. Rutter, PhD <br> Research Scientist**](https://psych.indiana.edu/directory/faculty/rutter-lauren.html)
+[Lauren A. Rutter, PhD <br> Research Scientist](https://psych.indiana.edu/directory/faculty/rutter-lauren.html)
 </div>
 
 </div>
@@ -84,14 +84,14 @@ The studys represent an interdisciplinary approach to studying mental health tha
 <div class = "col-md-4">
 ![](pictures/JoB.jpg){height=125 width=125px}
 
-[**Johan Bollen, PhD <br> Professor**](https://homes.luddy.indiana.edu/jbollen/)
+[Johan Bollen, PhD <br> Professor](https://homes.luddy.indiana.edu/jbollen/)
 </div>
 
 
 <div class = "col-md-4">
 ![](pictures/luddy.png){height=125 width=125px}
 
-[**Luddy School of Informatics**](luddy.indiana.edu/)
+[Luddy School of Informatics](luddy.indiana.edu/)
 </div>
 
 
@@ -117,14 +117,14 @@ The studys represent an interdisciplinary approach to studying mental health tha
 <div class = "col-md-4">
 ![](pictures/DV.jpg){height=125 width=125px}
 
-[**Daniel Valdez, PhD <br> Assistant Professor**](https://publichealth.indiana.edu/research/faculty-directory/profile.html?user=danvald)
+[Daniel Valdez, PhD <br> Assistant Professor](https://publichealth.indiana.edu/research/faculty-directory/profile.html?user=danvald)
 </div>
 
 
 <div class = "col-md-4">
 ![](pictures/sph.jpg){height=125 width=125px}
 
-[**School of Public Health**](https://publichealth.indiana.edu/)
+[School of Public Health](https://publichealth.indiana.edu/)
 </div>
 
 
@@ -182,33 +182,38 @@ Most relevant to our work, there are reported **correlations** between social me
 We followed simple principles for choosing measures for this study. First, we wanted to have a good coverage of the symptoms of psychopathology that are represented by the [Hierarchical Taxonomy of Psychopathology (HiTOP) model](https://renaissance.stonybrookmedicine.edu/HITOP). Second, we wanted to do research that was accessible and could be reproduced by others. Because of this, we focused on freely-available measures, usual the [DSM Severity Measures](https://www.psychiatry.org/psychiatrists/practice/dsm/educational-resources/assessment-measures) endorsed by the [American Psychiatric Association](https://www.psychiatry.org/). Below are the measures that we used for all of SOCIALs I and II.
 <br>
 
-|Construct      | Measure       |No. items | Response options                             | Range   | $\alpha$| 
-|:------------------|:--------------|---------:|:-------------------------|:--------|:-------:|
+|Construct          | Measure       | SOCIAL-I | SOCIAL-II | SOCIAL-III | SOCIAL-IV| 
+|:------------------|:--------------|:------------|:------------|:------------|:------------|
 | **Somatoform**	      |		        |	       |	   |		|		 |
-| Pain	        |	[PHQ-15](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-Level2SomaticSymptomAdult.pdf)	      |	15       |	2 - 0 (bothered a lot vs. not)	|	0 - 30	|	0.86	 |
-| Insomnia	    |	[ISI](https://www.ons.org/sites/default/files/InsomniaSeverityIndex_ISI.pdf)	          |	7	       |	Varies per question	                        |	0 - 28	|	0.87	 |
+| Pain	        |	[PHQ-15](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-Level2SomaticSymptomAdult.pdf)	|	Yes	|	Yes	 | Yes	|	No	 |
+| Insomnia	    |	[ISI](https://www.ons.org/sites/default/files/InsomniaSeverityIndex_ISI.pdf) |	Yes	|	Yes	 | Yes	|	ISI-3	 |
 | **Internalizing distress**	      |		        |	       |	   |		|		 |
-| Depression	  |	[PHQ-9](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-SeverityMeasureForDepressionAdult.pdf)	            |	9	       |	0 - 3 (not at all - nearly every day)	      |	0 - 27	|	0.90	 |
-| Stress	      |	MIDUS	        |	9	       |	0 - 10 (no stress -- severe stress)     |	0 - 90	|	0.84	 |
-| Worry         |	[DSM Severity](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-SeverityMeasureForGeneralizedAnxietyDisorderAdult.pdf)	 	|	10       |	0 - 4 (never -all of the time)	            |	0 - 40	|	0.93	 |
-| Social anxiety|	[DSM Severity](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-SeverityMeasureForSocialAnxietyDisorderAdult.pdf) 	|	10       |	0 - 4 (never -all of the time)	            |	0 - 40	|	0.94	 |
+| Negative affect	  |	[PID](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-ThePersonalityInventoryForDSM5BriefFormAdult.pdf) |	No	|	Yes	 | Yes	|	TIPI | 
+| Depression	  |	[PHQ-9](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-SeverityMeasureForDepressionAdult.pdf) |	Yes	|	Yes	 | Yes	|	PROMIS/K6	 | 
+| Stress	      |	MIDUS	|	Yes	|	Yes	 | Yes	|	No	 |
+| Worry         |	[DSM Severity](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-SeverityMeasureForGeneralizedAnxietyDisorderAdult.pdf) |	Yes	|	Yes	 | Yes	|	K6	 |
+| Social anxiety|	[DSM Severity](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-SeverityMeasureForSocialAnxietyDisorderAdult.pdf) |	Yes	|	Yes	 | Yes	|	No	 |
 | **Internalizing fear**	      |		        |	       |	   |		|		 |
-| Panic         |	[DSM Severity](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-SeverityMeasureForPanicDisorderAdult.pdf)	  	|	10       |	0 - 4 (never -all of the time)	            |	0 - 40	|	0.95	 |
-| Agoraphobia	  | [DSM Severity](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-SeverityMeasureForAgoraphobiaAdult.pdf)	|	10       |	0 - 4 (never -all of the time)	            |	0 - 40	| 0.85	   |
+| Panic         |	[DSM Severity](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-SeverityMeasureForPanicDisorderAdult.pdf)	  |	Yes	|	Yes	 | Yes	|	No	 |
+| Agoraphobia	  | [DSM Severity](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-SeverityMeasureForAgoraphobiaAdult.pdf) | Partial | Partial | No | No |
 | **Externalizing disinhibition**	      |		        |	       |	   |		|		 |
-| Alcohol use	  |	[AUDIT](https://nida.nih.gov/sites/default/files/audit.pdf)	        |	10       |	Varies per question	                        |	0 - 40	|	0.90	 |
-| Substance use	|	[DSM Severity](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-Level2SubstanceUseAdult.pdf)	|	10       |	0 - 4 (not at all - nearly every day)	      |	0 - 40	|	0.90	 |
+| Disinhibition	  |	[PID](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-ThePersonalityInventoryForDSM5BriefFormAdult.pdf) |	No	|	Yes	 | Yes	|	TIPI | 
+| Alcohol use	  |	[AUDIT](https://nida.nih.gov/sites/default/files/audit.pdf)  |	Yes	|	Yes	 | Yes	|	Yes	 |
+| Substance use	|	[DSM Severity](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-Level2SubstanceUseAdult.pdf)	|	Yes	|	Yes	 | Yes	|	No	 |
+| **Externalizing antagonism**	      |		        |	       |	   |		|		 |
+| Antagonism	  |	[PID](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-ThePersonalityInventoryForDSM5BriefFormAdult.pdf) |	No	|	Yes	 | Yes	|	TIPI | 
+| **Thought disorder**	      |		        |	       |	   |		|		 |
+| Psychoticism	  |	[PID](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-ThePersonalityInventoryForDSM5BriefFormAdult.pdf) |	No	|	Yes	 | Yes	|	No | 
+| Mania	  |	[ASRM](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-Level2ManiaAdult.pdf) |	No	|	Yes	 | Yes	|	No | 
+| **Eating**	      |		        |	       |	   |		|		 |
+| Restrictive intake	  |	EDEQ |	No	|	Yes	 | Yes	|	No | 
+| Body concerns	        |	EDEQ |	No	|	Yes	 | Yes	|	No | 
+| Food insecurity	      |	USDA Screener  |	No	|	Yes	 | Yes	|	No | 
+| **Detachment**	      |		        |	       |	   |		|		 |
+| Detachment	  |	[PID](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-ThePersonalityInventoryForDSM5BriefFormAdult.pdf) |	No	|	Yes	 | Yes	|	No | 
+| Social support	  |	[ESSI](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-ThePersonalityInventoryForDSM5BriefFormAdult.pdf) |	No	|	Yes	 | Yes	|	No | 
 
-While this initial battery of measures was very interesting, we realized it did not capture as many constructs as we would have liked! So, for latter cohorts of SOCIAL II and for SOCIAL-III we expanded the battery of questions to also capture temperament, eating, and loneliness. Specifically, the studies now ask about:
 
-- Negative affect
-- Detachment
-- Disinhibition
-- Antagonism
-- Psychoticism
-- Loneliness/low social support
-- Restrictive food intake
-- Food insecurity
 
 
 ### **Results**
