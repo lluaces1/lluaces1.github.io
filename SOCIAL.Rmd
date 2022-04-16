@@ -32,7 +32,7 @@ a:active {
 
 <br>
 
-## Learn more about our study! {.tabset .tabset-fade .tabset-pills}
+## Learn more about our study on social media and mental health! {.tabset .tabset-fade .tabset-pills}
 
 <br>
 
@@ -56,24 +56,17 @@ The studys represent an interdisciplinary approach to studying mental health tha
 
 <div class = "row">
 
-<div class = "col-md-4">
-![](pictures/pbs.jpg){height=125 width=125px}
-
-
-[Psychological and Brain Sciences](https://psych.indiana.edu/)
-</div>
-  
-<div class = "col-md-4">
+<div class = "col-md-6">
 ![](pictures/LLL.jpg){height=125 width=125px}
 
-[Lorenzo Lorenzo-Luaces, PhD <br> Assistant Professor](https://psych.indiana.edu/directory/faculty/lorenzo-luaces-lorenzo.html)
+[Lorenzo Lorenzo-Luaces, PhD <br> Assistant Professor <br> Psychological and Brain Sciences](https://psych.indiana.edu/directory/faculty/lorenzo-luaces-lorenzo.html)
 </div>
 
-<div class = "col-md-4">
+<div class = "col-md-6">
 
 ![](pictures/LAR.jpg){height=125 width=125px}
 
-[Lauren A. Rutter, PhD <br> Research Scientist](https://psych.indiana.edu/directory/faculty/rutter-lauren.html)
+[Lauren A. Rutter, PhD <br> Research Scientist <br> Psychological and Brain Sciences](https://psych.indiana.edu/directory/faculty/rutter-lauren.html)
 </div>
 
 </div>
@@ -81,50 +74,17 @@ The studys represent an interdisciplinary approach to studying mental health tha
 
 <div class = "row">
   
-<div class = "col-md-4">
+<div class = "col-md-6">
 ![](pictures/JoB.jpg){height=125 width=125px}
 
-[Johan Bollen, PhD <br> Professor](https://homes.luddy.indiana.edu/jbollen/)
+[Johan Bollen, PhD <br> Professor <br> Luddy School of Informatics](https://homes.luddy.indiana.edu/jbollen/)
 </div>
 
 
-<div class = "col-md-4">
-![](pictures/luddy.png){height=125 width=125px}
-
-[Luddy School of Informatics](luddy.indiana.edu/)
-</div>
-
-
-
-<div class = "col-md-4">
-
-![](pictures/cream.png){height=125 width=125px}
-
-</div>
-
-</div>
-
-<div class = "row">
-
-
-<div class = "col-md-4">
-
-![](pictures/crimson.png){height=125 width=125px}
-
-
-</div>
-
-<div class = "col-md-4">
+<div class = "col-md-6">
 ![](pictures/DV.jpg){height=125 width=125px}
 
-[Daniel Valdez, PhD <br> Assistant Professor](https://publichealth.indiana.edu/research/faculty-directory/profile.html?user=danvald)
-</div>
-
-
-<div class = "col-md-4">
-![](pictures/sph.jpg){height=125 width=125px}
-
-[School of Public Health](https://publichealth.indiana.edu/)
+[Daniel Valdez, PhD <br> Assistant Professor <br> School of Public Health](https://publichealth.indiana.edu/research/faculty-directory/profile.html?user=danvald)
 </div>
 
 
@@ -133,18 +93,16 @@ The studys represent an interdisciplinary approach to studying mental health tha
 <br>
 
 
-We have several ongoing studies under the umbrella of the **Surveys of Online Cohorts for Internalizing symptoms And Language (SOCIAL)**:
+We have several SOCIAL studies completed or ongoing:
 <br>
 
-- In SOCIAL-I, we surveyed a nationally representative sample of 1123 U.S. adults and administered a transdiagnostic battery of symptom assessments that correspond to the [Hierarchical Taxonomy of Psychopathology (HiTOP) model](https://renaissance.stonybrookmedicine.edu/HITOP). We also obtained their consent to access their social media accounts. The aim of the project is to triangulate self-reported mental health data and social media activity. Individuals were recruited  from July 2020 to March 2021 for a study on ``social media and mental health.'' The sample was selected to approximate the U.S. populations on the intersections of age, gender, and race/ethnicity. 
+- **SOCIAL-I**: We surveyed a nationally representative sample of 1123 U.S. adults and administered a transdiagnostic battery of symptom assessments that correspond to the [Hierarchical Taxonomy of Psychopathology (HiTOP) model](https://renaissance.stonybrookmedicine.edu/HITOP). We also obtained their consent to access their Twitter accounts.  Individuals were recruited  from July 2020 to March 2021 for a study on "social media and mental health." The sample was selected to approximate the U.S. populations on the intersections of age, gender, and race/ethnicity. 
 
-- All individuals in SOCIAL-I were Twitter users. Accordingly, we could not ascertain the role that being a Twitter user itself has on potential differences between individuals in baseline sociodemographics, social media use, and mental health symptoms. To have a sample of individuals who did not use Twitter as well as to have an additional sample in which to assess the transportability of results from SOCIAL-I, we began the **SOCIAL-II** study. SOCIAL-II recruited *college students* from a predominantly White and Asian university in the Midwest. Individuals were compensated for credit in an introductory psychology course. Individuals were recruited from September 2020 to the present. We have over 2,015 participants.
+- **SOCIAL-II**: All individuals in SOCIAL-I were Twitter users. Accordingly, we could not ascertain the role that being a Twitter user itself has on potential differences between individuals in baseline sociodemographics, social media use, and mental health symptoms. To have a sample of individuals who did not use Twitter as well as to have an additional sample in which to assess the transportability of results from SOCIAL-I, we began the **SOCIAL-II** study. SOCIAL-II recruited *college students* from a predominantly White and Asian university in the Midwest. Individuals were compensated for credit in an introductory psychology course. Individuals were recruited from September 2020 to the present. We have over 2,015 participants.
 
-- **SOCIAL-III** is scheduled to have an overlapping battery with SOCIALs I and II  and will use snowball sampling of *Twitter users.*
+- **SOCIAL-III**: This study is scheduled to have an overlapping battery with SOCIALs I and II  and will use snowball sampling of *Twitter users.*
 
-- [**SOCIAL-IV**](https://clinicaltrials.gov/ct2/show/NCT04870099) is a bit different in that it is a clinical trial where we also collect social media data! The results of SOCIALs I, II, and III will be used to train classifiers of somatoform, internalizing fear, internalizing distress, and disinhibited externalizing symptoms.
-
-SOCIAL-III and IV are ongoing studies that recruited people using snowball sampling on social media. SOCIAL-IV has the added component that it is a clinical [intervention study](https://clinicaltrials.gov/ct2/show/NCT04870099).
+- [**SOCIAL-IV**](https://clinicaltrials.gov/ct2/show/NCT04870099): SOCIAL-IV is a bit different in that it is a clinical trial where we also collect social media data! The results of SOCIALs I, II, and III will be used to train classifiers of somatoform, internalizing fear, internalizing distress, and disinhibited externalizing symptoms to track these in SOCIAL-IV participants.
 
 ### **Background**
 <br>
@@ -180,28 +138,28 @@ Most relevant to our work, there are reported **correlations** between social me
 We followed simple principles for choosing measures for this study. First, we wanted to have a good coverage of the symptoms of psychopathology that are represented by the [Hierarchical Taxonomy of Psychopathology (HiTOP) model](https://renaissance.stonybrookmedicine.edu/HITOP). Second, we wanted to do research that was accessible and could be reproduced by others. Because of this, we focused on freely-available measures, usual the [DSM Severity Measures](https://www.psychiatry.org/psychiatrists/practice/dsm/educational-resources/assessment-measures) endorsed by the [American Psychiatric Association](https://www.psychiatry.org/). Below are the measures that we used for all of SOCIALs I and II.
 <br>
 
-|| Construct          | Measure       | SOCIAL-I | SOCIAL-II | SOCIAL-III | SOCIAL-IV| 
-|:--------------------| :------------------|:--------------|:------------|:------------|:------------|:------------|
-| **Somatoform** |  Pain	        |	[PHQ-15](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-Level2SomaticSymptomAdult.pdf)	|	Yes	|	Yes	 | Yes	|	No	 |
-||  Insomnia	    |	[ISI](https://www.ons.org/sites/default/files/InsomniaSeverityIndex_ISI.pdf) |	Yes	|	Yes	 | Yes	|	ISI-3	 |
-|**Distress**	  |  Negative affect	  |	[PID](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-ThePersonalityInventoryForDSM5BriefFormAdult.pdf) |	No	|	Yes	 | Yes	|	TIPI | 
-||  Depression	  |	[PHQ-9](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-SeverityMeasureForDepressionAdult.pdf) |	Yes	|	Yes	 | Yes	|	PROMIS/K6	 | 
-||  Stress	      |	MIDUS	|	Yes	|	Yes	 | Yes	|	No	 |
-||  Worry         |	[DSM Severity](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-SeverityMeasureForGeneralizedAnxietyDisorderAdult.pdf) |	Yes	|	Yes	 | Yes	|	K6	 |
-||  Social anxiety|	[DSM Severity](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-SeverityMeasureForSocialAnxietyDisorderAdult.pdf) |	Yes	|	Yes	 | Yes	|	No	 |
-| **Fear** |  Panic         |	[DSM Severity](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-SeverityMeasureForPanicDisorderAdult.pdf)	  |	Yes	|	Yes	 | Yes	|	No	 |
-||  Agoraphobia	  | [DSM Severity](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-SeverityMeasureForAgoraphobiaAdult.pdf) | Partial | Partial | No | No |
-|**Disinhibition**	|  Disinhibition	  |	[PID](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-ThePersonalityInventoryForDSM5BriefFormAdult.pdf) |	No	|	Yes	 | Yes	|	TIPI | 
-||  Alcohol use	  |	[AUDIT](https://nida.nih.gov/sites/default/files/audit.pdf)  |	Yes	|	Yes	 | Yes	|	Yes	 |
-||  Substance use	|	[DSM Severity](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-Level2SubstanceUseAdult.pdf)	|	Yes	|	Yes	 | Yes	|	No	 |
-|**Antagonism**	 |  Antagonism	  |	[PID](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-ThePersonalityInventoryForDSM5BriefFormAdult.pdf) |	No	|	Yes	 | Yes	|	TIPI | 
-|**Thought disorder**|  Psychoticism	  |	[PID](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-ThePersonalityInventoryForDSM5BriefFormAdult.pdf) |	No	|	Yes	 | Yes	|	No | 
-||  Mania	  |	[ASRM](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-Level2ManiaAdult.pdf) |	No	|	Yes	 | Yes	|	No | 
-|**Eating**	|  Restrictive intake	  |	EDEQ |	No	|	Yes	 | Yes	|	No | 
-||  Body concerns	        |	EDEQ |	No	|	Yes	 | Yes	|	No | 
-||  Food insecurity	      |	USDA Screen  |	No	|	Yes	 | Yes	|	No | 
-|**Detachment** |  Detachment	  |	[PID](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-ThePersonalityInventoryForDSM5BriefFormAdult.pdf) |	No	|	Yes	 | Yes	|	No | 
-||  Social support	  |	[ESSI](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-ThePersonalityInventoryForDSM5BriefFormAdult.pdf) |	No	|	Yes	 | Yes	|	No | 
+| Spectra | Construct           | Measure            | SOCIAL-I          | SOCIAL-II         | SOCIAL-III        |  
+|:-----------------|:--------------------|:------------------|:------------------|:------------------|:------------------|
+| **Somatoform**      |  Pain	|	[PHQ-15](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-Level2SomaticSymptomAdult.pdf)	|	Yes	|	Yes	 | Yes	|	
+| |  Insomnia	    |	[ISI](https://www.ons.org/sites/default/files/InsomniaSeverityIndex_ISI.pdf) |	Yes	|	Yes	 | Yes	|	
+|**Distress**	  |  Negative affect	  |	[PID](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-ThePersonalityInventoryForDSM5BriefFormAdult.pdf) |	No	|	Yes	 | Yes	|	 
+| | Depression	  |	[PHQ-9](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-SeverityMeasureForDepressionAdult.pdf) |	Yes	|	Yes	 | Yes	|
+| | Stress	      |	MIDUS	|	Yes	|	Yes	 | No	|	
+| | Worry         |	[DSM Severity](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-SeverityMeasureForGeneralizedAnxietyDisorderAdult.pdf) |	Yes	|	Yes	 | Yes	|	
+| | Social anxiety|	[DSM Severity](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-SeverityMeasureForSocialAnxietyDisorderAdult.pdf) |	Yes	|	Yes	 | Yes	|	
+| **Fear** |  Panic         |	[DSM Severity](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-SeverityMeasureForPanicDisorderAdult.pdf)	  |	Yes	|	Yes	 | Yes	|
+| | Agoraphobia	  | [DSM Severity](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-SeverityMeasureForAgoraphobiaAdult.pdf) | Partial | Partial | No | 
+|**Disinhibition**	|  Disinhibition	  |	[PID](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-ThePersonalityInventoryForDSM5BriefFormAdult.pdf) |	No	|	Yes	 | Yes	|	 
+| |  Alcohol use	  |	[AUDIT](https://nida.nih.gov/sites/default/files/audit.pdf)  |	Yes	|	Yes	 | Yes	|
+| |  Substance use	|	[DSM Severity](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-Level2SubstanceUseAdult.pdf)	|	Yes	|	Yes	 | Yes	|
+|**Antagonism**	 |  Antagonism	  |	[PID](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-ThePersonalityInventoryForDSM5BriefFormAdult.pdf) |	No	|	Yes	 | Yes	|	
+|**Thought disorder**|  Psychoticism	  |	[PID](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-ThePersonalityInventoryForDSM5BriefFormAdult.pdf) |	No	|	Yes	 | Yes	| 
+| |  Mania	  |	[ASRM](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-Level2ManiaAdult.pdf) |	Partial	|	Partial	 | No	|	 
+|**Eating**	|  Restrictive intake	  |	EDEQ |	No	|	Yes	 | Yes	| 
+| | Body concerns	        |	EDEQ |	No	|	Yes	 | Yes	|
+| | Food insecurity	      |	USDA |	No	|	Yes	 | Yes	|
+|**Detachment** |  Detachment	  |	[PID](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-ThePersonalityInventoryForDSM5BriefFormAdult.pdf) |	No	|	Yes	 | Yes	|	 
+|  | Social support	  |	[ESSI](https://www.psychiatry.org/File%20Library/Psychiatrists/Practice/DSM/DSM-5-TR/APA-DSM5TR-ThePersonalityInventoryForDSM5BriefFormAdult.pdf) |	No	|	Yes	 | Yes	|	 
 
 
 
