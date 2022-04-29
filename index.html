@@ -13,7 +13,7 @@
 
 <title>index.knit</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -59,6 +59,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -79,6 +80,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -231,7 +235,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -284,7 +288,7 @@ $(document).ready(function () {
 </center>
 <p><br></p>
 <h3>
-<p>This is a <em>work in progress</em> as the website for Prof. Lorenzo-Luaces’ lab, the Study of Affective Disorders’ Classification and Treatment (SADCAT) Lab. The SADCAT Lab is currently housed at Indiana University - Bloomington in the Department of Psychological and Brain Sciences. We are learning how to render websites using R Markdown so we appreciate this site may not <em>look</em> pretty (yet). That said, we’re excited about the ability to share our work and our vision for psychological and brain sciences with you!</p>
+<p>This is a <em>work in progress</em> as the website for Prof. Lorenzo-Luaces’ lab, the Study of Affective Disorders’ Classification and Treatment (SADCAT) Lab. The SADCAT Lab is currently housed at Indiana University - Bloomington in the Department of Psychological and Brain Sciences. We’re excited to share our work and our vision for psychological and brain sciences with you!</p>
 </h3>
 <center>
 <img src="pictures/logo.png" width="450" height="450" />
