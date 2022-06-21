@@ -37,7 +37,7 @@ a:active {
 
 This guide was developed by [World Health Organization](https://www.who.int/publications/i/item/9789240003927) for help deealing with stress. You can find the guide below! If you were in one of our studies that used the guide, also look for it in your e-mail.
 
-![Doing what matters](DWM e-mail.pdf){height=1000px width=1000px}
+![Doing what matters](DWM.pdf){height=1000px width=1000px}
 
 
 #### COMET single-session intervention (30-40 minutes)
