@@ -3,20 +3,43 @@ output: html_document
 ---
 
 
-Here are resources that the lab often uses, but were not developed by us!
+<style>
+  .nav-pills>li>a:hover, 
+  .nav-pills>li>a:focus, 
+  .nav-pills>li.active>a,     
+  .nav-pills>li.active>a:hover, 
+  .nav-pills>li.active>a:focus{
+     background-color: #990000;
+     }
+
+a:link {
+  color: #990000;
+}
+
+a:visited {
+  color: #BD0000;
+}
+
+a:hover {
+  color: #A7A9AB;
+}
+
+a:active {
+  color: #990000;
+}
+</style>
+
+### Here are resources that the lab often uses, but were not developed by us! {.tabset .tabset-fade .tabset-pills}
 
 
-<center>
-<h1 style="color:#990000">**Doing what matters in times of stress (book)**</h1>
-</center>
+#### Doing what matters in times of stress (book) 
+
 
 This guide was developed by [World Health Organization](https://www.who.int/publications/i/item/9789240003927) for help deealing with stress. You can find the guide below! If you were in one of our studies that used the guide, also look for it in your e-mail.
 
 ![Doing what matters](DWM e-mail.pdf){height=1000px width=1000px}
 
 
-<center>
-<h1 style="color:#990000">**COMET single-session intervention (30-40 minutes)**</h1>
-</center>
+#### COMET single-session intervention (30-40 minutes)
 
 The COMET intervention was developed by Akash Wasill and colleagues at the University of Pennsylvania. You can find it [here](https://iu.co1.qualtrics.com/jfe/form/SV_3ZTVTVj6jbYfG7A)
