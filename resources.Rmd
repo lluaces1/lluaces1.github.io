@@ -29,10 +29,10 @@ a:active {
 }
 </style>
 
-### Here are resources that the lab often uses, but were not developed by us! {.tabset .tabset-fade .tabset-pills}
+# Here are resources that the lab often uses, but were not developed by us! {.tabset .tabset-fade .tabset-pills}
+<br>
 
-
-#### Doing what matters in times of stress (book) 
+## **Doing what matters in times of stress (book)** 
 
 
 This guide was developed by [World Health Organization](https://www.who.int/publications/i/item/9789240003927) for help deealing with stress. You can find the guide below! If you were in one of our studies that used the guide, also look for it in your e-mail.
@@ -40,6 +40,8 @@ This guide was developed by [World Health Organization](https://www.who.int/publ
 ![Doing what matters](DWM.pdf){height=1000px width=1000px}
 
 
-#### COMET single-session intervention (30-40 minutes)
+## **COMET single-session intervention (30-40 minutes)**
 
-The COMET intervention was developed by Akash Wasill and colleagues at the University of Pennsylvania. You can find it [here](https://iu.co1.qualtrics.com/jfe/form/SV_3ZTVTVj6jbYfG7A)
+The COMET intervention was developed by Akash Wasill and colleagues at the University of Pennsylvania. 
+
+You can find the intervention [here](https://iu.co1.qualtrics.com/jfe/form/SV_3ZTVTVj6jbYfG7A). If you want to enter the URL in your web browser, this is the address: https://iu.co1.qualtrics.com/jfe/form/SV_3ZTVTVj6jbYfG7A
