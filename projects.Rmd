@@ -93,7 +93,9 @@ Psychological interventions are effective treatments for depression, anxiety, st
 - Willingness of individuals to use different low-intensity treatments (PI: De Jesús-Romero)
 - redictors of engagement with guided self-help (PI: Starvaggi) 
 
-![Doing what matters](DWM e-mail.pdf)
+## **Doing what matters**
+
+![Doing what matters](DWM e-mail.pdf){height=1000px width=1000px}
 
 
 
