@@ -5,9 +5,12 @@ output: html_document
 
 Here are resources that the lab often uses, but were not developed by us!
 
-## **Doing what matters**
+## **Doing what matters in times of stress (book)**
 
-This guide was developed by ![World Health Organization](https://www.who.int/publications/i/item/9789240003927)
+This guide was developed by [World Health Organization](https://www.who.int/publications/i/item/9789240003927) for help deealing with stress. You can find the guide below! If you were in one of our studies that used the guide, also look for it in your e-mail.
 
 [Doing what matters](DWM e-mail.pdf){height=1000px width=1000px}
 
+## **COMET single-session intervention (30-40 minutes)**
+
+The COMET intervention was developed by Akash Wasill and colleagues at the University of Pennsylvania. You can find it [here](https://iu.co1.qualtrics.com/jfe/form/SV_3ZTVTVj6jbYfG7A)
