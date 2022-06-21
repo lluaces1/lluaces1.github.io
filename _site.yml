@@ -16,6 +16,8 @@ navbar:
       href: contact.html
     - text: "F.A.Q."
       href: FAQs.html
+    - text: "Resources"
+      href: Resources.html
 output:
   html_document:
     theme: cosmo
