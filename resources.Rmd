@@ -45,3 +45,10 @@ This guide was developed by [World Health Organization](https://www.who.int/publ
 The COMET intervention was developed by Akash Wasill and colleagues at the University of Pennsylvania. 
 
 You can find the intervention [here](https://iu.co1.qualtrics.com/jfe/form/SV_3ZTVTVj6jbYfG7A). If you want to enter the URL in your web browser, this is the address: https://iu.co1.qualtrics.com/jfe/form/SV_3ZTVTVj6jbYfG7A
+
+## **Consent for our "Doing what matters" study**
+
+If you were a participant in our study on combining the COMET single-session intervention plus the book "Doing What Matters in Times of Stress," this is the consent form:
+
+![Consent form for our study](ICS.pdf){height=1000px width=1000px}
+
