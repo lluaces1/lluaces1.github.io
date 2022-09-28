@@ -17,3 +17,8 @@ This is a *work in progress* as the website for Prof. Lorenzo-Luaces' lab, the S
 
 ![ ](pictures/logo.png){height=450px width=450px}
 </center>
+
+<center>
+
+![ ](pictures/SADCAT-Lab.jpg){height=450px width=550px}
+</center>
