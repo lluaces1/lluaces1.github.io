@@ -13,12 +13,20 @@ This is a *work in progress* as the website for Prof. Lorenzo-Luaces' lab, the S
 
 </h3>
 
-<center>
 
+
+<div class = "row">
+  
+<div class = "col-md-6">
 ![ ](pictures/logo.png){height=450px width=450px}
-</center>
 
-<center>
+</div>
 
+<div class = "col-md-6">
 ![ ](pictures/SADCAT-Lab.jpg){height=450px width=550px}
-</center>
+
+ 
+</div>
+</div>
+
+
