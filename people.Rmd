@@ -50,13 +50,13 @@ Although I believe that studying individual differences can get us closer to dat
 <div class = "row">
   
 <div class = "col-md-6">
-![**Lauren A. Rutter, PhD <br> Research Scientist <br> Indiana University-Bloomington <br> E-mail:** larutter@indiana.edu](pictures/LAR.jpg){height=175px width=175px}
+![**Lauren A. Rutter, PhD <br> Research Scientist <br> Indiana University-Bloomington <br> E-mail:** larutter@iu.edu](pictures/LAR.jpg){height=175px width=175px}
 
 I am broadly interested in the **classification** of mood and anxiety disorders (**internalizing** psychopathology). This includes the structure, comorbidity, and shared **mechanisms** of vulnerability in both clinical and population-based samples. More specifically, in studying mood and anxiety, I am interested in how people process emotional faces and how differences in processing may put them more at risk. My research also examines how changes in **neurocognition** across the **lifespan** are linked to risk for developing symptoms. My newest line of research uses **social media** to study internalizing psychopathology.
 </div>
 
 <div class = "col-md-6">
-![**Jacqueline Howard, BA <br> SADCAT Lab Manager <br> Indiana University-Bloomington <br> E-mail:** jacqhowa@indiana.edu](pictures/JH.jpg){height=175px width=175px}
+![**Jacqueline Howard, BA <br> SADCAT Lab Manager <br> Indiana University-Bloomington <br> E-mail:** jacqhowa@iu.edu](pictures/JH.jpg){height=175px width=175px}
 
 My primary research interests focus on **dissemination** and **implementation**, specifically the implementation of measurement-based care in community settings, as well as the impact of **trauma** on functioning and **emotion regulation**. Currently I am working on a project assessing whether anxiety is a superior predictor of decreased functioning and well-being in individuals with symptoms of borderline personality disorder (BPD). 
 </div>
@@ -67,7 +67,7 @@ My primary research interests focus on **dissemination** and **implementation**,
 <div class = "row">
   
 <div class = "col-md-6">
-![**Robinson De Jesus-Romero, M.S. <br> Graduate Student (3rd year) <br> Indiana University-Bloomington <br> E-mail:** robdejes@indiana.edu](pictures/RDJR.jpg){height=175px width=175px}
+![**Robinson De Jesus-Romero, M.S. <br> Graduate Student (3rd year) <br> Indiana University-Bloomington <br> E-mail:** robdejes@iu.edu](pictures/RDJR.jpg){height=175px width=175px}
 
 Before coming to Indiana University, I graduated from the University of Puerto Rico-Rio Piedras with a Bachelor of Arts in Psychology. I then completed a Master of Science in Research in Behavior and Cognition at the University of Barcelona. My current interests revolve around **internet-based therapies**, **emotion regulation**, and individualized treatment for depression. Specifically, I am interested in improving the efficacy and access to internet-based therapies, as well as studying emotion regulation as a way to personalize treatment. A special focus of my work is improving health for individuals from minoritized backgrounds, including **racial-ethinic minorities** and lesbian, gay, bisexual, and trans/gender non-conforming (**LGQT+**) individuals.
 </div>
