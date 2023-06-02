@@ -34,54 +34,7 @@ a:active {
 
 # Below are descriptions of projects we have ongoing. *Prof. Lorenzo-Luaces is the PI or co-PI for the projects below, unless otherwise noted.* For all projects we take special interest in *individual differences* {.tabset .tabset-fade .tabset-pills}
 
-## **COMET (Indiana University Students)**
-
-<br>
-
-<h3 style="color:#990000">**Indiana University Research Study #10016**</h3>
-
-<br>
-
-The Study of Affective Disorders' Classification And Treatment Lab invites you to take part in [COMET](https://upenn.co1.qualtrics.com/jfe/form/SV_bHMF9jpP8pPeb30), an online wellness activity for college students.
-
-Benefits of participating include:
-
--	Learning skills that may help to improve your mood and well-being.
-
-If you participate, you will be asked to:
-
--	Complete an online program (lasting about 60-80 minutes) to improve your mood and well-being. You will either receive it immediately or after 2 months. 
-- Answer 3 short surveys (2, 4, and 8 weeks from now), lasting about 10-15 minutes, about the program and your well-being. 
-
-The information obtained during this study will be kept strictly confidential. Only the researchers will have access to the information you provide. *You also have the opportunity to earn up to $15 for your participation.* 
-
-<br>
-
-If you have questions or concerns regarding your participation in this research study or about your rights as a research subject, you may contact lolorenz@indiana.edu 
-
-**You can read the consent form to decide if you want to participate in the study by scanning the following QR code**:
-
-<br>
-
-<div class = "row">
-
-<div class = "col-md-6">
-![](pictures/self-compassion.png){height=250 width=250px}
-
-</div>
-
-<div class = "col-md-6">
-
-![](pictures/QR.png){height=250px width=250px}
-
-[If you don't like QR codes, click here for the link](https://upenn.co1.qualtrics.com/jfe/form/SV_bHMF9jpP8pPeb30)
-</div>
-
-</div>
-
-
-
-## **Other low-intensity treatments**
+## **Low-intensity treatments**
 
 Psychological interventions are effective treatments for depression, anxiety, stress, insomnia, and other common mental health concerns. Despite this, it is very difficult for most people to access treatments because they are expensive, time-consuming, and difficult to find. We have several projects studying interventions that are not as expensive as face-to-face psychotherapy with trained therapists, including internet apps and books. The projects include:
 

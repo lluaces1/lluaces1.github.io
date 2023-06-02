@@ -62,8 +62,9 @@ This section is still "in progress." Please check back at a later date.
 **Why make this?**
 Applying to graduate school is currently an uneven "playing field." Applicants without access to well-established mentors, parents who have graduate degrees, or other professional connections may have less access to information on how to apply for school. I hope that by sharing inside knowledge on my process, I can level the playing field a little, at least when applying to work with me. <br> Please note that the document represents my personal opinions. It is therefore not representative of Indiana University, my home department Psychological and Brain Sciences, or of any other faculty members in our program.
  
-**Will you be accepting a new PhD student to begin in Fall 2022?**
-As of right now `r Sys.Date()`, I will **not** be accepting new students. The only thing that could happen to change my decision is if you were coming in with your own funding!
+**Will you be accepting a new PhD student to begin in Fall 2024?**
+As of right now `r Sys.Date()`, I will be accepting new students. 
+
 
 **Are my interests a good for for the lab?**
 Applicants with the following interests may be good fits to our lab:
@@ -86,6 +87,7 @@ Below are the papers that are most representative of how I think about depressio
 - Lorenzo-Luaces, L, DeRubeis, R.J., van Straten, A., & Tiemens B. (2017). A prognostic index (PI) as a moderator of outcomes in the treatment depression: A proof of concept combining multiple variables to inform risk-stratified stepped care models. *Journal of Affective Disorders*, 213, 78-85.
 - Lorenzo-Luaces, L., Rodriguez-Quintana, N.,* Riley, T., & Weisz, J.R. (2020) A prognostic index (PI) as a moderator of outcomes in the treatment of adolescent depression: A risk-stratified stepped care model of treatment with cognitive-behavioral therapy, fluoxetine, or their combination. Psychotherapy Research. Advanced online publication.
 - Lorenzo-Luaces, L., DeRubeis, R.J., & Webb, C.A. (2014). Client characteristics as moderators of the relation between the therapeutic alliance and outcome in cognitive therapy for depression. Journal of Consulting and Clinical Psychology, 82, 368 – 373.
+- Lorenzo-Luaces, L., & Howard, J. (*in press*). Efficacy of a single session intervention for depression in online workers: A randomized controlled trial with transdiagnostic mental health outcomes. *Journal of Medical Internet Research.*
 
 **What about the GRE? How important are my scores?**
 I don’t care about it, I won’t look at it. The only time in which I may consider your GRE is if you explicitly mention that your undergraduate GPA is low but you would like your GRE considered because it “makes up” for a lower GPA.
@@ -134,7 +136,7 @@ I review the applications of **all** the students who say the way to work with m
 
 
 **Are there any other ‘screening criteria’ you use to review applications?**
-No. You work hard on your application materials. The least I can do is read them! (And I do read all applications from those who indicate that I am their preferred mentor.)
+No. You work hard on your application materials. The least I can do is read them! (And all I can do is read applications from those who indicate that I am their preferred mentor.)
  
 
  

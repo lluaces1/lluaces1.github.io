@@ -67,14 +67,14 @@ My primary research interests focus on **dissemination** and **implementation**,
 <div class = "row">
   
 <div class = "col-md-6">
-![**Robinson De Jesus-Romero, M.S. <br> Graduate Student (3rd year) <br> Indiana University-Bloomington <br> E-mail:** robdejes@iu.edu](pictures/RDJR.jpg){height=175px width=175px}
+![**Robinson De Jesus-Romero, M.S. <br> Graduate Student (5th year) <br> Indiana University-Bloomington <br> E-mail:** robdejes@iu.edu](pictures/RDJR.jpg){height=175px width=175px}
 
 Before coming to Indiana University, I graduated from the University of Puerto Rico-Rio Piedras with a Bachelor of Arts in Psychology. I then completed a Master of Science in Research in Behavior and Cognition at the University of Barcelona. My current interests revolve around **internet-based therapies**, **emotion regulation**, and individualized treatment for depression. Specifically, I am interested in improving the efficacy and access to internet-based therapies, as well as studying emotion regulation as a way to personalize treatment. A special focus of my work is improving health for individuals from minoritized backgrounds, including **racial-ethinic minorities** and lesbian, gay, bisexual, and trans/gender non-conforming (**LGQT+**) individuals.
 </div>
 
 
 <div class = "col-md-6">
-![**Allison "Alli" Peipert, BS <br> Graduate Student (3rd year) <br> Indiana University-Bloomington <br> E-mail:** apeipert@iu.edu](pictures/AP.jpg){height=175px width=175px}
+![**Allison "Alli" Peipert, BS <br> Graduate Student (5th year) <br> Indiana University-Bloomington <br> E-mail:** apeipert@iu.edu](pictures/AP.jpg){height=175px width=175px}
 
 I am in three broad areas of study: **measurement** and classification of psychopathology, moderating and mediating factors of treatment **efficacy**, and **translation** of research findings into clinical practice. I hope to inform standardized assessment practices, improve our understanding of evidence-based treatment, and identify strategies to integrate research findings into standard care. My current research projects include analyzing patient outcomes from IU’s CBT Training Clinic and implementing an evidence-based screening and assessment practice for mental health using the CAT-MH in local behavioral medicine clinics.
 </div>
@@ -85,14 +85,14 @@ I am in three broad areas of study: **measurement** and classification of psycho
 <div class = "row">
   
 <div class = "col-md-6">
-![**John "Jack" Buss, BS <br> Graduate Student (1st year) <br> Indiana University-Bloomington <br> E-mail:** bussj@iu.edu](pictures/JB.jpg){height=175px width=175px}
+![**John "Jack" Buss, BS <br> Graduate Student (3rd year) <br> Indiana University-Bloomington <br> E-mail:** bussj@iu.edu](pictures/JB.jpg){height=175px width=175px}
 
 
 I am a clinical science graduate student primarily interested in the **classification** and **computational modeling** of mood disorders. My current projects include evaluations of the **heterogeneity** within the **melancholic** and atypical specifiers for depression and an assessment of melancholic symptoms as represented by the Sydney Melancholia Prototype Index (SMPI). I hope to help further the research field's understanding regarding these traditional depressive subtypes considering depression's potential **endophenotypes**.
 </div>
 
 <div class = "col-md-6">
-![**Isabella Starvaggi, BA <br> Graduate Student (1st year) <br> Indiana University-Bloomington <br> E-mail:** irstarva@iu.edu](pictures/IS.jpg){height=175px width=175px}
+![**Isabella Starvaggi, BA <br> Graduate Student (3rd year) <br> Indiana University-Bloomington <br> E-mail:** irstarva@iu.edu](pictures/IS.jpg){height=175px width=175px}
 
 Before coming to Indiana University, I completed a B.S. in Psychology and a B.S. in Statistics at Carnegie Mellon University. During my undergraduate years I also conducted research at the University of Pittsburgh investigating **cognitive vulnerabilities** in seasonal affective depression. I am currently interested in **digitally** delivered treatments for depression,  **prediction** of individual treatment "match" and treatment response, depression assessment and **diagnosis**. 
 </div>
