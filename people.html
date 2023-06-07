@@ -13,7 +13,7 @@
 
 <title>people.knit</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
@@ -141,11 +141,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -404,19 +408,18 @@ Student (5th year) <br> Indiana University-Bloomington <br>
 E-mail:</strong> <a href="mailto:robdejes@iu.edu"
 class="email">robdejes@iu.edu</a></p>
 </div>
-<p>Before coming to Indiana University, I graduated from the University
-of Puerto Rico-Rio Piedras with a Bachelor of Arts in Psychology. I then
-completed a Master of Science in Research in Behavior and Cognition at
-the University of Barcelona. My current interests revolve around
-<strong>internet-based therapies</strong>, <strong>emotion
-regulation</strong>, and individualized treatment for depression.
-Specifically, I am interested in improving the efficacy and access to
-internet-based therapies, as well as studying emotion regulation as a
-way to personalize treatment. A special focus of my work is improving
-health for individuals from minoritized backgrounds, including
-<strong>racial-ethinic minorities</strong> and lesbian, gay, bisexual,
-and trans/gender non-conforming (<strong>LGQT+</strong>)
-individuals.</p>
+<p>I graduated from the University of Puerto Rico-Rio Piedras with a
+Bachelor of Arts in Psychology. I then completed a Master of Science in
+Research in Behavior and Cognition at the University of Barcelona. My
+current interests revolve around <strong>internet-based
+therapies</strong>, <strong>emotion regulation</strong>, and
+<strong>individualized treatment</strong> for depression. Specifically,
+I am interested in improving the efficacy of and access to
+evidence-based interventions, as well as studying emotion regulation as
+a means to personalize treatment. A special focus of my work is
+improving health for individuals from <strong>minoritized
+backgrounds</strong>, including racial and ethnic minorities, as well as
+LGBTQ+ individuals.</p>
 </div>
 <div class="col-md-6">
 <div class="figure">
@@ -426,16 +429,19 @@ Student (5th year) <br> Indiana University-Bloomington <br>
 E-mail:</strong> <a href="mailto:apeipert@iu.edu"
 class="email">apeipert@iu.edu</a></p>
 </div>
-<p>I am in three broad areas of study: <strong>measurement</strong> and
-classification of psychopathology, moderating and mediating factors of
-treatment <strong>efficacy</strong>, and <strong>translation</strong> of
-research findings into clinical practice. I hope to inform standardized
-assessment practices, improve our understanding of evidence-based
-treatment, and identify strategies to integrate research findings into
-standard care. My current research projects include analyzing patient
-outcomes from IU’s CBT Training Clinic and implementing an
-evidence-based screening and assessment practice for mental health using
-the CAT-MH in local behavioral medicine clinics.</p>
+<p>I received a B.S. in psychology and Spanish from Furman University in
+2017. I study interventions for common mental disorders with a
+particular interest in populations at greater risk for development of
+psychopathology and perceived barriers to treatment. My research focuses
+on increasing intervention <strong>accessibility</strong> and
+translating research findings into <strong>clinical practice</strong>
+settings. I hope to inform standardized <strong>assessment</strong>
+practices, improve our understanding of evidence-based treatments, and
+identify strategies to integrate research findings into standard care.
+My current research projects study: quality of life outcomes in
+psychotherapy, effectiveness and barriers to providing low-intensity
+treatments, and psychosocial outcomes of gender-affirming care for
+youth.</p>
 </div>
 </div>
 <hr />
