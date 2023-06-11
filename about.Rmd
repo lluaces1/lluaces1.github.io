@@ -2,7 +2,7 @@
 title: " "
 bibliography: references.bib  
 nocite: '@*'
-csl: _apa.csl
+csl: apa-numeric.csl
 ---
 
 

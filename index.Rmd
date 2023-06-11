@@ -29,4 +29,10 @@ This is a *work in progress* as the website for Prof. Lorenzo-Luaces' lab, the S
 </div>
 </div>
 
+<div class = "row">
+
+![ ](pictures/topics.png){height=300px width=400px}
+
+
+</div>
 
