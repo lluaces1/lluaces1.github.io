@@ -23,7 +23,7 @@ This is a *work in progress* as the website for Prof. Lorenzo-Luaces' lab, the S
 </div>
 
 <div class = "col-md-6">
-![ ](pictures/SADCAT-Lab2.jpg){height=450px width=450px}
+![ ](pictures/SADCAT-Lab.jpg){height=300px width=350px}
 
  
 </div>
