@@ -34,8 +34,8 @@ This is a *work in progress* as the website for Prof. Lorenzo-Luaces' [**lab**](
 <div class = "row">
 
 ![ ](pictures/topics.png){height=300px width=400px}
+</center>
 
 
 </div>
 
-</center>
