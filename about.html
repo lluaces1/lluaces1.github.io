@@ -13,7 +13,7 @@
 
 <title>about.knit</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
@@ -163,11 +163,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -349,17 +353,181 @@ of Pennsylvania</strong></a> or by colleagues in Amsterdam or Spain!</p>
 <p><br></p>
 <div id="refs" class="references csl-bib-body hanging-indent"
 line-spacing="2">
+<div id="ref-buss2023information" class="csl-entry">
+Buss, J. F., Watts, A. L., &amp; Lorenzo-Luaces, L. (2023).
+<em>Information theory methods for quantifying diagnostic heterogeneity
+in psychopathology</em>.
+</div>
+<div id="ref-edinger2023misinformation" class="csl-entry">
+Edinger, A., Valdez, D., Walsh-Buhi, E., Trueblood, J. S.,
+Lorenzo-Luaces, L., Rutter, L. A., &amp; Bollen, J. (2023).
+Misinformation and public health messaging in the early stages of the
+mpox outbreak: Mapping the twitter narrative with deep learning.
+<em>Journal of Medical Internet Research</em>, <em>25</em>, e43841.
+</div>
+<div id="ref-last2023reply" class="csl-entry">
+Last, B. S., Wuest, J., Grey, M., Rivera, D. P., Rodriguez-Seijas, C.
+A., &amp; Lorenzo-Luaces, L. (2023). <em>Reply to rosik, beckstead,
+&amp; lefevor (2023),<span>“sexual orientation change efforts: Health
+associations, sexual identity labeling, and reports of change by
+engagement status”</span></em>.
+</div>
+<div id="ref-lorenzo2023attitudes" class="csl-entry">
+Lorenzo-Luaces, L., Dierckman, C., &amp; Adams, S. (2023). Attitudes and
+(mis) information about cognitive behavioral therapy on TikTok: An
+analysis of video content. <em>Journal of Medical Internet
+Research</em>, <em>25</em>, e45571.
+</div>
+<div id="ref-lorenzo2023acceptability" class="csl-entry">
+Lorenzo-Luaces, L., Howard, J., De Jesús-Romero, R., Peipert, A., Buss,
+J. F., Lind, C., Botts, K., &amp; Starvaggi, I. (2023). Acceptability
+and outcomes of transdiagnostic guided self-help bibliotherapy for
+internalizing disorder symptoms in adults: A fully remote nationwide
+open trial. <em>Cognitive Therapy and Research</em>, <em>47</em>(2),
+195–208.
+</div>
+<div id="ref-lorenzo2023using" class="csl-entry">
+Lorenzo-Luaces, L., Rutter, L., Howard, J., Boinpally, M., Valdez, D.,
+&amp; Bollen, J. (2023). <em>Using natural language processing to
+understand changes in emotions and psychopathology: Evidence from
+observational cohorts and a clinical trial</em>.
+</div>
+<div id="ref-peipert2023213" class="csl-entry">
+Peipert, A., Adams, S., &amp; Lorenzo-Luaces, L. (2023). 213
+provider-identified barriers to recommending low-intensity treatments
+for patients awaiting mental health care. <em>Journal of Clinical and
+Translational Science</em>, <em>7</em>(s1), 65–65.
+</div>
+<div id="ref-peipert2023would" class="csl-entry">
+Peipert, A., Adams, S., &amp; Lorenzo-Luaces, L. (2023). <span>“I would
+not want the mechanic to direct me to an engine repair manual”</span>: A
+qualitative analysis of provider perspectives on low-intensity
+treatments for patients on waiting lists. <em>Pre-Print Submitted for
+Publication</em>. <a
+href="https://psyarxiv.com/5f7pv/">https://psyarxiv.com/5f7pv/</a>
+</div>
+<div id="ref-rutter2023haven" class="csl-entry">
+Rutter, L. A., Howard, J., Lakhan, P., Valdez, D., Bollen, J., &amp;
+Lorenzo-Luaces, L. (2023). <span>“I haven’t been diagnosed, but i should
+be”</span>—insight into self-diagnoses of common mental health
+disorders: Cross-sectional study. <em>JMIR Formative Research</em>,
+<em>7</em>(1), e39206.
+</div>
+<div id="ref-bollen2022beyond" class="csl-entry">
+Bollen, J., Thij, M. ten, Lorenzo-Luaces, L., &amp; Rutter, L. A.
+(2022). Beyond risk: Individual mental health trajectories from
+large-scale social media data. In <em>Early detection of mental health
+disorders by social media monitoring: The first five years of the eRisk
+project</em> (pp. 265–287). Springer International Publishing Cham.
+</div>
+<div id="ref-van2022data" class="csl-entry">
+Bronswijk, S. C. van, Howard, J., &amp; Lorenzo-Luaces, L. (2022).
+<em>Data-driven personalized medicine approaches to cognitive-behavioral
+therapy allocation in a large sample: A reanalysis of the ENRICHED
+study</em>.
+</div>
+<div id="ref-buss2022road" class="csl-entry">
+Buss, J. F., Rutter, L. A., Howard, J., &amp; Lorenzo-Luaces, L. (2022).
+The road to cognitive skill acquisition: Psychometric evaluation of the
+competencies of cognitive therapy scale. <em>American Journal of
+Psychotherapy</em>, <em>75</em>(2), 75–81.
+</div>
+<div id="ref-de2022reporting" class="csl-entry">
+De Jesús-Romero, R., Holder-Dixon, A., &amp; Lorenzo-Luaces, L. (2022).
+<em>Reporting and representation of racial and ethnic diversity in
+randomized controlled trials of internet-based cognitive-behavioral
+therapy (iCBT) for depression</em>.
+</div>
+<div id="ref-de2022emotion" class="csl-entry">
+De Jesús-Romero, R., Starvaggi, I., Howard, J., Peipert, A., Buss, J.,
+Lind, C. M., Riley, T. N., &amp; Lorenzo-Luaces, L. (2022). <em>Emotion
+regulation as a mechanism of change in transdiagnostic low-intensity
+cognitive behavioral therapy for internalizing distress: Disaggregating
+within vs. Between individual</em>.
+</div>
+<div id="ref-de2022willingness" class="csl-entry">
+De Jesús-Romero, R., Wasil, A., Lorenzo-Luaces, L., et al. (2022).
+Willingness to use internet-based versus bibliotherapy interventions in
+a representative US sample: Cross-sectional survey study. <em>JMIR
+Formative Research</em>, <em>6</em>(8), e39508.
+</div>
+<div id="ref-driessen2022efficacy" class="csl-entry">
+Driessen, E., Cohen, Z. D., Lorenzo-Luaces, L., Hollon, S. D., Richards,
+D. A., Dobson, K. S., Dimidjian, S., Delgadillo, J., Vázquez, F. L.,
+McNamara, K., et al. (2022). Efficacy and moderators of cognitive
+therapy versus behavioural activation for adults with depression: Study
+protocol of a systematic review and meta-analysis of individual
+participant data. <em>BJPsych Open</em>, <em>8</em>(5), e154.
+</div>
+<div id="ref-krendl2022identifying" class="csl-entry">
+Krendl, A. C., &amp; Lorenzo-Luaces, L. (2022). Identifying peaks in
+attrition after clients initiate mental health treatment in a university
+training clinic. <em>Psychological Services</em>, <em>19</em>(3), 519.
+</div>
+<div id="ref-lorenzo2022identifying" class="csl-entry">
+Lorenzo-Luaces, L. (2022). <em>Identifying active ingredients in
+cognitive-behavioral therapies: What if we didn’t?(or couldn’t?)</em>.
+</div>
 <div id="ref-lorenzo2022wider" class="csl-entry">
 Lorenzo-Luaces, L. (2022). <em>Wider, faster, more: Re-envisioning the
 treatment and research of depression to address its public health burden
 in the <span>United States</span></em>.
 </div>
+<div id="ref-lorenzo2022efficacy" class="csl-entry">
+Lorenzo-Luaces, L., &amp; Howard, J. (2022). <em>Efficacy of a single
+session intervention for depression in online workers: A randomized
+controlled trial with transdiagnostic mental health outcomes</em>.
+</div>
+<div id="ref-lorenzo2022sociodemographics" class="csl-entry">
+Lorenzo-Luaces, L., Howard, J., Edinger, A., Yan, H. Y., Rutter, L. A.,
+Valdez, D., Bollen, J., et al. (2022). Sociodemographics and
+transdiagnostic mental health symptoms in SOCIAL (studies of online
+cohorts for internalizing symptoms and language) i and II:
+Cross-sectional survey and botometer analysis. <em>JMIR Formative
+Research</em>, <em>6</em>(10), e39324.
+</div>
+<div id="ref-peipert2022heterogeneity" class="csl-entry">
+Peipert, A., Adams, S., &amp; Lorenzo-Luaces, L. (2022).
+<em>Heterogeneity in item content of quality of life assessments used in
+depression research</em>.
+</div>
+<div id="ref-peipert2022waiting" class="csl-entry">
+Peipert, A., Krendl, A. C., Lorenzo-Luaces, L., et al. (2022). Waiting
+lists for psychotherapy and provider attitudes toward low-intensity
+treatments as potential interventions: Survey study. <em>JMIR Formative
+Research</em>, <em>6</em>(9), e39787.
+</div>
 <div id="ref-peipert2022outcomes" class="csl-entry">
 Peipert, A., Rodriguez-Quintana, N., &amp; Lorenzo-Luaces, L. (2022).
-Outcomes of student trainee-delivered cognitive behavioral therapy <span
-class="nocase">(CBT) on Internalizing Symptoms, CBT</span> skills, and
-life satisfaction. <em>International Journal of Cognitive Therapy</em>,
-1–20.
+Outcomes of student trainee-delivered cognitive behavioral therapy (CBT)
+on internalizing symptoms, CBT skills, and life satisfaction.
+<em>International Journal of Cognitive Therapy</em>, <em>15</em>(1),
+94–113.
+</div>
+<div id="ref-riley2022seeking" class="csl-entry">
+Riley, T. N., Thompson, H. M., Howard, J., Lorenzo-Luaces, L., &amp;
+Rutter, L. A. (2022). Seeking connectedness through social media use:
+Associations with adolescent empathic understanding and
+perspective-taking. <em>Current Psychology</em>, 1–13.
+</div>
+<div id="ref-scalco2022conceptualization" class="csl-entry">
+Scalco, M. D., Lorenzo-Luaces, L., Evans, M., Sloss, A., Read, J. P.,
+&amp; Colder, C. R. (2022). Conceptualization of alcohol use disorder
+(AUD): Can theoretical or data driven approaches improve the construct
+validity of AUD? <em>Research on Child and Adolescent
+Psychopathology</em>, <em>50</em>(12), 1605–1618.
+</div>
+<div id="ref-wasil2022race" class="csl-entry">
+Wasil, A. R., Kacmarek, C., DeRubeis, R. J., &amp; Lorenzo-Luaces, L.
+(2022). <em>Race and socioeconomic status as predictors of willingness
+to use internet-based treatments or face-to-face psychotherapy: A
+nationally representative study</em>.
+</div>
+<div id="ref-wasil2022there" class="csl-entry">
+Wasil, A. R., Palermo, E. H., Lorenzo-Luaces, L., &amp; DeRubeis, R. J.
+(2022). Is there an app for that? A review of popular apps for
+depression, anxiety, and well-being. <em>Cognitive and Behavioral
+Practice</em>, <em>29</em>(4), 883–901.
 </div>
 <div id="ref-bathina2021individuals" class="csl-entry">
 Bathina, K. C., Ten Thij, M., Lorenzo-Luaces, L., Rutter, L. A., &amp;
@@ -571,7 +739,7 @@ processes. <em>Cognitive Therapy and Research</em>, <em>42</em>(2),
 212–217.
 </div>
 <div id="ref-lorenzo2018generalizability" class="csl-entry">
-Lorenzo-Luaces, L., Johns, E., Keefe, J. R.others. (2018). The
+Lorenzo-Luaces, L., Johns, E., Keefe, J. R., et al. (2018). The
 generalizability of randomized controlled trials of self-guided
 internet-based cognitive behavioral therapy for depressive symptoms:
 Systematic review and meta-regression analysis. <em>Journal of Medical
@@ -708,7 +876,8 @@ Consulting and Clinical Psychology</em>, <em>82</em>(2), 368.
 Lorenzo-Luaces, L., &amp; Phillips, J. A. (2014). Racial and ethnic
 differences in risk factors associated with suicidal behavior among
 young adults in the <span>USA</span>. <em>Ethnicity &amp; Health</em>,
-<em>19</em>(4), 458–477.
+<em>19</em>(4), 458–477. <a
+href="\href{https://drive.google.com/file/d/1Qx0LuIxeI-UXGlotE_MknyYCnkHurQJB/view}{here}">\href{https://drive.google.com/file/d/1Qx0LuIxeI-UXGlotE_MknyYCnkHurQJB/view}{here}</a>
 </div>
 <div id="ref-velez2012ideacion" class="csl-entry">
 Vélez, Y. D., Lorenzo-Luaces, L., &amp; Rosselló, J. (2012).
@@ -716,7 +885,8 @@ Ideaci<span>ó</span>n suicida: S<span>ı́</span>ntomas depresivos,
 pensamientos disfuncionales, autoconcepto, y estrategias de manejo en
 adolescentes puertorrique<span>ñ</span>os. <em>Revista
 Puertorrique<span>ñ</span>a de Psicolog<span>ı́</span>a</em>,
-<em>23</em>(2), 1.
+<em>23</em>(2), 1. <a
+href="https://dialnet.unirioja.es/descarga/articulo/4896008.pdf">https://dialnet.unirioja.es/descarga/articulo/4896008.pdf</a>
 </div>
 </div>
 
