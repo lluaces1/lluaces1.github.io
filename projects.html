@@ -13,7 +13,7 @@
 
 <title>projects.knit</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
@@ -57,6 +57,28 @@ if (window.hljs) {
 
 
 
+<style type="text/css">
+/* for pandoc --citeproc since 2.11 */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}
+</style>
 
 
 
@@ -141,11 +163,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -319,6 +345,97 @@ class="section level1 tabset tabset-fade tabset-pills">
 projects we have ongoing. <em>Prof. Lorenzo-Luaces is the PI or co-PI
 for the projects below, unless otherwise noted.</em> For all projects we
 take special interest in <em>individual differences</em></h1>
+<div id="heterogeneity-of-depression" class="section level2">
+<h2><strong>Heterogeneity of depression</strong></h2>
+<p>Depression is known to be heterogeneous in its presenting symptoms
+<span class="citation">(Buss et al., 2023; Fried et al., 2020;
+Lorenzo-Luaces, Buss, et al., 2021)</span>. This knowledge comes from
+studies in which researchers have counted combinations of symptom
+profiles (i.e., the specific ways a person meets criteria for
+depression). While this is a sensible and face-valid approach, it treats
+depression symptoms between individuals as if they were categorical
+(i.e., people either have the same symptoms or they do not). We have
+introduced methods from <a
+href="https://assets.researchsquare.com/files/rs-2472751/v1/4b23883c86dd9b56cfa131e4.pdf?c=1674188600"><strong>information
+theory</strong></a> to quantify diagnostic heterogeneity in depression.
+One advantage of these methods is that they allow us to answer questions
+about current diagnostic practices. For example, we can ask whether
+subtypes like the DSM’s melancholic and atypical specifiers reduce
+heterogeneity. Whether analyzing heterogeneity with the simple
+symptom-profile approach or the somewhat more complex information theory
+metrics, we do not find evidence that proposed subtypes reduce symptom
+heterogeneity.</p>
+<p>We have also used machine learning methods to understand if different
+symptom combinations predict differential treatment outcomes in CBT
+vs. medications <span class="citation">(DeRubeis et al., 2014;
+Lorenzo-Luaces, Rodriguez-Quintana, et al., 2021)</span>, positive
+psychotherapy <span class="citation">(Lopez-Gomez et al., 2019)</span>,
+interpersonal psychotherapy <span class="citation">(Van Bronswijk et
+al., 2021)</span>, or control conditions <span
+class="citation">(Bronswijk et al., 2022; Lorenzo-Luaces et al., 2017;
+Lorenzo-Luaces, Rodriguez-Quintana, et al., 2021)</span>. However, with
+the exceptions of positive emotionality <span
+class="citation">(Lopez-Gomez et al., 2019; Lorenzo-Luaces et al.,
+2017)</span> and insomnia <span class="citation">(Lorenzo-Luaces et al.,
+2017; Lorenzo-Luaces, Rodriguez-Quintana, et al., 2021)</span>, we have
+found little support for the idea that symptoms differentially predicts
+treatment outcomes. Instead, we find more consistent support for the
+idea that individuals with more severe symptoms overall benefit more
+from high-intensity treatments (e.g., the combination of CBT and
+medications) than those with less severe symptoms <span
+class="citation">(Bronswijk et al., 2022; Lorenzo-Luaces et al., 2017;
+Lorenzo-Luaces, Rodriguez-Quintana, et al., 2021)</span></p>
+<div id="references" class="section level3">
+<h3><strong>References</strong></h3>
+</div>
+</div>
+<div id="personalized-medicine" class="section level2">
+<h2><strong>Personalized medicine</strong></h2>
+<p>I have argued for the importance of studying predictors of the course
+and prognosis of depression (Lorenzo-Luaces, 2015; 2018; Lorenzo-Luaces
+et al., 2017a; 2021b). In epidemiological studies, roughly half of the
+individuals with depression have relatively brief courses (e.g., 3-6
+months). In contrast, roughly 50% have a chronic, non-remitting course
+or a course characterized by recovery followed by relapse
+(Lorenzo-Luaces, 2015). The application of the same diagnosis to
+individuals with extremely heterogeneous prognoses can be traced back to
+a historical shift in the Diagnostic and Statistical Manual for Mental
+Disorders (DSM-III), in which different conceptualizations of depression
+were lumped into a single category (Horwitz et al., 2017;
+Lorenzo-Luaces, 2015; Wakefield et al., 2017a, 2017b). One implication
+is that the diagnosis does not aid in treatment allocation. Even if
+providers follow official guidelines for the treatment of depression,
+many individuals will be “overtreated” (e.g., prescribed antidepressants
+though their depression would improve on its own), and many individuals
+will not receive the adequate level of care they need (Lorenzo-Luaces et
+al., 2015).</p>
+<p>Our work suggests that individual differences in prognosis can be
+predicted using machine learning (ML) methods and that these predictions
+seem useful in allocating individuals to higher vs. lower intensity
+treatments (Lorenzo-Luaces et al., 2017a; Lorenzo-Luaces et al., 2021b).
+For example, in one study, I used an ML approach to analyze data from an
+RCT (N=622) in which no statistically significant differences were found
+between CBT, a brief non-specific therapy, and a treatment-as-usual
+control. We created a treatment rule which predicted response to
+treatment from overall symptom severity, unemployment, insomnia,
+hostility, and positive emotionality. Most (75%) patients performed
+equally well in all treatments (see Figure 1), including the brief and
+non-specific brief therapy condition, which is more scalable than a full
+course of CBT. In the remaining 25% of patients with the most
+“difficult” prognoses, CBT was superior to both control groups, with
+effect sizes larger than typically reported in the literature (see also
+Lorenzo-Luaces et al., 2021a). My collaborators and I have also studied
+predictions of response to CBTs vs. other treatments like
+antidepressants (DeRubeis et al., 2014), interpersonal therapy (van
+Bronswijk et al., 2020), and positive psychology intervention
+(Lopez-Gomez et al., 2019). A barrier to this work is that large samples
+of individuals are needed to identify statistically significant
+multivariable treatment algorithms and almost all studies that have
+explored machine learning predictors of response (Lorenzo-Luaces et al.,
+2021c). These studies challenge current models of the treatment of
+depression that focus on averages without attempting to personalize
+treatment delivery.</p>
+</div>
 <div id="low-intensity-treatments" class="section level2">
 <h2><strong>Low-intensity treatments</strong></h2>
 <p>Psychological interventions are effective treatments for depression,
@@ -476,7 +593,7 @@ style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14p
 <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">
 <a href="https://www.instagram.com/tv/CHqK1dWJxf-/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A
 post shared by SADCAT Lab (<span
-class="citation">@iudepressionlab</span>)</a>
+class="citation">(<strong>iudepressionlab?</strong>)</span>)</a>
 </p>
 </div>
 </blockquote>
@@ -493,12 +610,78 @@ activity. SOCIAL-II is an ongoing study that has overlapping measures
 with SOCIAL-I but expands the assessments to include temperament and
 eating pathology. We’ve recruited at least 2,015 college students and
 continue to collect each semester.</p>
-</div>
-<div id="heterogeneity" class="section level2">
-<h2><strong>Heterogeneity</strong></h2>
-<p>Heterogeneity of depression and the contribution of specifier
-symptoms like melancholia to heterogeneity (PI: Buss)</p>
 </h3>
+<div id="refs" class="references csl-bib-body hanging-indent"
+line-spacing="2">
+<div id="ref-van2022data" class="csl-entry">
+Bronswijk, S. C. van, Howard, J., &amp; Lorenzo-Luaces, L. (2022).
+<em>Data-driven personalized medicine approaches to cognitive-behavioral
+therapy allocation in a large sample: A reanalysis of the ENRICHED
+study</em>. <a
+href="https://psyarxiv.com/ex3gh/">https://psyarxiv.com/ex3gh/</a>
+</div>
+<div id="ref-buss2023information" class="csl-entry">
+Buss, J. F., Watts, A. L., &amp; Lorenzo-Luaces, L. (2023).
+<em>Information theory methods for quantifying diagnostic heterogeneity
+in psychopathology</em>. <a
+href="https://www.researchsquare.com/article/rs-2472751/latest.pdf">https://www.researchsquare.com/article/rs-2472751/latest.pdf</a>
+</div>
+<div id="ref-derubeis2014personalized" class="csl-entry">
+DeRubeis, R. J., Cohen, Z. D., Forand, N. R., Fournier, J. C., Gelfand,
+L. A., &amp; Lorenzo-Luaces, L. (2014). The <span>Personalized Advantage
+Index</span>: Translating research on prediction into individualized
+treatment recommendations. A demonstration. <em><span>PLOS
+ONE</span></em>, <em>9</em>(1), e83875. <a
+href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0083875">https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0083875</a>
+</div>
+<div id="ref-fried2020341" class="csl-entry">
+Fried, E. I., Coomans, F., &amp; Lorenzo-Luaces, L. (2020). The 341,737
+ways of qualifying for the melancholic specifier. <em>The Lancet
+Psychiatry</em>, <em>7</em>(6), 479–480. <a
+href="https://scholarlypublications.universiteitleiden.nl/access/item%3A3069973/view">https://scholarlypublications.universiteitleiden.nl/access/item%3A3069973/view</a>
+</div>
+<div id="ref-lopez2019predicting" class="csl-entry">
+Lopez-Gomez, I., Lorenzo-Luaces, L., Chaves, C., Hervas, G., DeRubeis,
+R. J., &amp; Vazquez, C. (2019). Predicting optimal interventions for
+clinical depression: Moderators of outcomes in a positive psychological
+intervention vs. Cognitive-behavioral therapy. <em>General Hospital
+Psychiatry</em>, <em>61</em>, 104–110. <a
+href="https://www.sciencedirect.com/science/article/pii/S0163834319300532?casa_token=8EOcO0nes88AAAAA:1Vr7zk30JBheghLkOfNKHqbHxieT4xlvo8OQpXYYLRN-un-x0SI5npMgKIoE_X4OOlxPvIZQ8Q">https://www.sciencedirect.com/science/article/pii/S0163834319300532?casa_token=8EOcO0nes88AAAAA:1Vr7zk30JBheghLkOfNKHqbHxieT4xlvo8OQpXYYLRN-un-x0SI5npMgKIoE_X4OOlxPvIZQ8Q</a>
+</div>
+<div id="ref-lorenzo2021heterogeneity" class="csl-entry">
+Lorenzo-Luaces, L., Buss, J. F., &amp; Fried, E. I. (2021).
+Heterogeneity in major depression and its melancholic and atypical
+specifiers: A secondary analysis of STAR* d. <em><span>BMC
+Psychiatry</span></em>, <em>21</em>(1), 1–11. <a
+href="https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-021-03444-3">https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-021-03444-3</a>
+</div>
+<div id="ref-lorenzo2017prognostic" class="csl-entry">
+Lorenzo-Luaces, L., DeRubeis, R. J., Straten, A. van, &amp; Tiemens, B.
+(2017). A prognostic index (<span>PI</span> as a moderator of outcomes
+in the treatment of depression: A proof of concept combining multiple
+variables to inform risk-stratified stepped care models. <em>Journal of
+Affective Disorders</em>, <em>213</em>, 78–85. <a
+href="https://bpb-us-w2.wpmucdn.com/web.sas.upenn.edu/dist/d/257/files/2016/10/lorenzo-luaces-Prognostic-Index-paper-10f0t61.pdf">https://bpb-us-w2.wpmucdn.com/web.sas.upenn.edu/dist/d/257/files/2016/10/lorenzo-luaces-Prognostic-Index-paper-10f0t61.pdf</a>
+</div>
+<div id="ref-lorenzo2021placebo" class="csl-entry">
+Lorenzo-Luaces, L., Rodriguez-Quintana, N., Riley, T. N., &amp; Weisz,
+J. R. (2021). A placebo prognostic index (<span>PI</span>) as a
+moderator of outcomes in the treatment of adolescent depression: Could
+it inform risk-stratification in treatment with cognitive-behavioral
+therapy, fluoxetine, or their combination? <em>Psychotherapy
+Research</em>, <em>31</em>(1), 5–18. <a
+href="https://weiszlab.fas.harvard.edu/files/jweisz/files/lorenzo-luaces_et_al_2020.pdf">https://weiszlab.fas.harvard.edu/files/jweisz/files/lorenzo-luaces_et_al_2020.pdf</a>
+</div>
+<div id="ref-van2021cross" class="csl-entry">
+Van Bronswijk, S. C., Bruijniks, S. J., Lorenzo-Luaces, L., Derubeis, R.
+J., Lemmens, L. H., Peeters, F. P., &amp; Huibers, M. J. (2021).
+Cross-trial prediction in psychotherapy: External validation of the
+<span class="nocase">Personalized Advantage Index using machine learning
+in two Dutch randomized trials comparing CBT versus IPT</span> for
+depression. <em>Psychotherapy Research</em>, <em>31</em>(1), 78–91. <a
+href="https://www.tandfonline.com/doi/pdf/10.1080/10503307.2020.1823029?needAccess=true&amp;role=button">https://www.tandfonline.com/doi/pdf/10.1080/10503307.2020.1823029?needAccess=true&amp;role=button</a>
+</div>
+</div>
 </div>
 </div>
 

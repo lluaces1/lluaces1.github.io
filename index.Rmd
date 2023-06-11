@@ -9,7 +9,7 @@ title: " "
 
 <h3>
 
-This is a *work in progress* as the website for Prof. Lorenzo-Luaces' lab, the Study of Affective Disorders' Classification and Treatment (SADCAT) Lab.  The SADCAT Lab is currently housed at Indiana University - Bloomington in the Department of Psychological and Brain Sciences. We're excited to share our work and our vision for psychological and brain sciences with you!
+This is a *work in progress* as the website for Prof. Lorenzo-Luaces' [**lab**](https://psych.indiana.edu/directory/faculty/lorenzo-luaces-lorenzo.html), the Study of Affective Disorders' Classification and Treatment (SADCAT) Lab.  The SADCAT Lab is currently housed at [**Indiana University - Bloomington**](https://www.indiana.edu/) in the [**Department of Psychological and Brain Sciences**](https://psych.indiana.edu/). We study internalizing symptoms like depression and anxiety with a focus on cognitive-behavioral therapies (CBTs), the role of technology in mental health and its treatment, and the application of data science methods to clinical psychology. We're excited to share our work and our vision for psychological and brain sciences with you!
 
 </h3>
 
@@ -29,6 +29,8 @@ This is a *work in progress* as the website for Prof. Lorenzo-Luaces' lab, the S
 </div>
 </div>
 
+<center>
+
 <div class = "row">
 
 ![ ](pictures/topics.png){height=300px width=400px}
@@ -36,3 +38,4 @@ This is a *work in progress* as the website for Prof. Lorenzo-Luaces' lab, the S
 
 </div>
 
+</center>
