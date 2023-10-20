@@ -13,7 +13,7 @@
 
 <title>Surveys of Online Cohorts for Internalizing symptoms And Language (SOCIAL)</title>
 
-<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.23/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
@@ -178,8 +178,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -187,16 +187,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -273,6 +266,9 @@ $(document).ready(function () {
 <li>
   <a href="resources.html">Resources</a>
 </li>
+<li>
+  <a href="media.html">Media</a>
+</li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         
@@ -345,7 +341,7 @@ href="https://twitter.com/">Twitter</a>. <br></p>
 <p><img src="pictures/LLL.jpg" width="125" height="125" /></p>
 <p><a
 href="https://psych.indiana.edu/directory/faculty/lorenzo-luaces-lorenzo.html">Lorenzo
-Lorenzo-Luaces, PhD <br> Assistant Professor <br> Psychological and
+Lorenzo-Luaces, PhD <br> Associate Professor <br> Psychological and
 Brain Sciences</a></p>
 </div>
 <div class="col-md-6">
