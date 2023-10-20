@@ -2,8 +2,6 @@
 title: " "
 ---
 
-
-
 <style>
   .nav-pills>li>a:hover, 
   .nav-pills>li>a:focus, 
@@ -56,9 +54,9 @@ I am broadly interested in the **classification** of mood and anxiety disorders 
 </div>
 
 <div class = "col-md-6">
-![**Jacqueline Howard, BA <br> SADCAT Lab Manager <br> Indiana University-Bloomington <br> E-mail:** jacqhowa@iu.edu](pictures/JH.jpg){height=175px width=175px}
+![**Clare Dierckman <br> SADCAT Lab Manager <br> Indiana University-Bloomington <br> E-mail:**  cdierck@iu.edu](pictures/CD.jpg){height=175px width=175px}
 
-My primary research interests focus on **dissemination** and **implementation**, specifically the implementation of measurement-based care in community settings, as well as the impact of **trauma** on functioning and **emotion regulation**. Currently I am working on a project assessing whether anxiety is a superior predictor of decreased functioning and well-being in individuals with symptoms of borderline personality disorder (BPD). 
+I am an undergraduate student pursuing a BS in Clinical Psychological Science and a BS in Informatics, with my cognate in Public Health. My research interests include using social media as a way to understand the public’s perceptions and attitudes toward various mental health topics, such as treatment options or diagnoses. Additionally, I have taken interest in exploring mis/disinformation about topics in mental health on social media.
 </div>
 </div>
 
@@ -118,6 +116,11 @@ My research interests include *internet-based treatments* for psychological prob
 
 #### **Past lab members**
 
+***
+
+![**Jacqueline Howard, BA <br> SADCAT Lab Manager <br> Indiana University-Bloomington <br> E-mail:** jacqhowa@iu.edu](pictures/JH.jpg){height=175px width=175px}
+
+My primary research interests focus on **dissemination** and **implementation**, specifically the implementation of measurement-based care in community settings, as well as the impact of **trauma** on functioning and **emotion regulation**. Among the projects I worked on was a project assessing whether anxiety is a superior predictor of decreased functioning and well-being in individuals with symptoms of borderline personality disorder (BPD). This lead to a first author publication in [PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245099).
 
 ***
 

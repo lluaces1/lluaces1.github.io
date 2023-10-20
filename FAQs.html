@@ -13,7 +13,7 @@
 
 <title>FAQs.knit</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.23/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
@@ -141,11 +141,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -174,8 +178,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -183,16 +187,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -328,8 +325,22 @@ answers to questions I often get:</h1>
 <div id="potential-students-undergraduate" class="section level2">
 <h2><strong>Potential students (undergraduate)</strong></h2>
 <p><br></p>
-<p>This section is still “in progress.” Please check back at a later
-date.</p>
+<p>This section is still “in progress” but if you would like to be
+considered to be a research assistant (RA) in the lab please fill out
+the survey below. Note, that we get a lot of people interested in the
+lab. When choosing new RAs, we try to prioritize the length of time
+someone has been waiting, their interests and availability, and other
+considerations (e.g., what the lab currently looks like). Usually, we
+ask students to do a semester as volunteers, followed by semesters
+either getting credit (e.g., PSYX397) or being paid, but not both. We do
+consider variations to this arrangement, for example if you cannot do
+the time as a volunteer but could do it if you started on credit.</p>
+<p>The survey is <a
+href="https://iu.co1.qualtrics.com/jfe/form/SV_9Z77lTMmbzRZN30"><strong>here</strong></a>
+or paste <a
+href="https://iu.co1.qualtrics.com/jfe/form/SV_9Z77lTMmbzRZN30"
+class="uri">https://iu.co1.qualtrics.com/jfe/form/SV_9Z77lTMmbzRZN30</a>
+on your browser.</p>
 </div>
 <div id="potential-students-graduate" class="section level2">
 <h2><strong>Potential students (graduate)</strong></h2>
@@ -353,7 +364,7 @@ opinions. It is therefore not representative of Indiana University, my
 home department Psychological and Brain Sciences, or of any other
 faculty members in our program.</p>
 <p><strong>Will you be accepting a new PhD student to begin in Fall
-2024?</strong> As of right now 2023-06-01, I will be accepting new
+2024?</strong> As of right now 2023-09-25, I will be accepting new
 students.</p>
 <p><strong>Are my interests a good for for the lab?</strong> Applicants
 with the following interests may be good fits to our lab:</p>
@@ -619,7 +630,7 @@ questions about your lab?</strong> Certainly! Their email addresses are
 available on our lab website</p>
 <p>This guide was originally developed by Jessica Schleider, PhD, and
 was adapted for the SADCAT Lab with the latest version adapted in
-2023-06-01</p>
+2023-09-25</p>
 </h3>
 </div>
 </div>
