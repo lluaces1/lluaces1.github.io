@@ -18,6 +18,8 @@ navbar:
       href: FAQs.html
     - text: "Resources"
       href: resources.html
+    - text: "Media"
+      href: media.html
 output:
   html_document:
     theme: cosmo
