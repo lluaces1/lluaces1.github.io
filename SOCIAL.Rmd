@@ -59,7 +59,7 @@ The studys represent an interdisciplinary approach to studying mental health tha
 <div class = "col-md-6">
 ![](pictures/LLL.jpg){height=125 width=125px}
 
-[Lorenzo Lorenzo-Luaces, PhD <br> Assistant Professor <br> Psychological and Brain Sciences](https://psych.indiana.edu/directory/faculty/lorenzo-luaces-lorenzo.html)
+[Lorenzo Lorenzo-Luaces, PhD <br> Associate Professor <br> Psychological and Brain Sciences](https://psych.indiana.edu/directory/faculty/lorenzo-luaces-lorenzo.html)
 </div>
 
 <div class = "col-md-6">
