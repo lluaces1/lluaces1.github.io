@@ -66,10 +66,6 @@ As of `r Sys.Date()`, I am not expecting to take graduate students for the acade
 **Why make this?**
 Applying to graduate school is currently an uneven "playing field." Applicants without access to well-established mentors, parents who have graduate degrees, or other professional connections may have less access to information on how to apply for school. I hope that by sharing inside knowledge on my process, I can level the playing field a little, at least when applying to work with me. <br> Please note that the document represents my personal opinions. It is therefore not representative of Indiana University, my home department Psychological and Brain Sciences, or of any other faculty members in our program.
  
-**Will you be accepting a new PhD student to begin in Fall 2024?**
-As of right now `r Sys.Date()`, I will be accepting new students. 
-
-
 **Are my interests a good for for the lab?**
 Applicants with the following interests may be good fits to our lab:
 
