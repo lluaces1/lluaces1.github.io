@@ -32,10 +32,25 @@ a:active {
 # Here are resources that the lab often uses, but were not developed by us! {.tabset .tabset-fade .tabset-pills}
 <br>
 
+## **COMET-Behavioral activation (BA) from Prolific study** 
+
+COMET-BA is an online program that our research team is studying to help people reduce stress, sadness, and anxiety and improve their well-being. We studied COMET-BA in over 800 people across the U.S. and found it was effective for reducing depression and anxiety and increased people's abilities to cope well. In the program, you will be asked to read about and briefly practice a skill to improve your well-being. We designed the program to take ***about 10 minutes*** in each module. We recommend doing the modules one week apart, in order, and to spend time between each module to practice the exercises.
+
+Good luck and thank you for your interest in our work
+
+[**Week 1: Activity scheduling**](https://iu.co1.qualtrics.com/jfe/form/SV_9nSPBdaWonFLY90)
+
+[**Week 2: Avoidance**](https://iu.co1.qualtrics.com/jfe/form/SV_1FGUDtBSM2i6p5c)
+
+[**Week 3: Values**](https://iu.co1.qualtrics.com/jfe/form/SV_3Dd8ojuAdwPbhJk)
+
+[**Week 4: Change plan**](https://iu.co1.qualtrics.com/jfe/form/SV_79Q1BLbqPrH8BNk)
+
+
 ## **Doing what matters in times of stress (book)** 
 
 
-This guide was developed by [World Health Organization](https://www.who.int/publications/i/item/9789240003927) for help dealing with stress. You can find the guide below! If you were in one of our studies that used the guide, also look for it in your e-mail.
+This guide was developed by the [World Health Organization](https://www.who.int/publications/i/item/9789240003927) for help dealing with stress. You can find the guide below! If you were in one of our studies that used the guide, also look for it in your e-mail.
 
 Please note: You won't be able to open this from your cellphone. If you want to access it online go here: https://www.who.int/publications/i/item/9789240003927 or e-mail us lolorenz@iu.edu to get a copy!
 
