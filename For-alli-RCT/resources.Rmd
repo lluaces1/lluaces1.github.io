@@ -1,0 +1,72 @@
+---
+output: html_document
+---
+
+
+<style>
+  .nav-pills>li>a:hover, 
+  .nav-pills>li>a:focus, 
+  .nav-pills>li.active>a,     
+  .nav-pills>li.active>a:hover, 
+  .nav-pills>li.active>a:focus{
+     background-color: #990000;
+     }
+
+a:link {
+  color: #990000;
+}
+
+a:visited {
+  color: #BD0000;
+}
+
+a:hover {
+  color: #A7A9AB;
+}
+
+a:active {
+  color: #990000;
+}
+</style>
+
+# Here are resources that the lab has studied for help with depression and anxiety! {.tabset .tabset-fade .tabset-pills}
+<br>
+
+## **COMET behavioral activation (COMET-BA) 4-week program**
+
+The links below take you to our 4-week COMET-BA program for depression. We make this free for everyone. You may have come here from Prolific if you were in the "weekly survey control group" part of our study or if were in the COMET-BA group and want to refresh the material. Or, maybe you just stumbled upon this on the web! In the study with over 800 online workers, we found that the intervention was effective in reducing depression, reducing anxiety, and improving how people function at work and school while also helping them manage their emotions better by looking at things from different perspectives and scheduling activities.
+
+We recommend you do these in order and about a week apart because that's how we studied them!
+
+[Week 1: Scheduling activities](https://iu.co1.qualtrics.com/jfe/form/SV_9nSPBdaWonFLY90) or use this link on your browser: https://iu.co1.qualtrics.com/jfe/form/SV_9nSPBdaWonFLY90
+
+[Week 2: Avoidance](https://iu.co1.qualtrics.com/jfe/form/SV_1FGUDtBSM2i6p5c) or use this link on your browser: https://iu.co1.qualtrics.com/jfe/form/SV_1FGUDtBSM2i6p5c
+
+[Week 3: Values](https://iu.co1.qualtrics.com/jfe/form/SV_1FGUDtBSM2i6p5c) or use this link on your browser
+
+[Week 4: Change plan](https://iu.co1.qualtrics.com/jfe/form/SV_79Q1BLbqPrH8BNk) or use this link on your browser
+
+
+## **Doing what matters in times of stress (book)** 
+
+
+This guide was developed by [World Health Organization](https://www.who.int/publications/i/item/9789240003927) for help dealing with stress. You can find the guide below! If you were in one of our studies that used the guide, also look for it in your e-mail.
+
+Please note: You won't be able to open this from your cellphone. If you want to access it online go here: https://www.who.int/publications/i/item/9789240003927 or e-mail us lolorenz@iu.edu to get a copy!
+
+
+![Doing what matters](DWM.pdf){height=1000px width=1000px}
+
+
+## **COMET single-session intervention (30-40 minutes)**
+
+The COMET intervention was developed by Akash Wasill and colleagues at the University of Pennsylvania. 
+
+You can find the intervention [here](https://iu.co1.qualtrics.com/jfe/form/SV_3ZTVTVj6jbYfG7A). If you want to enter the URL in your web browser, this is the address: https://iu.co1.qualtrics.com/jfe/form/SV_3ZTVTVj6jbYfG7A
+
+## **Consent for our "Doing what matters" study**
+
+If you were a participant in our study on combining the COMET single-session intervention plus the book "Doing What Matters in Times of Stress," this is the consent form:
+
+![Consent form for our study](ICS.pdf){height=1000px width=1000px}
+
