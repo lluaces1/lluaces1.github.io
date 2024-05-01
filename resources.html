@@ -13,7 +13,7 @@
 
 <title>resources.knit</title>
 
-<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.23/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
@@ -178,8 +178,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -187,16 +187,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -273,6 +266,9 @@ $(document).ready(function () {
 <li>
   <a href="resources.html">Resources</a>
 </li>
+<li>
+  <a href="media.html">Media</a>
+</li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         
@@ -320,10 +316,37 @@ class="section level1 tabset tabset-fade tabset-pills">
 <h1 class="tabset tabset-fade tabset-pills">Here are resources that the
 lab often uses, but were not developed by us!</h1>
 <p><br></p>
+<div id="comet-behavioral-activation-ba-from-prolific-study"
+class="section level2">
+<h2><strong>COMET-Behavioral activation (BA) from Prolific
+study</strong></h2>
+<p>COMET-BA is an online program that our research team is studying to
+help people reduce stress, sadness, and anxiety and improve their
+well-being. We studied COMET-BA in over 800 people across the U.S. and
+found it was effective for reducing depression and anxiety and increased
+people’s abilities to cope well. In the program, you will be asked to
+read about and briefly practice a skill to improve your well-being. We
+designed the program to take <strong><em>about 10 minutes</em></strong>
+in each module. We recommend doing the modules one week apart, in order,
+and to spend time between each module to practice the exercises.</p>
+<p>Good luck and thank you for your interest in our work</p>
+<p><a
+href="https://iu.co1.qualtrics.com/jfe/form/SV_9nSPBdaWonFLY90"><strong>Week
+1: Activity scheduling</strong></a></p>
+<p><a
+href="https://iu.co1.qualtrics.com/jfe/form/SV_1FGUDtBSM2i6p5c"><strong>Week
+2: Avoidance</strong></a></p>
+<p><a
+href="https://iu.co1.qualtrics.com/jfe/form/SV_3Dd8ojuAdwPbhJk"><strong>Week
+3: Values</strong></a></p>
+<p><a
+href="https://iu.co1.qualtrics.com/jfe/form/SV_79Q1BLbqPrH8BNk"><strong>Week
+4: Change plan</strong></a></p>
+</div>
 <div id="doing-what-matters-in-times-of-stress-book"
 class="section level2">
 <h2><strong>Doing what matters in times of stress (book)</strong></h2>
-<p>This guide was developed by <a
+<p>This guide was developed by the <a
 href="https://www.who.int/publications/i/item/9789240003927">World
 Health Organization</a> for help dealing with stress. You can find the
 guide below! If you were in one of our studies that used the guide, also
