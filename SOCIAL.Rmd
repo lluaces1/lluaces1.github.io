@@ -59,14 +59,14 @@ The studys represent an interdisciplinary approach to studying mental health tha
 <div class = "col-md-6">
 ![](pictures/LLL.jpg){height=125 width=125px}
 
-[Lorenzo Lorenzo-Luaces, PhD <br> Associate Professor <br> Psychological and Brain Sciences](https://psych.indiana.edu/directory/faculty/lorenzo-luaces-lorenzo.html)
+[Lorenzo Lorenzo-Luaces, PhD <br> Associate Chair, Associate Professor <br> Psychological and Brain Sciences](https://psych.indiana.edu/directory/faculty/lorenzo-luaces-lorenzo.html)
 </div>
 
 <div class = "col-md-6">
 
 ![](pictures/LAR.jpg){height=125 width=125px}
 
-[Lauren A. Rutter, PhD <br> Research Scientist <br> Psychological and Brain Sciences](https://psych.indiana.edu/directory/faculty/rutter-lauren.html)
+[Lauren A. Rutter, PhD <br> Assistant Professor <br> Psychological and Brain Sciences](https://psych.indiana.edu/directory/faculty/rutter-lauren.html)
 </div>
 
 </div>
@@ -77,7 +77,7 @@ The studys represent an interdisciplinary approach to studying mental health tha
 <div class = "col-md-6">
 ![](pictures/JoB.jpg){height=125 width=125px}
 
-[Johan Bollen, PhD <br> Professor <br> Luddy School of Informatics](https://homes.luddy.indiana.edu/jbollen/)
+[Johan Bollen, PhD <br> Chair, Professor <br> Luddy School of Informatics](https://homes.luddy.indiana.edu/jbollen/)
 </div>
 
 
