@@ -56,29 +56,31 @@ The survey is [**here**](https://iu.co1.qualtrics.com/jfe/form/SV_9Z77lTMmbzRZN3
 
 <br>
 
-As of `r Sys.Date()`, I am expecting to take graduate students for the academic year 2024-2025. Below are some recommendations for when I am taking students:
+As of `r Sys.Date()`, I am expecting to take graduate students for the next academic year. Below are some recommendations for when I am taking students:
 
-*Please note: For this document, I borrowed **very heavily** from a similar document by [Prof. Jessica Schleider](https://www.stonybrook.edu/commcms/psychology/faculty/faculty_profiles/jschleider) at [Stony Brook University](https://www.stonybrook.edu/). Apply to work with her as well! Below are some questions I have gotten, or anticipate getting from potential graduate students*:
+*Please note: For this document, I borrowed **very heavily** from a similar document by Prof. Jessica Schleider. Apply to work with her as well! Below are some questions I have gotten, or anticipate getting from potential graduate students*:
 
 <br>
 
  
 **Why make this?**
-Applying to graduate school is currently an uneven "playing field." Applicants without access to well-established mentors, parents who have graduate degrees, or other professional connections may have less access to information on how to apply for school. I hope that by sharing inside knowledge on my process, I can level the playing field a little, at least when applying to work with me. <br> Please note that the document represents my personal opinions. It is therefore not representative of Indiana University, my home department Psychological and Brain Sciences, or of any other faculty members in our program.
- 
+Applying to graduate school is currently an uneven "playing field." Applicants without access to well-established mentors, parents who have graduate degrees, or other professional connections may have less access to information on how to apply for school. I hope that by sharing inside knowledge on my process, I can "level" the playing field a little, at least when applying to work with me. <br> Please note that the document represents my personal opinions. It is therefore not representative of Indiana University, my home department Psychological and Brain Sciences, or of any other faculty members in our program. I would not be writing something if I didn't think it would be helpful for others but just be mindful that some advice may not apply outside my lab.
+
+<br>
+
 **Are my interests a good for for the lab?**
 Applicants with the following interests may be good fits to our lab:
 
+- **Social media** and adolescent mental health
 - Scalable, brief and **low-intensity** psychosocial interventions, especially web-based and self-administered interventions (e.g., guided bibliotherapy) for reducing depression and anxiety
 - **Dissemination** of mental health services beyond traditional clinical settings
 - Studying **predictors and moderators** of treatment outcomes in cognitive-behavioral therapies (CBTs) for depression and anxiety
 - Studying **processes** of change in cognitive-behavioral therapies (CBTs) and other treatments for depression and anxiety
 - Using advanced **quantitative methods** to study questions of change in psychotherapy
-- Measuring vulnerability to common mental disorder via **social media**. (This would require collaboration with our colleagues at Informatics)
 
-As a mentor, I feel best-prepared to support students who are interested in careers that involve applied research. This includes a wide variety of career paths, including academic faculty positions, e.g. in departments of psychology, education, social work, or public health; and combined clinical-research careers, e.g. in academic medical centers.
+As a mentor, I feel best-prepared to support students who are interested in careers that involve applied research. This includes a wide variety of career paths, including academic faculty positions like departments of psychology, education, social work, or public health. I may not be the most effective mentor for applicants who are interested entirely in clinical practice careers as my clinical practice has only ever been part-time. There's also some career paths like "consulting" where I have a little bit of experience but don't feel like I am an expert in.
 
-I may not be the most effective mentor for applicants who are interested entirely in clinical practice careers as my clinical practice has only ever been part-time.
+<br>
 
 **How can I learn more about you and your research?**
 Below are the papers that are most representative of how I think about depression:
@@ -89,23 +91,39 @@ Below are the papers that are most representative of how I think about depressio
 - Lorenzo-Luaces, L., DeRubeis, R.J., & Webb, C.A. (2014). Client characteristics as moderators of the relation between the therapeutic alliance and outcome in cognitive therapy for depression. Journal of Consulting and Clinical Psychology, 82, 368 – 373.
 - Lorenzo-Luaces, L., & Howard, J. (*in press*). Efficacy of a single session intervention for depression in online workers: A randomized controlled trial with transdiagnostic mental health outcomes. *Journal of Medical Internet Research.*
 
+<br>
+
+
 **What about the GRE? How important are my scores?**
-I don’t care about it, I won’t look at it. The only time in which I may consider your GRE is if you explicitly mention that your undergraduate GPA is low but you would like your GRE considered because it “makes up” for a lower GPA.
+I don’t care about it, I won’t look at it. The only time in which I may consider your GRE is if ***you*** explicitly mention that your undergraduate GPA is low but you would like your GRE considered because it “makes up” for a lower GPA. My own GRE was not great, I was in the 95% in essays, on the 88% in verbal, and around 55% in math... I don't think these scores are representative of how I do in those areas but that's what I got!
+
+<br>
 
 **My undergraduate GPA is below 3.5 (or some other number). Will this remove me from consideration?**
-No. Many factors can influence one’s GPA, including competing commitments (e.g., working part-time while in school), family obligations, and health challenges. Academic achievement is very important, but context is, too. If you believe your GPA does not reflect your potential as a future scientist, please either ask one of your recommenders to share more about your circumstances to help me assess your achievements, or provide this information in your personal statement in a measured manner that you feel comfortable with. For example, if your undergraduate GPA is low because you were in an unhealthy relationship, you can simply say you had "personal problems."
+No. Many factors can influence one’s GPA, including competing commitments (e.g., working while in school), family obligations, and health challenges. Academic achievement is very important, but context is, too. If you believe your GPA does not reflect your potential as a future scientist, please either ask one of your letter-writers to share more about your circumstances to help me assess your achievements, or provide this information in your personal statement in a manner that you feel comfortable with. For example, if your undergraduate GPA is low because you were in an unhealthy relationship, you can simply say you had "personal problems."
+
+<br>
+
 
 **Should I email you to express my interest in applying to your lab?**
-It's not needed. Although I welcome emails from prospective students with specific questions, your decision to email me (or not) will have no impact on your odds of receiving an interview invitation or an offer of admission. Whether or not you contact me in advance, prospective students are encouraged to review our online materials, including our publications and our lab website sadcatlab.com
+NO! I welcome emails from prospective students with specific questions. However, your decision to email me (or not) will have no impact on your odds of receiving an interview invitation or an offer of admission. Whether or not you contact me in advance, prospective students are encouraged to review our online materials, including our publications and our [lab website](sadcatlab.com). Truthfully, I review all applicants and I get too many e-mails so you don't need to e-mail me. That said, professors vary a lot on this; I just don't like e-mails.
+
+<br>
 
 **I am primarily interested in treatment of bipolar depression. You have published on this. Does this mean I’m a good fit for your lab?**
-It depends, we’d have to talk about it. I have collaborators who have conducted studies of bipolar II depression and therefore have some data for someone interested in this topic. However, it’s not my primary interest. If your interests included bipolar disorder (e.g., how are unipolar and bipolar disorder different) then that would probably be a good fit but if your interests were exclusive to bipolar, especially bipolar I (e.g., what cognitive factors maintain mania), then it’d be less of a fit. This would be a good reason to e-mail me!
+Probably not. We’d have to talk about it. I have collaborators who have conducted studies of bipolar II depression and therefore have some data for someone interested in this topic. However, it’s not my primary interest. If your interests included bipolar disorder (e.g., how are unipolar and bipolar disorder different) then that would probably be a good fit but if your interests were exclusive to bipolar, especially bipolar I (e.g., what cognitive factors maintain mania), then it’d be less of a fit. ***This would be a good reason to e-mail me!***
+
+<br>
 
 **I am interested in studying therapeutic alliance, relational processes in psychotherapy, and/or the effectiveness of traditional (face-to-face, clinic-based) treatments. Should I consider your lab? **
 Yes! You’ll note from my CV that this is something I am interested in. While the projects we have exploring psychotherapy processes are fewer and far between, the topic is important to me so I would welcome students who are interested!
 
+<br>
+
 **I want to study depression and scalable treatments but I don’t have experience with that research topic. Can I still apply to your lab?**
 Yes! My main aim is to recruit people who have research experience, in general. Most of the skills you developed should translate, it will be a matter of reading the content area knowledge.  If you have not engaged in depression research before, please note in your personal statement why you are interested in it and how you other research informs what you may think about depression.  
+
+<br>
  
 **What should I include in my personal statement?**
 I find it helpful when applicants include the following in their personal statements:
@@ -113,15 +131,25 @@ I find it helpful when applicants include the following in their personal statem
 1. A clear statement of your general research interests and how they relate to our lab’s mission and work
 2.  A statement about your career goals (even if they are approximate/might change)
 3.  Discussions of your independent research experience(s) and what you learned from them. In these discussions, I suggest emphasizing (1) the question that the broader research was trying to answer, (2) the skills you developed from working on each project (e.g., data collection in Qualtrics; coding/running analyses; interviewing children/families; writing certain sections of a paper; submitting/presenting a poster), and (3) what your “takeaways” were from the project—e.g., new research ideas or questions your work inspired.
+
+<br>
  
 **I am interested in becoming a therapist or incorporating clinical practice into my future career. I’ve heard that mentioning this in my application will hurt my admissions chances. Is this true?** 
-I aim to recruit students seeking rigorous training in both intervention research and clinical practice. Both skill-sets inform each other necessarily. Our lab tests interventions, so I view clinical training as especially important for trainees in our lab. At the same time, Indiana University’s clinical psychology program has a very strong clinical *science* orientation, and students who are happiest in our program tend to want careers that incorporate research in some way. Consistent with this orientation, I may not be the most effective mentor for applicants who are interested entirely in clinical practice careers. Moreover, if you want a primarily clinical experience, the program won’t be good for you because you’ll have to balance teaching and research obligations so you won’t get as much hours as you might in a PsyD program or a PhD that emphasized research less.
+I aim to recruit students seeking training in both intervention research and clinical practice. Our lab tests psychological interventions, so I view clinical training as especially important for trainees in our lab. At the same time, Indiana University’s clinical psychology program has a very strong clinical *science* orientation, and students who are happiest in our program tend to want careers that incorporate research in some way. Consistent with this orientation, I may not be the most effective mentor for applicants who know from day 1 that they are interested *entirely* in clinical practice careers. Moreover, if you want a primarily clinical experience, the program won’t be good for you because you’ll have to balance teaching and research obligations so you won’t get as much hours as you might in a PsyD program or a PhD that emphasized research less.
+
+<br>
  
 **My own experiences with mental health problems (e.g., my own, a friend’s, or a relative’s) shaped my interest in making treatments better/more accessible. I’ve been told not to mention this in my personal statement. Is this true?** 
-Speaking for only myself: no, for the most part. On the one hand, life experiences shape our career interests, trajectories, and goals in meaningful ways. There is nothing wrong with acknowledging intersections between our ‘human’ and ‘scientific’ selves. On the other hand, personal/lived experiences should not be the main focus of your personal statement. Your research interests, experiences, goals, and ‘fit’ to our lab are much more helpful to me when reviewing your application. So, it is ok to say something like: “I first learned about the lack of access to mental health treatment when seeking treatment for myself. My difficulty finding a provider made me interest in the empirical literature which documents that patients face long wait times before they can be seen. When I worked with Dr. Smith, his research sought to explore to what extent stigma made people more vs. less likely to overcome barriers to treatment.” To give you an example, I became interested in the validity of DSM diagnoses after a friend was diagnosed with bipolar “not otherwise specified.” But, this wasn’t enough to carry me all the way into grad school. I learned about the history of diagnoses and debates about their validity which caused me to purse a research project that was unrelated but gave me experience in mixed methods.
+Speaking for only myself: no, for the most part. On the one hand, life experiences shape our career interests, trajectories, and goals in meaningful ways. There is nothing wrong with acknowledging intersections between our ‘human’ and ‘scientific’ selves. On the other hand, personal/lived experiences should not be the main focus of your statement. Your research interests, experiences, goals, and ‘fit’ to our lab are much more helpful to me when reviewing your application. So, it is ok to say something like: “I first learned about the lack of access to mental health treatment when seeking treatment for myself. My difficulty finding a provider made me interest in the empirical literature which documents that patients face long wait times before they can be seen. When I worked with Prof. X, his research sought to explore to what extent stigma made people more vs. less likely to overcome barriers to treatment.” 
+<br>
+To give you an example, I became interested in the validity of DSM diagnoses after a friend was diagnosed with bipolar “not otherwise specified.” But, this wasn’t enough to carry me all the way into grad school. I learned about the history of diagnoses and debates about their validity which caused me to purse a research project that was unrelated but gave me experience in mixed methods.
+
+<br>
  
 **Is it advantageous to list multiple mentors of interest (or just one) on my application?**
-Yes, you should list multiple mentors of interest on your application! Our program is interdisciplinary and it is expected that you may want to work with others. I closely review all applications on which I am listed as a first-choice mentor. But, listing multiple mentors is important because part of our admission process involves making sure that there are other potential mentors in case the initial mentorship relation is not successful. Other professors who have similar interests include Profs. D’Onofrio (quantitative methods, treatment of internalizing disorders), Bates or Holtzworth-Munroe (psychosocial interventions), Krendl (stigma, treatment accessibility), and Green (emotion regulation and individual differences). 
+Yes, you should list multiple mentors of interest on your application! Our program is interdisciplinary and it is expected that you may want to work with others. I closely review all applications on which I am listed as a first-choice mentor. But, listing multiple mentors is important because part of our admission process involves making sure that there are other potential mentors in case the initial mentorship relation is not successful. Other professors who have similar interests include Profs. Rutter (quantitative methods, internalizing disorders, technology), D’Onofrio (quantitative methods, treatment of internalizing disorders), Bates or Holtzworth-Munroe (psychosocial interventions), Krendl (stigma, treatment accessibility), and Green (emotion regulation and individual differences). 
+
+<br>
 
 **How do I know if I am a “good fit” for the SADCAT Lab?**
 I review the applications of **all** the students who say the way to work with me. I rate the students and then send e-mails to around 10 people. Please note, I do not use a strict cut-off of 10 or even e-mail the 10 highest rated people. I consider the ratings and all the information to come up with a list of 10 students I want to get to know better. The factors I consider are:
@@ -134,11 +162,13 @@ I review the applications of **all** the students who say the way to work with m
 6. **Evidence of post-baccalaureate or graduate work.** If you have done a master's degree or post-bac to further your education, I count that as a plus! 
 7. **Quality of letters.** Getting recommendation letters early in one's career is very difficult! I basically expect only one relatively glowing recommendation letter written by someone you worked closely with. I don't care if the person is a graduate student or the CEO of Research, Inc. A lot of people will also have a letter that may be very brief, relatively unspecific, or from a professor who may know you are very smart and talented but has had somewhat limited interactions with you. That is OK. I expect the third letter will be somewhat in between the two I already discussed. This kind of set-up (long/glowing, brief/non-specific, and "medium") is what I'm expecting most people to have and gets an 8/10. Anything less gets a lower score. 
 
+<br>
 
 **Are there any other ‘screening criteria’ you use to review applications?**
 No. You work hard on your application materials. The least I can do is read them! (And all I can do is read applications from those who indicate that I am their preferred mentor.)
  
- 
+ <br>
+
 **Can I reach out to current PhD students in your lab if I have questions about your lab?**
 Certainly! Their email addresses are available on our [lab website](https://sadcatlab.com/people.html).
 
